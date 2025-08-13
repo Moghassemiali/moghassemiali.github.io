@@ -41,22 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* Override icon color in the author profile section */
-.author__urls i {
-  color: #0077b5; /* LinkedIn blue */
-}
-
-/* Optional: Specific platforms (override individually) */
-.author__urls i.fa-github {
-  color: #333; /* GitHub dark gray */
-}
-.author__urls i.fa-linkedin {
-  color: #0077b5; /* LinkedIn blue */
-}
-.author__urls i.fa-researchgate {
-  color: #00ccbb; /* ResearchGate greenish */
-}
-.author__urls i.ai-google-scholar {
-  color: #4285F4; /* Google Scholar blue */
-}
