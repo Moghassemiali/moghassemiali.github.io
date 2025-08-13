@@ -13,7 +13,7 @@ title                    : "Ali Moghassemi"
 title_separator          : "-"
 name                     : &name "Ali Moghassemi"
 description              : &description "Personal Website"
-url                      : https://moghassemiali.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : # https://moghassemiali.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moghassemiali/moghassemiali.github.io"
 
