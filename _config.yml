@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Ali Moghassemi, Ph.D."
+title                    : "Ali Moghassemi"
 title_separator          : "-"
 name                     : &name "Ali Moghassemi"
 description              : &description "Personal Website"
@@ -23,7 +23,7 @@ repository               : "moghassemiali/moghassemiali.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ali Moghassemi"
+  name             : "Ali Moghassemi, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Research Associate"
   location         : # "Earth"
