@@ -31,7 +31,7 @@ author_profile: true
 - **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi. “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. [doi](https://doi.org/10.1109/ACCESS.2023.3308523)
 
 ### 2022
-- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen. “Two Fast Metaheuristic Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022. [doi](https://doi.org/10.1016/j.ijepes.2021.107567)
+- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen. “Two Fast Metaheuristic Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022. [doi](https://doi.org/10.1016/j.ijepes.2021.107567) <span style="color:blue">[doi](https://doi.org/10.1109/ACCESS.2020.3048022)</span>
 
 ### 2021
 - D.S. Vanaja, A.A. Stonier, **A. Moghassemi**. “A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter,” *International Transactions on Electrical Energy Systems*, vol. 31, no. 12, p. e13135, 2021. [doi](https://doi.org/10.1002/2050-7038.13135)
