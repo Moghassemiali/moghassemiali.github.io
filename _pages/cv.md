@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Electronic Engineering, Clemson University University, GPA: 3.95/4, 08/2022 -- 05/2025
+  * **Dissertation:** Real-Time Active Thermal Management and Degradation Forecasting of PEBBs in All-Electric Ship Systems
+  * **Supervisor:** Dr. Christopher Edrington
+* M.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.81/4, 09/2013 -- 12/2015
+  * **Thesis:** Response and Reliability Improvement of Grid-Connected Photovoltaic Systems with Trans-Z-Source Inverter
+* B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.35/4, 09/2008 -- 07/2012
+  * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
+
 
 Work experience
 ======
