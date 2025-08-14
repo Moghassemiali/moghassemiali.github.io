@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 ------
+
 ABC
 ======
 * ABC
