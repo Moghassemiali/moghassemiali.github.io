@@ -7,7 +7,7 @@ author_profile: true
 ## Journal Articles
 
 ### 2025
-- **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang. “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025. [(Under Review)]
+- **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang. “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025. [<span style="color:blue">(Under Review)</span>]
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang. “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025. [(Under Review)]
 - A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington. “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025. [(Under Review)]
 - L. Timilsina, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington. “Real-Time Analysis of Battery Degradation in a Plug-In Hybrid Electric Vehicles During V2G Operation,” *SAE International Journal of Electrified Vehicles*, 2025. [(Under Review)]
