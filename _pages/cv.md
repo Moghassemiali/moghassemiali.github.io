@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Electronic Engineering, Clemson University University, GPA: 3.95/4, 08/2022 -- 05/2025
-  * **Dissertation:** Real-Time Active Thermal Management and Degradation Forecasting of PEBBs in All-Electric Ship Systems
+* Ph.D in Electrical and Electronic Engineering, Clemson University, GPA: 3.95/4, 08/2022 -- 05/2025
+  * **Dissertation:** [Real-Time Active Thermal Management and Degradation Forecasting of PEBBs in All-Electric Ship Systems](https://open.clemson.edu/all_dissertations/3903/)
   * **Supervisor:** Dr. Christopher Edrington
 * M.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.81/4, 09/2013 -- 12/2015
   * **Thesis:** Response and Reliability Improvement of Grid-Connected Photovoltaic Systems with Trans-Z-Source Inverter
