@@ -5,6 +5,8 @@ permalink: /gallery/
 author_profile: true
 ---
 
+------
+
 My activities are shown here.
 
 # Academic activities
