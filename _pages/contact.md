@@ -5,6 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
+------
+
 Let’s connect! Whether you're interested in collaborating, discussing research, or exploring new ideas in power electronics and electrified transport — feel free to reach out.
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
