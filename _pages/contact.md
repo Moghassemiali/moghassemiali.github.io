@@ -16,18 +16,9 @@ Let’s connect! Whether you're interested in collaborating, discussing research
     📍 <strong>University of Wisconsin–Milwaukee</strong><br>
     Office: University Services and Research Building (USRB), Room 201J, 115 E Reindl Way, Glendale, WI 53212<br><br>
     📧 <strong>Email:</strong> <a href="mailto:moghasse@uwm.edu">moghasse@uwm.edu</a><br>
-    💬 <strong>Microsoft Teams:</strong> [Chat or Call](https://teams.microsoft.com/l/chat/0/0?users=moghasse@uwm.edu)  
-    <!-- Or if you have a direct Teams number/phone, replace the link above -->
+    💬 <strong>Microsoft Teams:</strong> 414-251-6412
   </div>
 
   <!-- Google Map Embed -->
-  <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2919.351329606181!2d-87.92368128456158!3d43.14449997914019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880519d95e6ad3fb%3A0x1cb0d3fcbe91e145!2sUniversity%20Services%20and%20Research%20Building%20(USRB)%2C%20115%20E%20Reindl%20Way%2C%20Glendale%2C%20WI%2053212%2C%20USA!5e0!3m2!1sen!2sus!4v1720816400000!5m2!1sen!2sus" 
-    width="300" 
-    height="250" 
-    style="border:0; border-radius:8px;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.254746606877!2d-87.9101754029149!3d43.09105903326749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88051feef6ad5bfd%3A0x592191ab5114cf21!2sUWM%20USR%20Building!5e0!3m2!1sen!2sus!4v1755275722482!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
