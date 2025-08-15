@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact"
+title: " 📬 Contact"
 permalink: /contact/
 author_profile: true
 ---
@@ -15,7 +15,6 @@ Let’s connect! Whether you're interested in collaborating, discussing research
   <div>
     📍 <strong>University of Wisconsin–Milwaukee</strong><br>
     Office: University Services and Research Building (USRB), Room 201J, 115 E Reindl Way, Glendale, WI 53212<br><br>
-
     📧 <strong>Email:</strong> <a href="mailto:moghasse@uwm.edu">moghasse@uwm.edu</a><br>
     💬 <strong>Microsoft Teams:</strong> [Chat or Call](https://teams.microsoft.com/l/chat/0/0?users=moghasse@uwm.edu)  
     <!-- Or if you have a direct Teams number/phone, replace the link above -->
