@@ -33,6 +33,7 @@ Academic Experience
     * **Supervision:** Provided guidance on experimental methods, coding practices, or writing techniques.
     * **Collaboration & Teamwork:** Contributed to lab management, group meetings, and collaborative initiatives.
 <br>
+
 * <span style="color:blue">**Graduate Research Assistant**</span>, Clemson University – Real Time Controls and Optimization Laboratory (RT-COOL), Clemson, SC, USA (08/2022 – 05/2025)
   * **Research group:** [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite)
   * **Supervisor:** Dr. Christopher Edrington
@@ -43,27 +44,32 @@ Academic Experience
       * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
       * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.}
 <br>
+
 * <span style="color:blue">**External Researcher**</span>, Aarhus University, Herning, Denmark (03/2021 – 06/2021)
   * **Contributions:**
     * Collaborated on *Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms* research project
     * Published one journal article funded by the *Science Foundation Ireland (SFI)*
 <br>
+
 * <span style="color:blue">**External Researcher**</span>, Aalborg University, Esbjerg, Denmark (11/2020 – 03/2021)
   * **Contributions:**
     * Collaborated on *Decarbonization of Grid with an Optimal Controller and Energy Management for Energy Storage System in Microgrid Applications* research project
     * Published one journal article funded by the *Ministry of Education (MOE)*, Malaysia
 <br>
+
 * <span style="color:blue">**University Lecturer**</span>, University of Applied Science and Technology, Tehran, Iran (01/2021 – 07/2021)
     * **Contributions:**
       * Taught undergraduate courses: Industrial Electronics, Power Systems Analysis, Protections and Relays, and Electric Machines.
       * Created structured assignments and project-based activities to enhance student understanding of theoretical concepts.
 <br>
+
 * <span style="color:blue">**Lecturer**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (09/2012 – 06/2016)
   * **Contributions:**
     * Taught MATLAB/Simulink software to undergraduate and graduate students.
     * Developed interactive tutorials and practical assignments for control systems modeling.
     * Provided individual mentoring to students on power electronics simulations.
 <br>
+
 * <span style="color:blue">**Teaching Assistant**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (09/2010 – 06/2015)
   * **Contributions:**
     * Assisted in teaching courses: Electric Circuit I/II, Electrical Measurements, Power Electronics I/II, Advanced Power Systems Operation, and Power System Planning.
@@ -79,6 +85,7 @@ Work Experience
     * Conducted technical meetings with clients, addressed their engineering needs, ensuring optimal solutions as per project specifications.
     * Led R&D initiatives, successfully enhanced proposed control system solutions.
 <br>
+
 * <span style="color:blue">**Intern**</span>, Paykar Bonyan Sanat (PBS) Company, Tehran, Iran (02/2012 – 06/2012)
   * **Contributions:**
     * Programmed Omron & Siemens PLCs
