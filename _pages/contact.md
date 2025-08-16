@@ -13,10 +13,8 @@ Let’s connect! Whether you're interested in collaborating, discussing research
 
   <!-- Contact Details -->
   <div>
-    📍 <strong>University of Wisconsin–Milwaukee</strong><br>
-    Office: University Services and Research Building (USRB) Room 201J
-            115 E Reindl Way,
-            Glendale, WI 53212 <br>
+    📍 <strong>Office:</strong><br>
+    UWM, USRB 201J, 115 E Reindl Way, Glendale, WI 53212 <br>
     📧 <strong>Email:</strong> <a href="mailto:moghasse@uwm.edu">moghasse@uwm.edu</a><br>
     💬 <strong>Microsoft Teams:</strong> 414-251-6412
   </div>
