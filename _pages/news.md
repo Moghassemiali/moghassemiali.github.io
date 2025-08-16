@@ -16,8 +16,7 @@ News and activities ...
 
 ### 05/05/2025
 - Recipient of the *Outstanding Graduate Researcher* from the Graduate School at Clemson University (university-wide)
-  - 💡 *Fun fact: This is the first time EVER in the history of Clemson University that an ECE department student has received such an award!*
-
+  - 💡 *Fun fact:* This is the first time EVER in the history of Clemson University that an ECE department student has received such an award!
 ### 04/24/2025
 - Recipient of the *Outstanding Graduate Researcher* from the Holcombe Electrical and Computer Engineering Department at Clemson University (department-wide award).
 
