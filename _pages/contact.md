@@ -13,8 +13,7 @@ Let’s connect! Whether you're interested in collaborating, discussing research
 
   <!-- Contact Details -->
   <div>
-    📍 <strong>Office:</strong><br>
-    UWM, USRB 201J, 115 E Reindl Way, Glendale, WI 53212 <br>
+    📍 <strong>Office:</strong> UWM, USRB 201J, 115 E Reindl Way, Glendale, WI 53212 <br>
     📧 <strong>Email:</strong> <a href="mailto:moghasse@uwm.edu">moghasse@uwm.edu</a><br>
     💬 <strong>Microsoft Teams:</strong> 414-251-6412
   </div>
