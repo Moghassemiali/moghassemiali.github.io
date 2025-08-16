@@ -36,7 +36,7 @@ Academic Experience
 
 <br>
 
-* <span style="color:blue">**Graduate Research Assistant**</span>, Clemson University – Real Time Controls and Optimization Laboratory (RT-COOL), Clemson, SC, USA (08/2022 – 05/2025)
+* <span style="color:blue">**Graduate Research Assistant**</span>, Clemson University, Clemson, SC (08/2022 – 05/2025)
   * **Research group:** [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite)
   * **Supervisor:** Dr. Christopher Edrington
   * **Contributions:**
