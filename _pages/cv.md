@@ -23,7 +23,7 @@ Education
 
 Academic Experience
 ======
-* **Post-Doctoral Research Associate**, University of Wisconsin-Milwaukee, Milwaukee, WI (06/2025 – Present)
+* <span style="color:blue">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (06/2025 – Present)
   * **Research group:** [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
   * **Supervisor:** Dr. Robert Cuzner  
   * **Contributions:**
@@ -82,5 +82,3 @@ Work Experience
   * **Contributions:**
     * Programmed Omron & Siemens PLCs
     * Controlled AC inverters
-* Hardware Prototyping (SiC/GaN devices, PCB design, inverter testbeds)  
-* Programming: MATLAB/Simulink, Python, C for DSP/FPGA, PLC programming  
