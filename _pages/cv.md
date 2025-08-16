@@ -20,6 +20,7 @@ Education
 * B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.35/4 (09/2008 - 07/2012)
   * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
 <br>
+
 Academic Experience
 ======
 * <span style="color:blue">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (06/2025 – Present)
@@ -68,6 +69,7 @@ Academic Experience
     * Assisted in teaching courses: Electric Circuit I/II, Electrical Measurements, Power Electronics I/II, Advanced Power Systems Operation, and Power System Planning.
     * Graded assignments, provided academic support, and given exams.
 <br>
+
 Work Experience
 ======
 * <span style="color:blue">**Technical Expert**</span>, Intelligent Control & Processing (ICP) Company, Tehran, Iran (06/2021 – 08/2022)
