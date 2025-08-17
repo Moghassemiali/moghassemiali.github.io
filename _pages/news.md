@@ -7,20 +7,20 @@ author_profile: true
 
 Some recent(-ish) news and activities:
 
-### 06/01/2025
+### June 1, 2025
 - Started new role as Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee, Milwaukee, WI.
 - Joined [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
 
-### 05/06/2025
+### May 6, 2025
 - Officially hooded and received my Ph.D. in Electrical Engineering from Clemson University.
 
-### 05/05/2025
+### May 5, 2025
 - Recipient of the *Outstanding Graduate Researcher* from the Graduate School at Clemson University (university-wide award)
 
-### 04/24/2025
+### April 24, 2025
 - Recipient of the *Outstanding Graduate Researcher* from the Holcombe Electrical and Computer Engineering Department at Clemson University (department-wide award).
 
-### 09/24/2024
+### September 24, 2024
 - Successfully passed my Comprehensive Exam and promoted to Ph.D. candidacy.
 
 ### 03/28/2023
