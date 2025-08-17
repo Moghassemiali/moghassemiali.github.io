@@ -99,3 +99,15 @@ Work Experience
   * **Contributions:**
     * Programmed Omron & Siemens PLCs
     * Controlled AC inverters
+
+<br>
+
+Reviewer/Editor Experience
+======
+* <span style="color:blue">**Editor**</span>
+  * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor, (06/2025 - Present)
+  * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), (07/2022 - Present)
+
+* <span style="color:blue">**Reviewer**</span>
+  * Active reviewer for several top-tier peer-reviewed journals and conferences, with 211 verified reviews.
+  * A complete list of journals and conferences is available on my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
