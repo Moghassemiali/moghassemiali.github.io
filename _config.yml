@@ -29,7 +29,7 @@ author:
   location         : # "Earth"
   employer         : "University of Wisconsin-Milwaukee"
   uri              : # URL
-  email            : "moghasse@uwm.edu" 
+  email            : #"moghasse@uwm.edu" 
 
   # Academic websites
   academia         : # URL
