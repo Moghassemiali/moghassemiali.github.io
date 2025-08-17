@@ -132,4 +132,4 @@ Skills
 * <span style="color:blue">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
 * <span style="color:blue">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
 * <span style="color:blue">**Professional and Interpersonal:**</span> Enthusiastic Learner, Self-Motivated, Leadership, Mentorship, Critical Thinking, Problem Solving, Oral and Written Communication, Presentation, Time Management, Creativity, Adaptability, Teamwork
-* * <span style="color:blue">**Language:**</span> English (Fluent), German (Basic), Persian (Native)
+* <span style="color:blue">**Language:**</span> English (Fluent), German (Basic), Persian (Native)
