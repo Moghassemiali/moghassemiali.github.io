@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " 👋 Welcome!"
+# title: "About Ali Moghassemi"
 author_profile: true
 redirect_from: 
   - /about/
