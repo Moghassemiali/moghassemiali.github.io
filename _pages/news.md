@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-News and activities ...
+Some recent(-ish) news and activities:
 
 ### 06/01/2025
 - Started new role as Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee, Milwaukee, WI.
