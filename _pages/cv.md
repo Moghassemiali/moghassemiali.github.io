@@ -20,6 +20,7 @@ redirect_from:
 * B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch (September 2008 - July 2012)
   * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
 <br>
+
 ## Academic Experience
 
 * <span style="color:blue">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
@@ -67,7 +68,6 @@ redirect_from:
   * **Contributions:**
     * Assisted in teaching courses: Electric Circuit I/II, Electrical Measurements, Power Electronics I/II, Advanced Power Systems Operation, and Power System Planning.
     * Graded assignments, provided academic support, and given exams.
-
 <br>
 
 ## Work Experience
@@ -83,7 +83,6 @@ redirect_from:
   * **Contributions:**
     * Programmed Omron & Siemens PLCs
     * Controlled AC inverters
-
 <br>
 
 ## Honors and Awards
@@ -96,7 +95,6 @@ redirect_from:
 * February 2022, <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
 * December 2013, <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch
 * February 2009, <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
-
 <br>
 
 ## Service Experience
@@ -107,7 +105,6 @@ redirect_from:
 <br>
 * <span style="color:blue">**Reviewer**</span>
   * Top-tier journals and conferences (213+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
-
 <br>
 
 ## Skills
