@@ -29,9 +29,9 @@ redirect_from:
   * **Contributions:**
     * **NiPEC-PEPDS Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed integration framework for PEPDS, focusing on Virtual Prototyping Process (VPP) leading to metamodels of Power Electronic Power Distribution System (PEPDS) equipment within the Navy.  
     * **Tech candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the Power Electronic Power Distribution System (PEPDS) integration team to bring a range of technologies developed on the PEPDS.
-    * **Mentorship:** Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
-    * **Supervision:** Provided guidance on experimental methods, coding practices, or writing techniques.
-    * **Collaboration & Teamwork:** Contributed to lab management, group meetings, and collaborative initiatives.
+    * Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
+    * Provided guidance on experimental methods, coding practices, or writing techniques.
+    * Contributed to lab management, group meetings, and collaborative initiatives.
 <br>
 * <span style="color:blue">**Graduate Research Assistant**</span>, Clemson University, Clemson, SC (August 2022 – May 2025)
   * **Research group:** [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite)
