@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 ------
 
-Education
-======
-* Ph.D in Electrical Engineering, Clemson University, GPA: 3.95/4 (08/2022 - 05/2025)
+## Education
+
+* Ph.D. in Electrical Engineering, Clemson University, GPA: 3.95/4 (08/2022 - 05/2025)
   * **Dissertation:** [Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships](https://open.clemson.edu/all_dissertations/3903/)
   * **Supervisor:** Dr. Christopher Edrington
 * M.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.81/4 (09/2013 - 12/2015)
@@ -22,8 +22,8 @@ Education
 
 <br>
 
-Academic Experience
-======
+## Academic Experience
+
 * <span style="color:blue">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (06/2025 – Present)
   * **Research group:** [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
   * **Supervisor:** Dr. Robert Cuzner  
@@ -44,7 +44,7 @@ Academic Experience
     * **Dynamometer Test Bed:**
       * Designed, modeled, controlled, prototyped, and validated a dyno testbed with two PMSMs (4-pole 10kW/350A and 5-pole 12kW/350A), mechanically coupled via a bearingless digital torque transducer and enclosed in a protective housing.
       * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
-      * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.}
+      * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
 
 <br>
 
@@ -84,8 +84,8 @@ Academic Experience
 
 <br>
 
-Work Experience
-======
+## Work Experience
+
 * <span style="color:blue">**Technical Expert**</span>, Intelligent Control & Processing (ICP) Company, Tehran, Iran (06/2021 – 08/2022)
   * **Contributions:**
     * Developed technical/commercial proposals for over €3 million advanced control systems (DCS, ESD, FGS, PDCS, PMS, BMS), resulting in successful projects from different domains.
@@ -102,8 +102,8 @@ Work Experience
 
 <br>
 
-Honors and Awards
-======
+## Honors and Awards
+
 *  05/2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
 *  04/2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
 * 02/2022, <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
@@ -112,8 +112,8 @@ Honors and Awards
 
 <br>
 
-Reviewer/Editor Experience
-======
+## Service Experience
+
 * <span style="color:blue">**Editor**</span>
   * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor, (06/2025 - Present)
   * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), (07/2022 - Present)
@@ -126,8 +126,8 @@ Reviewer/Editor Experience
 
 <br>
 
-Skills
-======
+## Skills
+
 * <span style="color:blue">**Technical:**</span> Power Electronics (DC/DC, DC/AC, AC/DC, MMC, PEBB), Impedance-Source Inverter (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Ship Power Systems, Electric Vehicles), Renewable Energy Systems (PV Systems, Wind Turbine Systems), Custom Power Device (Dynamic Voltage Restorer), Model Predictive Control (MPC), PWM Methods, SiL/HiL/CHiL/PHiL Implementation, Real-Time Simulation
 * <span style="color:blue">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
 * <span style="color:blue">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
