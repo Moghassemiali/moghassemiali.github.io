@@ -19,9 +19,7 @@ redirect_from:
   * **Thesis:** Response and Reliability Improvement of Grid-Connected Photovoltaic Systems with Trans-Z-Source Inverter
 * B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch (September 2008 - July 2012)
   * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
-
 <br>
-
 ## Academic Experience
 
 * <span style="color:blue">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
@@ -33,9 +31,7 @@ redirect_from:
     * **Mentorship:** Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
     * **Supervision:** Provided guidance on experimental methods, coding practices, or writing techniques.
     * **Collaboration & Teamwork:** Contributed to lab management, group meetings, and collaborative initiatives.
-
 <br>
-
 * <span style="color:blue">**Graduate Research Assistant**</span>, Clemson University, Clemson, SC (August 2022 – May 2025)
   * **Research group:** [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite)
   * **Supervisor:** Dr. Christopher Edrington
@@ -45,38 +41,28 @@ redirect_from:
       * Designed, modeled, controlled, prototyped, and validated a dyno testbed with two PMSMs (4-pole 10kW/350A and 5-pole 12kW/350A), mechanically coupled via a bearingless digital torque transducer and enclosed in a protective housing.
       * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
       * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
-
 <br>
-
 * <span style="color:blue">**External Researcher**</span>, Aarhus University, Herning, Denmark (March 2021 – July 2021)
   * **Contributions:**
     * Collaborated on *Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms* research project
     * Published one journal article funded by the *Science Foundation Ireland (SFI)*
-
 <br>
-
 * <span style="color:blue">**External Researcher**</span>, Aalborg University, Esbjerg, Denmark (November 2020 – March 2021)
   * **Contributions:**
     * Collaborated on *Decarbonization of Grid with an Optimal Controller and Energy Management for Energy Storage System in Microgrid Applications* research project
     * Published one journal article funded by the *Ministry of Education (MOE)*, Malaysia
-
 <br>
-
 * <span style="color:blue">**University Lecturer**</span>, University of Applied Science and Technology, Tehran, Iran (January 2021 – July 2021)
     * **Contributions:**
       * Taught undergraduate courses: Industrial Electronics, Power Systems Analysis, Protections and Relays, and Electric Machines.
       * Created structured assignments and project-based activities to enhance student understanding of theoretical concepts.
-
 <br>
-
 * <span style="color:blue">**Lecturer**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
   * **Contributions:**
     * Taught MATLAB/Simulink software to undergraduate and graduate students.
     * Developed interactive tutorials and practical assignments for control systems modeling.
     * Provided individual mentoring to students on power electronics simulations.
-
 <br>
-
 * <span style="color:blue">**Teaching Assistant**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2010 – June 2015)
   * **Contributions:**
     * Assisted in teaching courses: Electric Circuit I/II, Electrical Measurements, Power Electronics I/II, Advanced Power Systems Operation, and Power System Planning.
@@ -92,9 +78,7 @@ redirect_from:
     * Supported business development activities by preparing bills of materials (BOM), responding to requests for information (RFI) and for proposals (RFP), and engaging with clients to assess their technical requirements.
     * Conducted technical meetings with clients, addressed their engineering needs, ensuring optimal solutions as per project specifications.
     * Led R&D initiatives, successfully enhanced proposed control system solutions.
-
 <br>
-
 * <span style="color:blue">**Intern**</span>, Paykar Bonyan Sanat (PBS) Company, Tehran, Iran (February 2012 – June 2012)
   * **Contributions:**
     * Programmed Omron & Siemens PLCs
@@ -120,9 +104,7 @@ redirect_from:
 * <span style="color:blue">**Editor**</span>
   * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor (June 2025 - Present)
   * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies) (July 2022 - Present)
-
 <br>
-
 * <span style="color:blue">**Reviewer**</span>
   * Top-tier journals and conferences (213+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
 
