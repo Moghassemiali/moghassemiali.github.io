@@ -15,7 +15,7 @@ News and activities ...
 - Officially hooded and received my Ph.D. in Electrical Engineering from Clemson University.
 
 ### 05/05/2025
-- Recipient of the *Outstanding Graduate Researcher* from the Graduate School at Clemson University (university-wide)
+- Recipient of the *Outstanding Graduate Researcher* from the Graduate School at Clemson University (university-wide award)
   - 💡 *Fun fact:* This is the first time EVER in the history of Clemson University that an ECE department student has received such an award!
 
 ### 04/24/2025
