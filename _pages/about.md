@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-------
+## Hi  👋, I’m Ali Moghassemi
 
-My research centers on ...
+My research focuses on the design, modeling, control, and prototyping of power electronics converters for electrified transportation, renewable energy systems, and power system applications.
 
 For more info
 ------
