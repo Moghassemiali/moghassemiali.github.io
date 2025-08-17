@@ -102,12 +102,33 @@ Work Experience
 
 <br>
 
+Honors and Awards
+======
+* <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC (05/2025)
+* <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (04/2025)
+* <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (02/2022)
+* <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch (12/2013)
+* <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch (02/2009)
+
+<br>
+
 Reviewer/Editor Experience
 ======
 * <span style="color:blue">**Editor**</span>
   * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor, (06/2025 - Present)
   * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), (07/2022 - Present)
 
+<br>
+
 * <span style="color:blue">**Reviewer**</span>
-  * Active reviewer for several top-tier peer-reviewed journals and conferences, with 211 verified reviews.
+  * Active reviewer for several top-tier peer-reviewed journals and conferences, with 213 verified reviews.
   * A complete list of journals and conferences is available on my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
+
+<br>
+
+Skills
+======
+* <span style="color:blue">**Technical:**</span> Power Electronics (DC/DC, DC/AC, AC/DC, MMC, PEBB), Impedance-Source Inverter (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Ship Power Systems, Electric Vehicles), Renewable Energy Systems (PV Systems, Wind Turbine Systems), Custom Power Device (Dynamic Voltage Restorer), Model Predictive Control (MPC), PWM Methods, SiL/HiL/CHiL/PHiL Implementation, Real-Time Simulation
+* <span style="color:blue">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
+* <span style="color:blue">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
+* <span style="color:blue">**Professional and Interpersonal:**</span> Enthusiastic Learner, Self-Motivated, Leadership, Mentorship, Critical Thinking, Problem Solving, Oral and Written Communication, Presentation, Time Management, Creativity, Adaptability, Teamwork
