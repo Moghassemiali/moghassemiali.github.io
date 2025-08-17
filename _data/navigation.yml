@@ -23,6 +23,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Presentations"
+    url: /presentations/
+    
   - title: "Gallery"
     url: /gallery/
 
