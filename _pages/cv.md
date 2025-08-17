@@ -12,12 +12,12 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Electrical Engineering, Clemson University, GPA: 3.95/4 (August 2022 - May 2025)
+* Ph.D. in Electrical Engineering, Clemson University (August 2022 - May 2025)
   * **Dissertation:** [Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships](https://open.clemson.edu/all_dissertations/3903/)
   * **Supervisor:** Dr. Christopher Edrington
-* M.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.81/4 (September 2013 - December 2015)
+* M.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch (September 2013 - December 2015)
   * **Thesis:** Response and Reliability Improvement of Grid-Connected Photovoltaic Systems with Trans-Z-Source Inverter
-* B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch, GPA: 3.35/4 (September 2008 - July 2012)
+* B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch (September 2008 - July 2012)
   * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
 
 <br>
@@ -105,7 +105,10 @@ redirect_from:
 ## Honors and Awards
 
 *  May 2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
+  * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a research, and/or originality, imagination and significance of research or creative activity.
+  * 💡 *Fun Fact:* This is the first time EVER in the history of Clemson University that an ECE department student has received such an award!
 *  April 2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
+  * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year (2025) is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
 * February 2022, <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
 * December 2013, <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch
 * February 2009, <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
