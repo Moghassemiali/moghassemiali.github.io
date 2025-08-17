@@ -124,8 +124,7 @@ redirect_from:
 <br>
 
 * <span style="color:blue">**Reviewer**</span>
-  * Active reviewer for several top-tier peer-reviewed journals and conferences, with **213 verified reviews** (June 2018 - Present)
-  * A complete list of journals and conferences is available on my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
+  * Top-tier journals and conferences (213+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
 
 <br>
 
