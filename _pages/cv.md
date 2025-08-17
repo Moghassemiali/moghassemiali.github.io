@@ -118,8 +118,8 @@ redirect_from:
 ## Service Experience
 
 * <span style="color:blue">**Editor**</span>
-  * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor, (June 2025 - Present)
-  * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), (July 2022 - Present)
+  * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor (June 2025 - Present)
+  * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies) (July 2022 - Present)
 
 <br>
 
