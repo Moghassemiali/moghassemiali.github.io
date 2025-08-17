@@ -121,7 +121,7 @@ Reviewer/Editor Experience
 <br>
 
 * <span style="color:blue">**Reviewer**</span>
-  * Active reviewer for several top-tier peer-reviewed journals and conferences, with 213 verified reviews.
+  * Active reviewer for several top-tier peer-reviewed journals and conferences, with **213 verified reviews**.
   * A complete list of journals and conferences is available on my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
 
 <br>
