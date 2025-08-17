@@ -106,7 +106,7 @@ Honors and Awards
 ======
 *  05/2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
 *  04/2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
-* 02/2022<span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
+* 02/2022, <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
 * 12/2013, <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch
 * 02/2009, <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
 
