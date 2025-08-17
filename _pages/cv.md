@@ -104,11 +104,11 @@ Work Experience
 
 Honors and Awards
 ======
-* <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC (05/2025)
-* <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (04/2025)
-* <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (02/2022)
-* <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch (12/2013)
-* <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch (02/2009)
+*  05/2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
+*  04/2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
+* 02/2022<span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
+* 12/2013, <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch
+* 02/2009, <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
 
 <br>
 
@@ -132,3 +132,4 @@ Skills
 * <span style="color:blue">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
 * <span style="color:blue">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
 * <span style="color:blue">**Professional and Interpersonal:**</span> Enthusiastic Learner, Self-Motivated, Leadership, Mentorship, Critical Thinking, Problem Solving, Oral and Written Communication, Presentation, Time Management, Creativity, Adaptability, Teamwork
+* * <span style="color:blue">**Language:**</span> English (Fluent), German (Basic), Persian (Native)
