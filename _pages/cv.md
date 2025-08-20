@@ -33,7 +33,7 @@ redirect_from:
     * Provided guidance on experimental methods, coding practices, or writing techniques.
     * Contributed to lab management, group meetings, and collaborative initiatives.
 <br>
-* <span style="color:blue">**Graduate Research Assistant**</span>, Clemson University, Clemson, SC (August 2022 – May 2025)
+* <span style="color: var(--link-color)">**Graduate Research Assistant**</span>, Clemson University, Clemson, SC (August 2022 – May 2025)
   * **Research group:** [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite)
   * **Supervisor:** Dr. Christopher Edrington
   * **Contributions:**
@@ -43,28 +43,28 @@ redirect_from:
       * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
       * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
 <br>
-* <span style="color:blue">**External Researcher**</span>, Aarhus University, Herning, Denmark (March 2021 – July 2021)
+* <span style="color: var(--link-color)">**External Researcher**</span>, Aarhus University, Herning, Denmark (March 2021 – July 2021)
   * **Contributions:**
     * Collaborated on *Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms* research project
     * Published one journal article funded by the *Science Foundation Ireland (SFI)*
 <br>
-* <span style="color:blue">**External Researcher**</span>, Aalborg University, Esbjerg, Denmark (November 2020 – March 2021)
+* <span style="color: var(--link-color)">**External Researcher**</span>, Aalborg University, Esbjerg, Denmark (November 2020 – March 2021)
   * **Contributions:**
     * Collaborated on *Decarbonization of Grid with an Optimal Controller and Energy Management for Energy Storage System in Microgrid Applications* research project
     * Published one journal article funded by the *Ministry of Education (MOE)*, Malaysia
 <br>
-* <span style="color:blue">**University Lecturer**</span>, University of Applied Science and Technology, Tehran, Iran (January 2021 – July 2021)
+* <span style="color: var(--link-color)">**University Lecturer**</span>, University of Applied Science and Technology, Tehran, Iran (January 2021 – July 2021)
     * **Contributions:**
       * Taught undergraduate courses: Industrial Electronics, Power Systems Analysis, Protections and Relays, and Electric Machines.
       * Created structured assignments and project-based activities to enhance student understanding of theoretical concepts.
 <br>
-* <span style="color:blue">**Lecturer**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
+* <span style="color: var(--link-color)">**Lecturer**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
   * **Contributions:**
     * Taught MATLAB/Simulink software to undergraduate and graduate students.
     * Developed interactive tutorials and practical assignments for control systems modeling.
     * Provided individual mentoring to students on power electronics simulations.
 <br>
-* <span style="color:blue">**Teaching Assistant**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2010 – June 2015)
+* <span style="color: var(--link-color)">**Teaching Assistant**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2010 – June 2015)
   * **Contributions:**
     * Assisted in teaching courses: Electric Circuit I/II, Electrical Measurements, Power Electronics I/II, Advanced Power Systems Operation, and Power System Planning.
     * Graded assignments, provided academic support, and given exams.
@@ -72,14 +72,14 @@ redirect_from:
 
 ## Work Experience
 
-* <span style="color:blue">**Technical Expert**</span>, Intelligent Control & Processing (ICP) Company, Tehran, Iran (June 2021 – August 2022)
+* <span style="color: var(--link-color)">**Technical Expert**</span>, Intelligent Control & Processing (ICP) Company, Tehran, Iran (June 2021 – August 2022)
   * **Contributions:**
     * Developed technical/commercial proposals for over €3 million advanced control systems (DCS, ESD, FGS, PDCS, PMS, BMS), resulting in successful projects from different domains.
     * Supported business development activities by preparing bills of materials (BOM), responding to requests for information (RFI) and for proposals (RFP), and engaging with clients to assess their technical requirements.
     * Conducted technical meetings with clients, addressed their engineering needs, ensuring optimal solutions as per project specifications.
     * Led R&D initiatives, successfully enhanced proposed control system solutions.
 <br>
-* <span style="color:blue">**Intern**</span>, Paykar Bonyan Sanat (PBS) Company, Tehran, Iran (February 2012 – June 2012)
+* <span style="color: var(--link-color)">**Intern**</span>, Paykar Bonyan Sanat (PBS) Company, Tehran, Iran (February 2012 – June 2012)
   * **Contributions:**
     * Programmed Omron & Siemens PLCs
     * Controlled AC inverters
@@ -87,30 +87,30 @@ redirect_from:
 
 ## Honors and Awards
 
-*  May 2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
+*  May 2025, <span style="color: var(--link-color)">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
    * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a research, and/or originality, imagination and significance of research or creative activity.
    * 💡 *Fun Fact:* This is the first time EVER in the history of Clemson University that an ECE department student has received such an award!
-*  April 2025, <span style="color:blue">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
+*  April 2025, <span style="color: var(--link-color)">**Outstanding Graduate Researcher Award**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
    * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year (2025) is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
-* February 2022, <span style="color:blue">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
-* December 2013, <span style="color:blue">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch
-* February 2009, <span style="color:blue">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
+* February 2022, <span style="color: var(--link-color)">**Graduate Research Assistantship**</span>, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC
+* December 2013, <span style="color: var(--link-color)">**Distinguished Student**</span>, Master's program, Islamic Azad University - South Tehran Branch
+* February 2009, <span style="color: var(--link-color)">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
 <br>
 
 ## Service Experience
 
-* <span style="color:blue">**Editor**</span>
+* <span style="color: var(--link-color)">**Editor**</span>
   * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor (June 2025 - Present)
   * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies) (July 2022 - Present)
 <br>
-* <span style="color:blue">**Reviewer**</span>
+* <span style="color: var(--link-color)">**Reviewer**</span>
   * Top-tier journals and conferences (213+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
 <br>
 
 ## Skills
 
-* <span style="color:blue">**Technical:**</span> Power Electronics (DC/DC, DC/AC, AC/DC, MMC, PEBB), Impedance-Source Inverter (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Ship Power Systems, Electric Vehicles), Renewable Energy Systems (PV Systems, Wind Turbine Systems), Custom Power Device (Dynamic Voltage Restorer), Model Predictive Control (MPC), PWM Methods, SiL/HiL/CHiL/PHiL Implementation, Real-Time Simulation
-* <span style="color:blue">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
-* <span style="color:blue">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
-* <span style="color:blue">**Professional and Interpersonal:**</span> Enthusiastic Learner, Self-Motivated, Leadership, Mentorship, Critical Thinking, Problem Solving, Oral and Written Communication, Presentation, Time Management, Creativity, Adaptability, Teamwork
-* <span style="color:blue">**Language:**</span> English (Fluent), German (Basic), Persian (Native)
+* <span style="color: var(--link-color)">**Technical:**</span> Power Electronics (DC/DC, DC/AC, AC/DC, MMC, PEBB), Impedance-Source Inverter (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Ship Power Systems, Electric Vehicles), Renewable Energy Systems (PV Systems, Wind Turbine Systems), Custom Power Device (Dynamic Voltage Restorer), Model Predictive Control (MPC), PWM Methods, SiL/HiL/CHiL/PHiL Implementation, Real-Time Simulation
+* <span style="color: var(--link-color)">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
+* <span style="color: var(--link-color)">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
+* <span style="color: var(--link-color)">**Professional and Interpersonal:**</span> Enthusiastic Learner, Self-Motivated, Leadership, Mentorship, Critical Thinking, Problem Solving, Oral and Written Communication, Presentation, Time Management, Creativity, Adaptability, Teamwork
+* <span style="color: var(--link-color)">**Language:**</span> English (Fluent), German (Basic), Persian (Native)
