@@ -40,14 +40,14 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-;
 
-.author__bio {
+   .author__bio p {
   white-space: normal;
   overflow: visible;
   word-break: break-word;
-  flex: 1 1 auto;
-  width: auto;
   max-width: 100%;
 }
+
+;
+
 
