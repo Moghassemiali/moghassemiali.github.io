@@ -23,7 +23,7 @@ redirect_from:
 
 ## Academic Experience
 
-* <span style="color:blue">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
+* <span style="color: var(--link-color)">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
   * **Research group:** [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
   * **Supervisor:** Dr. Robert Cuzner  
   * **Contributions:**
