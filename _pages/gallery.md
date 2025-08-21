@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " 🖼️ Gallery"
-permalink: /gallery/
+permalink: /XXXgallery/
 author_profile: true
 ---
 
