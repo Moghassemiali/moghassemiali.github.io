@@ -26,8 +26,8 @@ main:
   - title: "Presentations"
     url: /presentations/
     
-  - title: "Gallery"
-    url: /gallery/
+  #- title: "Gallery"
+    #url: /gallery/
 
   - title: "Contact"
     url: /contact/
