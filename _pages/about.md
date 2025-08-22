@@ -13,10 +13,11 @@ redirect_from:
   </p>
 {% endif %}
 
-## Hi 👋, I’m Ali Moghassemi
+## Hello 👋, I’m Ali Moghassemi
 
-My research focuses on the design, modeling, control, and prototyping of power electronics converters for electrified transportation, renewable energy systems, and power system applications.
+I am a Research Associate at the University of Wisconsin-Milwaukee. My research centers on the design, modeling, control, and prototyping of advanced power electronics converters for electrified transportation, renewable energy integration, and resilient power systems.
 
 For more info
 ------
-Feel free to explore my research, publications, CV, ...
+👉 Feel free to explore my research, publications, CV, ... to learn more about my work.
+
