@@ -51,9 +51,10 @@ author_profile: true
 ## Conference Papers
 
 ### 2025
-- **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2025. (Early Access)
-- I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, G. Ozkan, B. Papari, C. Edrington, “Power Routing Based Electro-Thermal Management of Parallel Power Electronic Converters in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2025. (Early Access)
-- A.A. Khan, G. Muriithi, L. Timilsina, **A. Moghassemi**, B. Papari, C. Edrington, G. Ozkan, N. Boghrabadi, Z. Wang, “Secure Energy Management For Ship Power System Using Federated Learning,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2025. (Early Access)
+- **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2024. <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" style="color: var(--link-color)">doi</a>
+- I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, G. Ozkan, B. Papari, C. Edrington, “Power Routing Based Electro-Thermal Management of Parallel Power Electronic Converters in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 154–161, 2024. <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" style="color: var(--link-color)">doi</a>
+- A.A. Khan, G. Muriithi, L. Timilsina, **A. Moghassemi**, B. Papari, C. Edrington, G. Ozkan, N. Boghrabadi, Z. Wang, “Secure Energy Management For Ship Power System Using Federated Learning,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 517–524, 2024. <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" style="color: var(--link-color)">doi</a>
+
 
 ### 2024
 - L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. Arsalan, G. Muriithi, O. Ciftci, G. Ozkan, B. Papari, C. Edrington, “Hybrid Electric Vehicle Simulation Operation Across Distributed Laboratories Using Hardware Integrated Virtual Environment Concept,” *2024 IEEE 9th Southern Power Electronics Conference (SPEC)*, Brisbane, Australia, pp. 1–8, 2024. <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" style="color: var(--link-color)">doi</a>
