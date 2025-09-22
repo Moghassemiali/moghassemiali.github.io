@@ -115,10 +115,10 @@ redirect_from:
 
 * <span style="color: var(--link-color)">**Technical:**</span>
   * Power Electronics (DC/AC to DC/AC Converters, Modular Multilevel Converters (MMC), Power Electronics Building Blocks (PEBB)), Impedance-Source Inverters (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Shipboard Power Systems, Electric Vehicles), Renewable Energy Systems (PV and Wind Turbine Systems), Power Quality (Dynamic Voltage Restorer, Voltage Sag/Swell)
-  * Control \& Implementation: PWM Techniques, Model Predictive Control, Maximum Power Point Tracking (MPPT), Real-Time Simulation, SiL/HiL/CHiL/PHiL Implementation
+  * Control & Implementation: PWM Techniques, Model Predictive Control, Maximum Power Point Tracking (MPPT), Real-Time Simulation, SiL/HiL/CHiL/PHiL Implementation
 
 * <span style="color: var(--link-color)">**Software:**</span>
-  * MATLAB/Simulink (SimPowerSystems, Simscape), PLECS (Standalone \& Blockset, Thermal Modeling, RT Box Integration), Typhoon Control Center (HIL Testing, Schematic Editor, SCADA), LTspice (Circuit Simulation, Transient Analysis), dSPACE ControlDesk (Real-Time Interface, Signal Monitoring), PSCAD/EMTDC (EMT Simulation), Python (NumPy, SciPy, Matplotlib), C/C++, AutoCAD Electrical (2D/3D Schematics, Layouts), KiCad (PCB Design), LaTeX and Overleaf, Microsoft Office
+  * MATLAB/Simulink (SimPowerSystems, Simscape), PLECS (Standalone & Blockset, Thermal Modeling, RT Box Integration), Typhoon Control Center (HIL Testing, Schematic Editor, SCADA), LTspice (Circuit Simulation, Transient Analysis), dSPACE ControlDesk (Real-Time Interface, Signal Monitoring), PSCAD/EMTDC (EMT Simulation), Python (NumPy, SciPy, Matplotlib), C/C++, AutoCAD Electrical (2D/3D Schematics, Layouts), KiCad (PCB Design), LaTeX and Overleaf, Microsoft Office
 
 * <span style="color: var(--link-color)">**Hardware:**</span>
   * Real-Time Platforms: Typhoon HIL606/604/603, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat
