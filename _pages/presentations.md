@@ -8,6 +8,8 @@ author_profile: true
 ### 2025
 * Presented *Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships*
   * 2025 IEEE Electric Ship Technologies Symposium (ESTS), Old Town Alexandria, VA, USA
+ * Presented *Impacts of Thermal Management on Power Electronics Building Blocks in Power Corridors*
+  * 2025 IEEE Electric Ship Technologies Symposium (ESTS), Old Town Alexandria, VA, USA
 
 ### 2024
 * Presented *Heuristic Evolutionary Optimization For Control and Management of Renewable-Based Hybrid Microgrids*
