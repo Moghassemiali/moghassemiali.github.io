@@ -113,8 +113,14 @@ redirect_from:
 
 ## Skills
 
-* <span style="color: var(--link-color)">**Technical:**</span> Power Electronics (DC/DC, DC/AC, AC/DC, DAB, MMC, PEBB), Impedance-Source Inverter (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Ship Power Systems, Electric Vehicles), Renewable Energy Systems (PV Systems, Wind Turbine Systems), Custom Power Device (Dynamic Voltage Restorer), Model Predictive Control (MPC), PWM Methods, SiL/HiL/CHiL/PHiL Implementation, Real-Time Simulation
-* <span style="color: var(--link-color)">**Software:**</span> MATLAB/Simulink, SimPowerSystems, Simscape, Typhoon HiL Control Center, PLECS, Python (NumPy, SciPy, Matplotlib), C/C++, PSCAD (EMT Simulation), AutoCAD Electrical (2D/3D), SolidWorks, LaTeX, Microsoft Office (Outlook, Word, Excel, PowerPoint, Visio)
-* <span style="color: var(--link-color)">**Hardware:**</span> Typhoon HiL606, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat, PCB Design, Siemens PLCs (S7-400, S7-400H, S7-400F, S7-400FH, S7-300, S7-1200, S7-1500, ET-200M, ET-200SP, ET-200pro), Texas Instruments C2000 DSP
-* <span style="color: var(--link-color)">**Professional and Interpersonal:**</span> Enthusiastic Learner, Self-Motivated, Leadership, Mentorship, Critical Thinking, Problem Solving, Oral and Written Communication, Presentation, Time Management, Creativity, Adaptability, Teamwork
-* <span style="color: var(--link-color)">**Language:**</span> English (Fluent), German (Basic), Persian (Native)
+* <span style="color: var(--link-color)">**Technical:**</span>
+  * Power Electronics (DC/AC to DC/AC Converters, Modular Multilevel Converters (MMC), Power Electronics Building Blocks (PEBB)), Impedance-Source Inverters (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Shipboard Power Systems, Electric Vehicles), Renewable Energy Systems (PV and Wind Turbine Systems), Power Quality (Dynamic Voltage Restorer, Voltage Sag/Swell)
+  * Control \& Implementation: PWM Techniques, Model Predictive Control, Maximum Power Point Tracking (MPPT), Real-Time Simulation, SiL/HiL/CHiL/PHiL Implementation
+
+* <span style="color: var(--link-color)">**Software:**</span>
+  * MATLAB/Simulink (SimPowerSystems, Simscape), PLECS (Standalone \& Blockset, Thermal Modeling, RT Box Integration), Typhoon Control Center (HIL Testing, Schematic Editor, SCADA), LTspice (Circuit Simulation, Transient Analysis), dSPACE ControlDesk (Real-Time Interface, Signal Monitoring), PSCAD/EMTDC (EMT Simulation), Python (NumPy, SciPy, Matplotlib), C/C++, AutoCAD Electrical (2D/3D Schematics, Layouts), KiCad (PCB Design), LaTeX and Overleaf, Microsoft Office
+
+* <span style="color: var(--link-color)">**Hardware:**</span>
+  * Real-Time Platforms: Typhoon HIL606/604/603, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat
+  * Power Hardware: Dynamometer System with Dual PMSMs, Wolfspeed XM3 Three-Phase Inverter
+  * Industrial Controllers: Siemens PLC (S7-400/400H/400F/400FH/300/1200/1500), ET-200M/200SP/200pro, TI C2000 DSP
