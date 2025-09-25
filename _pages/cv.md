@@ -27,8 +27,10 @@ redirect_from:
   * **Research group:** [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
   * **Supervisor:** Dr. Robert Cuzner  
   * **Contributions:**
-    * **NiPEC-PEPDS Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed integration framework for PEPDS, focusing on Virtual Prototyping Process (VPP) leading to metamodels of Power Electronic Power Distribution System (PEPDS) equipment within the Navy.  
+    * **NiPEC-PEPDS Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed an Integration Framework for PEPDS, focusing on Virtual Prototyping Process (VPP) leading to metamodels of Power Electronic Power Distribution System (PEPDS) equipment within the Navy and collaboration with Arizona State University to produce dielectric scaling laws for use within the VPP.
     * **Tech candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the Power Electronic Power Distribution System (PEPDS) integration team to bring a range of technologies developed on the PEPDS.
+    * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
+    * **Demo D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishes bases of cost estimates, providing validation cases and "new sources of truth" to increase the confidence in equipment metamodels and measurement data.
     * Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
     * Provided guidance on experimental methods, coding practices, or writing techniques.
     * Contributed to lab management, group meetings, and collaborative initiatives.
