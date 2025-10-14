@@ -60,7 +60,7 @@ redirect_from:
       * Taught undergraduate courses: Industrial Electronics, Power Systems Analysis, Protections and Relays, and Electric Machines.
       * Created structured assignments and project-based activities to enhance student understanding of theoretical concepts.
 <br>
-* <span style="color: var(--link-color)">**Lecturer**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
+* <span style="color: var(--link-color)">**Course Instructor**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
   * **Contributions:**
     * Taught MATLAB/Simulink software to undergraduate and graduate students.
     * Developed interactive tutorials and practical assignments for control systems modeling.
