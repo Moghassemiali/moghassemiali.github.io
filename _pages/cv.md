@@ -101,16 +101,15 @@ redirect_from:
 
 ## Service Experience
 
-    \item \textbf{Associate Editor}, \href{https://www.icck.org/seco}{\textit{Sustainable Energy Control and Optimization}} (Sep. 2025 -- Present)
 
-
-* <span style="color: var(--link-color)">**Editor**</span>
+* <span style="color: var(--link-color)">**Editorial Roles**</span>
+  * [Smart Ship Technologies](https://journals.explorerpress.com/sst), Editorial Board (September 2025 - Present)
   * [Sustainable Energy Control and Optimization](https://www.icck.org/seco), Associate Editor (September 2025 - Present)
   * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor (June 2025 - Present)
-  * [Frontiers](https://www.frontiersin.org/), Section Editor: [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies) (July 2022 - Present)
+  * [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), Section Editor (July 2022 - Present)
 <br>
-* <span style="color: var(--link-color)">**Reviewer**</span>
-  * Top-tier journals and conferences (221+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
+* <span style="color: var(--link-color)">**Peer-Review Contributions**</span>
+  * Top-tier journals and conferences (220+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
 <br>
 
 ## Skills
