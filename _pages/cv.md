@@ -62,14 +62,15 @@ redirect_from:
 <br>
 * <span style="color: var(--link-color)">**Course Instructor**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
   * **Contributions:**
-    * Taught MATLAB/Simulink software to undergraduate and graduate students.
-    * Developed interactive tutorials and practical assignments for control systems modeling.
-    * Provided individual mentoring to students on power electronics simulations.
+    * Taught *MATLAB/Simulink* for undergraduate/graduate students, focusing on control systems modeling and power electronics applications.
+    * Developed interactive tutorials and laboratory-style assignments to strengthen computational and simulation skills.
+    * Advised students on research projects and power electronics simulations, fostering independent problem-solving.
 <br>
 * <span style="color: var(--link-color)">**Teaching Assistant**</span>, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2010 – June 2015)
   * **Contributions:**
-    * Assisted in teaching courses: Electric Circuit I/II, Electrical Measurements, Power Electronics I/II, Advanced Power Systems Operation, and Power System Planning.
-    * Graded assignments, provided academic support, and given exams.
+    * Supported instruction in courses: *Electric Circuits I/II*, *Power Electronics*, *Advanced Power Systems Operation*, and *Power System Planning*.
+    * Led discussion sessions, assisted with laboratory activities, and provided guidance during problem-solving exercises.
+    * Evaluated student work, offered constructive feedback, and facilitated exam preparation.
 <br>
 
 ## Work Experience
@@ -109,7 +110,7 @@ redirect_from:
   * [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), Section Editor (July 2022 - Present)
 <br>
 * <span style="color: var(--link-color)">**Peer-Review Contributions**</span>
-  * Top-tier journals and conferences (220+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
+  * Top-tier journals and conferences (230+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
 <br>
 
 ## Skills
