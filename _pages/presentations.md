@@ -12,24 +12,19 @@ author_profile: true
 
 ## 2024
 - **“Heuristic Evolutionary Optimization for Control and Management of Renewable-Based Hybrid Microgrids.”**  
-  *Oral Presentation*, *IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, 2024.  
-  [IEEE Xplore](https://doi.org/10.1109/ICDCM60322.2024.10664868)
+  *Oral Presentation*, *IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, 2024. [IEEE Xplore](https://doi.org/10.1109/ICDCM60322.2024.10664868)
 - **“Nearest Level Control-Based Modular Multi-Level Converters for Power Electronics Building Blocks Concept in Electric Ship Systems.”**  
-  *Oral Presentation*, *IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, 2024.  
-  [IEEE Xplore](https://doi.org/10.1109/ITEC60657.2024.10598932)
+  *Oral Presentation*, *IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, 2024. [IEEE Xplore](https://doi.org/10.1109/ITEC60657.2024.10598932)
 - **“A Novel Four-Switch Transformerless Inverter with Step-Up/Down Capability for PV-Fed Grid-Connected Systems.”**  
-  *Poster Presentation*, *IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, 2024.  
-  [IEEE Xplore](https://doi.org/10.1109/ITEC60657.2024.10599067)
+  *Poster Presentation*, *IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, 2024. [IEEE Xplore](https://doi.org/10.1109/ITEC60657.2024.10599067)
 
 ## 2023
 - **“Active Thermal Control of AC/DC Power Converter Considering Health Monitoring of Power Modules.”**  
-  *Oral Presentation*, *IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2023.  
-  [IEEE Xplore](https://doi.org/10.1109/ESTS56571.2023.10220528)
+  *Oral Presentation*, *IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2023. [IEEE Xplore](https://doi.org/10.1109/ESTS56571.2023.10220528)
 
 ## 2021
 - **“A Novel Control Scheme for Trans-ZSI-DVR to Enhance Power Quality in Solar Integrated Networks.”**  
-  *Oral Presentation*, *North American Power Symposium (NAPS)*, College Station, TX, USA, 2021.  
-  [IEEE Xplore](https://doi.org/10.1109/NAPS52732.2021.9654507)
+  *Oral Presentation*, *North American Power Symposium (NAPS)*, College Station, TX, USA, 2021. [IEEE Xplore](https://doi.org/10.1109/NAPS52732.2021.9654507)
 
 ## 2020
 - **“Modified SVPWM for Trans-Z-Source Inverter-Based PV Systems.”**  
