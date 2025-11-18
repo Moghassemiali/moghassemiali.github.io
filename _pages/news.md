@@ -15,7 +15,7 @@ Some recent(-ish) news and activities:
 
 - **[Jun. 1, 2025]** Started new role as Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee and joined <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
-- **[May 6, 2025]** Officially hooded and received my Ph.D. in Electrical Engineering from Clemson University.
+- **[May 6, 2025]** Officially got hooded and received my Ph.D. in Electrical Engineering from Clemson University.
 
 - **[May 5, 2025]** Recipient of the *Outstanding Graduate Researcher* award from the Graduate School at Clemson University (university-wide award)
 
