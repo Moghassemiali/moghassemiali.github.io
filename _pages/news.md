@@ -7,7 +7,7 @@ author_profile: true
 
 Some recent(-ish) news and activities:
 
-- **[Nov. 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> IAB Fall meeting in Fayetteville, AR.
+- **[Nov. 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> Fall IAB meeting in Fayetteville, AR.
 
 - **[Oct. 19-21, 2025]** Attended <a href="https://www.ieee-ecce.org/2025/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE Energy Conversion Conference and Expo (ECCE)</a> in Philadelphia, PA.
 
