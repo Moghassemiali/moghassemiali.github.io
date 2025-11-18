@@ -21,6 +21,8 @@ Some recent(-ish) news and activities:
 
 - **[Apr. 24, 2025]** Recipient of the *Outstanding Graduate Researcher* award from the Holcombe Electrical and Computer Engineering (ECE) Department at Clemson University (department-wide award).
 
+- **[Apr. 7, 2025]** Successfully defended my Ph.D. dissertation titled *Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships*.
+
 - **[Sept. 24, 2024]** Successfully passed my Comprehensive Exam and promoted to Ph.D. candidacy.
 
 - **[Aug. 5-8, 2024]** Attended and presented one paper at <a href="https://attend.ieee.org/icdcm-2024/" style="color: #1E90FF; text-decoration: none;"> 2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)</a> in Columbia, SC.
