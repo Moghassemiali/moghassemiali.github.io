@@ -3,7 +3,7 @@ title: "👨‍🏫 Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-<a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> IEEE Xplore</a>
+
 ## 2025
 - **“Electro-Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships.”**  
   *Oral Presentation*, *IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" style="color: #1E90FF; text-decoration: none;"> IEEE Xplore</a>
