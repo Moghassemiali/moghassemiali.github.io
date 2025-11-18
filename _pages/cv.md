@@ -7,10 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="{{ '/files/AliMoghassemi_CV.pdf' | relative_url }}" 
-   style="color: #1E90FF; text-decoration: none;">
-   Download My Full CV (PDF) 📄
-</a>
+👉 Download my full CV (PDF) <a href="{{ '/files/AliMoghassemi_CV.pdf' | relative_url }}" style="color: #1E90FF; text-decoration: none;"> here</a>.
 
 {% include base_path %}
 ------
