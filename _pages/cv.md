@@ -109,13 +109,13 @@ redirect_from:
 
 
 * <span style="color: #1E90FF">**Editorial Roles**</span>
-  * [Smart Ship Technologies](https://journals.explorerpress.com/sst), Editorial Board (September 2025 - Present)
-  * [Sustainable Energy Control and Optimization](https://www.icck.org/seco), Associate Editor (September 2025 - Present)
-  * [American Journal of Electrical Power and Energy Systems](http://www.ajepes.org/), Associate Editor (June 2025 - Present)
-  * [Frontiers in Smart Grids, Smart Grid Technologies](https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies), Section Editor (July 2022 - Present)
+  * <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a>, Editorial Board (September 2025 - Present)
+  * <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a>, Associate Editor (September 2025 - Present)
+  * <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a>, Associate Editor (June 2025 - Present)
+  * <a href="https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies" style="color: #1E90FF; text-decoration: none;"> Frontiers in Smart Grids, Smart Grid Technologies</a>, Section Editor (July 2022 - Present)
 <br>
 * <span style="color: #1E90FF">**Peer-Review Contributions**</span>
-  * Top-tier journals and conferences (230+ verified reviews) since June 2018, see my [Web of Science](https://www.webofscience.com/wos/author/record/X-1151-2018) profile.
+  * Top-tier journals and conferences (230+ verified reviews) since June 2018, see my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile.
 <br>
 
 ## Skills
