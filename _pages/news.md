@@ -14,10 +14,10 @@ Some recent(-ish) news and activities:
 - Officially hooded and received my Ph.D. in Electrical Engineering from Clemson University.
 
 ### May 5, 2025
-- Recipient of the *Outstanding Graduate Researcher* from the Graduate School at Clemson University (university-wide award)
+- Recipient of the *Outstanding Graduate Researcher* award from the Graduate School at Clemson University (university-wide award)
 
 ### April 24, 2025
-- Recipient of the *Outstanding Graduate Researcher* from the Holcombe Electrical and Computer Engineering Department at Clemson University (department-wide award).
+- Recipient of the *Outstanding Graduate Researcher* award from the Holcombe Electrical and Computer Engineering (ECE) Department at Clemson University (department-wide award).
 
 ### September 24, 2024
 - Successfully passed my Comprehensive Exam and promoted to Ph.D. candidacy.
