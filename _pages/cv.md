@@ -29,7 +29,7 @@ redirect_from:
 ## Academic Experience
 
 * <span style="color: #1E90FF">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
-  * **Research group:** [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
+  * **Research group:** <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>
   * **Supervisor:** Dr. Robert Cuzner  
   * **Contributions:**
     * **NiPEC-PEPDS Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed an Integration Framework for PEPDS, focusing on Virtual Prototyping Process (VPP) leading to metamodels of Power Electronic Power Distribution System (PEPDS) equipment within the Navy and collaboration with Arizona State University to produce dielectric scaling laws for use within the VPP.
@@ -41,7 +41,7 @@ redirect_from:
     * Contributed to lab management, group meetings, and collaborative initiatives.
 <br>
 * <span style="color: #1E90FF">**Graduate Research Assistant**</span>, Clemson University, Clemson, SC (August 2022 – May 2025)
-  * **Research group:** [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite)
+  * **Research group:** <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a>
   * **Supervisor:** Dr. Christopher Edrington
   * **Contributions:**
     * **Electrothermal Management Using In-situ Junction Thermal Estimates for Enhanced Converter Reliability:** Developed data-driven and model-based electro-thermal management control strategies to ensure acceptable electrical performance while minimizing cooling demands and thermal cycling in power converters, through implemented control and management algorithms on various real-time controller boards and digital simulation platforms.
