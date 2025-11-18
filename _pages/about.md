@@ -15,7 +15,7 @@ redirect_from:
 
 ## Hello 👋, I’m Ali Moghassemi
 
-I am a Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee, working with Dr. Robert Cuzner. I completed my Ph.D. in Electrical Engineering at Clemson University with Dr. Christopher Edrington. At Clemson University, I was honored to receive two Outstanding Graduate Researcher awards from the Holcombe ECE department (department-wide award) and also from Clemson University (university-wide award).
+I am a Post-Doctoral Research Associate at the <a href="https://uwm.edu/" style="color: var(--link-color); text-decoration: none;"> University of Wisconsin-Milwaukee </a>, working with Dr. Robert Cuzner. I completed my Ph.D. in Electrical Engineering at Clemson University with Dr. Christopher Edrington. At Clemson University, I was honored to receive two Outstanding Graduate Researcher awards from the Holcombe ECE department (department-wide award) and also from Clemson University (university-wide award).
 
 
 My research centers on the design, modeling, and control of intelligent advanced power electronics converters for transportation electrification, renewable energy systems, and power systems applications.
