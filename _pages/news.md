@@ -22,8 +22,8 @@ Some recent(-ish) news and activities:
 ### September 24, 2024
 - Successfully passed my Comprehensive Exam and promoted to Ph.D. candidacy.
 
-### 03/28/2023
+### March 28, 2023
 - Successfully passed my Qualifying Exam.
 
-### 08/24/2022
+### August 24, 2022
 - Started my Ph.D. in Electrical Engineering at Clemson University and joined <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a> as a Graduate Research Assistant.
