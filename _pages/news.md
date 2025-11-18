@@ -8,7 +8,7 @@ author_profile: true
 Some recent(-ish) news and activities:
 
 ### June 1, 2025
-- Started new role as Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee and joined [Center for Sustainable Electrical Energy Systems (CSEES)](https://sites.uwm.edu/sees/)
+- Started new role as Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee and joined <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
 ### May 6, 2025
 - Officially hooded and received my Ph.D. in Electrical Engineering from Clemson University.
@@ -26,4 +26,4 @@ Some recent(-ish) news and activities:
 - Successfully passed my Qualifying Exam.
 
 ### 08/24/2022
-- Started my Ph.D. in Electrical Engineering at Clemson University and joined [Real Time COntrols and Optimization Laboratory (RT-COOL)](https://eciclemson.wixsite.com/mysite) as a Graduate Research Assistant.
+- Started my Ph.D. in Electrical Engineering at Clemson University and joined <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a> as a Graduate Research Assistant.
