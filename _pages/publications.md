@@ -23,7 +23,7 @@ author_profile: true
   <!-- Abstract -->
   <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
-  <p style="color:#1E90FF; margin-top:10px;">
+  <p style="margin-top:10px;">
   Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities for co-simulating massive complex systems but it is hindered by communication delays that compromise accuracy and stability. This challenge is particularly concerning for real-time power system co-simulation, where delays can induce synchronization loss and limit dynamic and transient studies. This study proposes an adaptive, multi-parameter model-free framework for predicting and compensating delays in co-simulated systems, addressing this critical issue. This framework leverages the improved damping impedance method interface algorithm and an adaptive, parameter-tuning predictor system that predicts and compensates for delays without requiring complex interface signal transformation, processing, decomposition, reconstruction, phase estimation, system models, and no human interference. The proposed approach is validated using a joint experiment between two laboratories at Clemson, SC, USA and Greenville, SC, USA, with the Damping Impedance Method as an Interface Algorithm between the two partitioned subsystems. The coupling errors, state tracking errors, and residual complex power are used as evaluation metrics for the proposed delay compensation. This approach enhances co-simulation accuracy and stability, facilitating reliable dynamic and transient analyses.
     </p>
   </details>
