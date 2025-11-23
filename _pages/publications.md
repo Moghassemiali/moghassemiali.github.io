@@ -166,86 +166,189 @@ author_profile: true
   </details>
 
 ### 2023
-- L. Timilsina, P.H. Hoang, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “A Real-Time Prognostic Based Control Framework for Hybrid Electric Vehicles,” *IEEE Access*, vol. 11, pp. 127589–127607, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3332689" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    The increasing popularity of electric vehicles is driven by their compatibility with sustainable energy goals. However, the decline in the performance of energy storage systems, such as batteries, due to their degradation puts electric vehicles and hybrid electric vehicles at a disadvantage compared to traditional internal combustion engine vehicles. This paper presents a prognostic-based control framework for hybrid electric vehicles to reduce the cost of operating hybrid electric vehicles by considering the degradation of energy storage systems. The strategy utilizes a degradation forecasting model of electrical components to predict their degradation pattern and uses the prediction to control hybrid electric vehicles via their energy management systems to reduce the degradation of components. A real-time controller hardware-in-the-loop is set up to run the proposed strategy. A hybrid electric vehicle model is developed on Typhoon (i.e., a real-time simulator), which is connected to two layers: energy management and degradation forecasting layer, deployed in Raspberry Pis, respectively. All these components are communicated through CAN communication, where the actual operating condition of the vehicle is sent from Typhoon to each Raspberry Pis to implement the proposed control strategy. With this approach, the cost of operating hybrid electric vehicles can be reduced, making them more competitive than their combustion engine counterparts shown in both numerical simulations and the CHIL experiment.
-  </p>
-- **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Power converters have widespread applications in automotive, renewables, and power systems. The demand for power modules with low power consumption and high efficiency has increased due to advancements in semiconductor devices. So, power converters need to be highly efficient to reduce costs associated with energy dissipation and cooling requirements. This paper discusses various active thermal control methods for high-power power converters. It covers modulation and configuration techniques, ranging from single configurations to cascaded, modular, and multilevel converters. These concepts form the basis of power electronics building blocks, particularly relevant in all-electric ship systems. Power electronics building blocks represent a thriving technology that will advance ship power systems, the thermal design of which plays a crucial role in managing high heat dissipation levels. Hence, thermal management is essential for reliable device performance. The paper thoroughly studies different active thermal control methods and their impact on power semiconductor devices and converters, categorized by configurations, power routing methods, modulation, and control layers. The review then moves to thermal control methods for the PEBBs concept using multilevel converters in all-electric ship systems. The paper eventually outlines future research directions for the thermal aspect of power electronics building blocks.
-  </p>
+- L. Timilsina, P.H. Hoang, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “A Real-Time Prognostic Based Control Framework for Hybrid Electric Vehicles,” *IEEE Access*, vol. 11, pp. 127589–127607, 2023.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ACCESS.2023.3332689" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  The increasing popularity of electric vehicles is driven by their compatibility with sustainable energy goals. However, the decline in the performance of energy storage systems, such as batteries, due to their degradation puts electric vehicles and hybrid electric vehicles at a disadvantage compared to traditional internal combustion engine vehicles. This paper presents a prognostic-based control framework for hybrid electric vehicles to reduce the cost of operating hybrid electric vehicles by considering the degradation of energy storage systems. The strategy utilizes a degradation forecasting model of electrical components to predict their degradation pattern and uses the prediction to control hybrid electric vehicles via their energy management systems to reduce the degradation of components. A real-time controller hardware-in-the-loop is set up to run the proposed strategy. A hybrid electric vehicle model is developed on Typhoon (i.e., a real-time simulator), which is connected to two layers: energy management and degradation forecasting layer, deployed in Raspberry Pis, respectively. All these components are communicated through CAN communication, where the actual operating condition of the vehicle is sent from Typhoon to each Raspberry Pis to implement the proposed control strategy. With this approach, the cost of operating hybrid electric vehicles can be reduced, making them more competitive than their combustion engine counterparts shown in both numerical simulations and the CHIL experiment.
+    </p>
+  </details>
+
+- **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ACCESS.2023.3308523" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Power converters have widespread applications in automotive, renewables, and power systems. The demand for power modules with low power consumption and high efficiency has increased due to advancements in semiconductor devices. So, power converters need to be highly efficient to reduce costs associated with energy dissipation and cooling requirements. This paper discusses various active thermal control methods for high-power power converters. It covers modulation and configuration techniques, ranging from single configurations to cascaded, modular, and multilevel converters. These concepts form the basis of power electronics building blocks, particularly relevant in all-electric ship systems. Power electronics building blocks represent a thriving technology that will advance ship power systems, the thermal design of which plays a crucial role in managing high heat dissipation levels. Hence, thermal management is essential for reliable device performance. The paper thoroughly studies different active thermal control methods and their impact on power semiconductor devices and converters, categorized by configurations, power routing methods, modulation, and control layers. The review then moves to thermal control methods for the PEBBs concept using multilevel converters in all-electric ship systems. The paper eventually outlines future research directions for the thermal aspect of power electronics building blocks.
+    </p>
+  </details>
 
 ### 2022
-- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022. <a href="https://doi.org/10.1016/j.ijepes.2021.107567" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    The photovoltaic output power varies according to the solar radiation and ambient temperature because the operation of the photovoltaic arrays depends on them. Therefore, achieving the maximum photovoltaic power under different shading patterns is a key factor in the performance improvement of photovoltaic systems. An efficient Maximum Power Point Tracking technique is needed to distinguish the global maximum power point from the local ones, as the traditional techniques are prone to fail. This paper proposes two hybrid meta-heuristic algorithms to improve the maximum power point tracking technique of partially shaded photovoltaic systems. The first proposed maximum power point tracking technique is based on the Whale Optimization Algorithm and Differential Evolution algorithms. The second proposed maximum power point tracking technique is an improved version of the first proposed technique. Both proposed techniques are highly proficient in enhancing the photovoltaic system’s efficiency in shaded and unshaded conditions. The maximum power point tracking technique is studied for evaluating the performance based on two traditional algorithms, Whale Optimization Algorithm and Differential Evolution, and two hybrid proposed algorithms. The simulation results show the second proposed maximum power point tracking technique finds the global power points faster and offers better performance than the first proposed technique, which itself outperforms two traditional maximum power point tracking techniques concerning a faster rate of convergence and higher efficiency.
-  </p>
+- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1016/j.ijepes.2021.107567" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  The photovoltaic output power varies according to the solar radiation and ambient temperature because the operation of the photovoltaic arrays depends on them. Therefore, achieving the maximum photovoltaic power under different shading patterns is a key factor in the performance improvement of photovoltaic systems. An efficient Maximum Power Point Tracking technique is needed to distinguish the global maximum power point from the local ones, as the traditional techniques are prone to fail. This paper proposes two hybrid meta-heuristic algorithms to improve the maximum power point tracking technique of partially shaded photovoltaic systems. The first proposed maximum power point tracking technique is based on the Whale Optimization Algorithm and Differential Evolution algorithms. The second proposed maximum power point tracking technique is an improved version of the first proposed technique. Both proposed techniques are highly proficient in enhancing the photovoltaic system’s efficiency in shaded and unshaded conditions. The maximum power point tracking technique is studied for evaluating the performance based on two traditional algorithms, Whale Optimization Algorithm and Differential Evolution, and two hybrid proposed algorithms. The simulation results show the second proposed maximum power point tracking technique finds the global power points faster and offers better performance than the first proposed technique, which itself outperforms two traditional maximum power point tracking techniques concerning a faster rate of convergence and higher efficiency.
+    </p>
+  </details>
 
 ### 2021
-- D.S. Vanaja, A.A. Stonier, **A. Moghassemi**, “A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter,” *International Transactions on Electrical Energy Systems*, vol. 31, no. 12, p. e13135, 2021. <a href="https://doi.org/10.1002/2050-7038.13135" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper presents a novel control topology for a multilevel inverter with a reduced number of power switches for achieving an increased number of levels in the output voltage, along with improved power quality. The diode clamped multilevel inverter configuration is modified, and the gating signals are generated using a  selective harmonic optimization technique at fundamental frequency using Satin Bower Bird optimization (SBO). It enhances the quality of the  output voltage waveform with the reduction in total harmonic distortion (THD), less switching power losses, and better efficiency. The inverter is investigated for its competent operation capability on grid-tied applications. A detailed simulation is conducted, and results are presented for various load conditions. To validate the inverter operation, an experimental setup of the modified diode clamped modular inverter (MDCMI) interfacing the grid is presented. The loss analysis is carried out at the inverter and converter segments. Based on the analysis, the proposed control topology demonstrates the reliable and efficient operation of the modular inverter. From the results obtained, it is evident that the proposed inverter design suits suitable for the grid applications.
-  </p>
-- M. Saadatmand, G. Gharehpetian, **A. Moghassemi**, J. Guerrero, P. Siano, H. Alhelou, “Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms: A Comprehensive Review of Control Methods,” *IEEE Access*, vol. 9, pp. 72183–72206, 2021. <a href="https://doi.org/10.1109/ACCESS.2021.3078570" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Global warming and the desire to increase the use of clean energy have led to an increase in the installation and operation of renewable energy power plants (REPPs), especially large-scale photovoltaic (PV) farms (LPFs). Given that the LPFs are added to the power system or replace conventional power plants, they must be able to perform the basic tasks of synchronous generators (SGs). One of these tasks is the ability to mitigate the low-frequency oscillation (LFO) risk. Also, one of the LPFs problems is reducing the power system inertia and increasing the risk of LFOs. Therefore, these types of power plants must damp the LFOs through a power oscillation damping controller (PODC), similar to the performance of power system stabilizers (PSSs) in the SGs. This paper represents an overview of the different PODCs and control methods for LFOs damping by LPF. It seems that it can be a driver for future studies. Different studies show that the application of PODCs for LPFs can play an effective role in dampening the LFOs and increasing the power system stability.
-  </p>
+- D.S. Vanaja, A.A. Stonier, **A. Moghassemi**, “A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter,” *International Transactions on Electrical Energy Systems*, vol. 31, no. 12, p. e13135, 2021.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1002/2050-7038.13135" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This paper presents a novel control topology for a multilevel inverter with a reduced number of power switches for achieving an increased number of levels in the output voltage, along with improved power quality. The diode clamped multilevel inverter configuration is modified, and the gating signals are generated using a  selective harmonic optimization technique at fundamental frequency using Satin Bower Bird optimization (SBO). It enhances the quality of the  output voltage waveform with the reduction in total harmonic distortion (THD), less switching power losses, and better efficiency. The inverter is investigated for its competent operation capability on grid-tied applications. A detailed simulation is conducted, and results are presented for various load conditions. To validate the inverter operation, an experimental setup of the modified diode clamped modular inverter (MDCMI) interfacing the grid is presented. The loss analysis is carried out at the inverter and converter segments. Based on the analysis, the proposed control topology demonstrates the reliable and efficient operation of the modular inverter. From the results obtained, it is evident that the proposed inverter design suits suitable for the grid applications.
+    </p>
+  </details>
+
+- M. Saadatmand, G. Gharehpetian, **A. Moghassemi**, J. Guerrero, P. Siano, H. Alhelou, “Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms: A Comprehensive Review of Control Methods,” *IEEE Access*, vol. 9, pp. 72183–72206, 2021.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ACCESS.2021.3078570" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Global warming and the desire to increase the use of clean energy have led to an increase in the installation and operation of renewable energy power plants (REPPs), especially large-scale photovoltaic (PV) farms (LPFs). Given that the LPFs are added to the power system or replace conventional power plants, they must be able to perform the basic tasks of synchronous generators (SGs). One of these tasks is the ability to mitigate the low-frequency oscillation (LFO) risk. Also, one of the LPFs problems is reducing the power system inertia and increasing the risk of LFOs. Therefore, these types of power plants must damp the LFOs through a power oscillation damping controller (PODC), similar to the performance of power system stabilizers (PSSs) in the SGs. This paper represents an overview of the different PODCs and control methods for LFOs damping by LPF. It seems that it can be a driver for future studies. Different studies show that the application of PODCs for LPFs can play an effective role in dampening the LFOs and increasing the power system stability.
+    </p>
+  </details>
 
 ### 2020
-- **A. Moghassemi**, S. Padmanaban, V.K. Ramachandaramurthy, M. Mitolo, M. Benbouzid, “A Novel Solar Photovoltaic Fed TransZSI-DVR for Power Quality Improvement of Grid-Connected PV Systems,” *IEEE Access*, vol. 9, pp. 7263–7279, 2020. <a href="https://doi.org/10.1109/ACCESS.2020.3048022" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    In this article, a new solar PV-fed Dynamic Voltage Restorer (DVR) based on Trans-Z-source Inverter (TransZSI) is proposed to improve the power quality of on-grid Photovoltaic (PV) systems. DVR is a power electronic compensator used for injecting the desired voltage to the Point of Common Coupling (PCC) as per the voltage disturbance. In the proposed DVR, in place of traditional VSI, TransZSI with outstanding merits of buck/boost, a broader range of voltage boost gain, fewer passive components, and lower voltage stress, is put forth. For efficient detection, accurate voltage disturbances mitigation, and also lessening the injected voltage harmonics, a hybrid Unit Vector Template with Maximum Constant Boost Control (UVT-MCBC) method is proposed for TransZSI-DVR. The performance of the proposed TransZSI-DVR with UVT-MCBC has been analyzed under severe sag, slight sag with harmonics, swell, and interruption. The comparative studies and simulation results have shown the effectiveness of the proposed TransZSI-DVR, as opposed to traditional ZSI-DVR and VSI-DVR. The TransZSI-DVR in the PV system has mitigated voltage sag/swell/interruption. It has also improved the power quality of both the injected voltage to the PCC and the PV system's output voltage.
-  </p>
-- **A. Moghassemi**, S. Padmanaban, “Dynamic Voltage Restorer (DVR): A Comprehensive Review of Topologies, Power Converters, Control Methods, and Modified Configurations,” *Energies*, vol. 13, no. 16, p. 4152, 2020. <a href="https://doi.org/10.3390/en13164152" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Power quality is a pressing concern and of the utmost importance for advanced and high-tech equipment in particular, whose performance relies heavily on the supply’s quality. Power quality issues like voltage sags/swells, harmonics, interruptions, etc., are defined as any deviations in current, voltage, or frequency that result in end-use equipment damage or failure. Sensitive loads like medical equipment in hospitals and health clinics, schools, prisons, etc., malfunction for the outages and interruptions, thereby causing substantial economic losses. For enhancing power quality, custom power devices (CPDs) are recommended, among which the Dynamic Voltage Restorer (DVR) is considered the best and cost-effective solution. DVR is a power electronic-based solution to mitigate and compensate for voltage sags. This paper provides a thorough discussion and comprehensive review of DVR topologies based on operations, power converters, control methods, and applications. The review compares the state-of-the-art in works of literature, and comparative study on power quality issues, the DVR principle along with its operation modes, the DVR components, the DVR topologies based on energy storage, the DVR topologies based on single-/three-phase power converters, and the DVR topologies based on control units that have different control processing stages. Furthermore, modified and improved configurations of the DVR, as well as its integration with distributed generations, are described. This work serves as a comprehensive and useful reference for those who have an interest in researching DVRs.
-  </p>
-- **A. Moghassemi**, M. Hosseini, J. Olamaei, “Power Quality Improvement of Grid-Connected Photovoltaic Systems Using Trans-Z-Source Inverter Under Partial Shading Condition,” *Iranian Journal of Science and Technology, Transactions of Electrical Engineering*, vol. 44, no. 4, pp. 1429–1447, 2020. <a href="https://doi.org/10.1007/s40998-020-00338-0" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Voltage-source inverters have been widely used in traditional photovoltaic systems, which have limitations. To overcome, the Z-source inverter has been introduced. In spite of all the features introduced in the Z-source inverter, its configuration has been improved over the years, like the trans-Z-source inverter, which has added advantages compared to traditional inverters, namely, buck–boost feature, fewer passive elements, and a higher voltage boost gain. In this paper, photovoltaic arrays are connected to the grid via the trans-Z-source inverter with the aim of improving its power quality. Moreover, the shoot-through duty ratio is kept constant in the switching control method to add features like lower voltage stress (higher reliability), lower total harmonic distortion (lower maintenance cost), and higher voltage boost ratio. To evaluate the precision of the proposed system, the photovoltaic system is simulated on a standard grid and under partial shading conditions which bring about voltage sag, and hence, a dynamic voltage restorer is used to mitigate voltage sag. Simulation results are presented to verify the validation of the proposed photovoltaic system in terms of voltage and current THD, reducing 78.2% and 19.7%, respectively.
-  </p>
-- **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “Maximum Power Point Tracking Methods Used in Photovoltaic Systems: A Review,” *Signal Processing and Renewable Energy*, vol. 4, no. 3, pp. 19–39, 2020. <a href="https://spre.stb.iau.ir/article_676122.html" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper reviews and compares the most important maximum power point tracking (MPPT) techniques used in photovoltaic systems. There is an abundance of techniques to enhance the efficiency of photovoltaic systems. The crucial distinctions between these techniques are digital or analog implementation, simplicity of the design, sensor requirements, convergence speed, stability, range of effectiveness, and costs. Thus, opting for a suitable algorithm is vital as it affects the electrical efficiency of the PV system and lowers the costs by lessening the number of solar panels needed to get the desired power. Moreover, the paper provided a summary of the most used MPPT algorithms.
-  </p>
-- **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “MPPT and Current Mode Control Methods for PV Modules: A Review and A New Multi-Loop Integrated Method,” *Signal Processing and Renewable Energy*, vol. 4, no. 2, pp. 1–22, 2020. <a href="https://spre.stb.iau.ir/article_673589.html" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper reviews various algorithms for the implementation of MPPT in a PV module integrated with a DC-DC converter and current mode control strategies for power converters. Also, a novel multi-loop integrated MPPT and current mode control for the Single-Ended Primary Inductance Converter (SEPIC) derived from the incremental conductance MPPT technique is proposed. A simulation model is developed using MATLAB/Simulink dynamic system simulation software to verify the operation of the control system developed in the paper. This ensures the efficient operation of the PV power plant by rapidly and accurately tracking the maximum power point (MPP) of the PV array. Moreover, the system is seen to offer robust voltage regulation and improved dynamic response in the face of changing environmental variables.
-  </p>
-- S. Ebrahimi, **A. Moghassemi**, J. Olamaei, “PV Inverters and Modulation Strategies: A Review and A Proposed Control Strategy for Frequency and Voltage Regulation,” *Signal Processing and Renewable Energy*, vol. 4, no. 1, pp. 1–21, 2020. <a href="https://spre.stb.iau.ir/article_670422.html" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    To ensure the reliable delivery of AC power to consumers from renewable energy sources, the photovoltaic inverter has to ensure that the frequency and magnitude of the generated AC voltage are within acceptable limits. This paper develops models and control strategies for the DC-AC converter to ensure that the sinusoidal waveform of the desired frequency and magnitude, generated for both single-phase and three-phase operations, depends on the robustness of the inverter control system. The paper reviews various topologies and modulation approaches for photovoltaic inverters, operating in both single-phase and three-phase modes. Finally, a proposed control strategy is presented to ensure frequency and voltage regulation.
-  </p>
+- **A. Moghassemi**, S. Padmanaban, V.K. Ramachandaramurthy, M. Mitolo, M. Benbouzid, “A Novel Solar Photovoltaic Fed TransZSI-DVR for Power Quality Improvement of Grid-Connected PV Systems,” *IEEE Access*, vol. 9, pp. 7263–7279, 2020.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ACCESS.2020.3048022" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  In this article, a new solar PV-fed Dynamic Voltage Restorer (DVR) based on Trans-Z-source Inverter (TransZSI) is proposed to improve the power quality of on-grid Photovoltaic (PV) systems. DVR is a power electronic compensator used for injecting the desired voltage to the Point of Common Coupling (PCC) as per the voltage disturbance. In the proposed DVR, in place of traditional VSI, TransZSI with outstanding merits of buck/boost, a broader range of voltage boost gain, fewer passive components, and lower voltage stress, is put forth. For efficient detection, accurate voltage disturbances mitigation, and also lessening the injected voltage harmonics, a hybrid Unit Vector Template with Maximum Constant Boost Control (UVT-MCBC) method is proposed for TransZSI-DVR. The performance of the proposed TransZSI-DVR with UVT-MCBC has been analyzed under severe sag, slight sag with harmonics, swell, and interruption. The comparative studies and simulation results have shown the effectiveness of the proposed TransZSI-DVR, as opposed to traditional ZSI-DVR and VSI-DVR. The TransZSI-DVR in the PV system has mitigated voltage sag/swell/interruption. It has also improved the power quality of both the injected voltage to the PCC and the PV system's output voltage.
+    </p>
+  </details>
+
+- **A. Moghassemi**, S. Padmanaban, “Dynamic Voltage Restorer (DVR): A Comprehensive Review of Topologies, Power Converters, Control Methods, and Modified Configurations,” *Energies*, vol. 13, no. 16, p. 4152, 2020.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.3390/en13164152" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Power quality is a pressing concern and of the utmost importance for advanced and high-tech equipment in particular, whose performance relies heavily on the supply’s quality. Power quality issues like voltage sags/swells, harmonics, interruptions, etc., are defined as any deviations in current, voltage, or frequency that result in end-use equipment damage or failure. Sensitive loads like medical equipment in hospitals and health clinics, schools, prisons, etc., malfunction for the outages and interruptions, thereby causing substantial economic losses. For enhancing power quality, custom power devices (CPDs) are recommended, among which the Dynamic Voltage Restorer (DVR) is considered the best and cost-effective solution. DVR is a power electronic-based solution to mitigate and compensate for voltage sags. This paper provides a thorough discussion and comprehensive review of DVR topologies based on operations, power converters, control methods, and applications. The review compares the state-of-the-art in works of literature, and comparative study on power quality issues, the DVR principle along with its operation modes, the DVR components, the DVR topologies based on energy storage, the DVR topologies based on single-/three-phase power converters, and the DVR topologies based on control units that have different control processing stages. Furthermore, modified and improved configurations of the DVR, as well as its integration with distributed generations, are described. This work serves as a comprehensive and useful reference for those who have an interest in researching DVRs.
+    </p>
+  </details>
+
+- **A. Moghassemi**, M. Hosseini, J. Olamaei, “Power Quality Improvement of Grid-Connected Photovoltaic Systems Using Trans-Z-Source Inverter Under Partial Shading Condition,” *Iranian Journal of Science and Technology, Transactions of Electrical Engineering*, vol. 44, no. 4, pp. 1429–1447, 2020.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1007/s40998-020-00338-0" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Voltage-source inverters have been widely used in traditional photovoltaic systems, which have limitations. To overcome, the Z-source inverter has been introduced. In spite of all the features introduced in the Z-source inverter, its configuration has been improved over the years, like the trans-Z-source inverter, which has added advantages compared to traditional inverters, namely, buck–boost feature, fewer passive elements, and a higher voltage boost gain. In this paper, photovoltaic arrays are connected to the grid via the trans-Z-source inverter with the aim of improving its power quality. Moreover, the shoot-through duty ratio is kept constant in the switching control method to add features like lower voltage stress (higher reliability), lower total harmonic distortion (lower maintenance cost), and higher voltage boost ratio. To evaluate the precision of the proposed system, the photovoltaic system is simulated on a standard grid and under partial shading conditions which bring about voltage sag, and hence, a dynamic voltage restorer is used to mitigate voltage sag. Simulation results are presented to verify the validation of the proposed photovoltaic system in terms of voltage and current THD, reducing 78.2% and 19.7%, respectively.
+    </p>
+  </details>
+
+- **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “Maximum Power Point Tracking Methods Used in Photovoltaic Systems: A Review,” *Signal Processing and Renewable Energy*, vol. 4, no. 3, pp. 19–39, 2020.
+  <br>
+  <!-- LINKS -->
+  <a href="https://spre.stb.iau.ir/article_676122.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This paper reviews and compares the most important maximum power point tracking (MPPT) techniques used in photovoltaic systems. There is an abundance of techniques to enhance the efficiency of photovoltaic systems. The crucial distinctions between these techniques are digital or analog implementation, simplicity of the design, sensor requirements, convergence speed, stability, range of effectiveness, and costs. Thus, opting for a suitable algorithm is vital as it affects the electrical efficiency of the PV system and lowers the costs by lessening the number of solar panels needed to get the desired power. Moreover, the paper provided a summary of the most used MPPT algorithms.
+    </p>
+  </details>
+
+- **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “MPPT and Current Mode Control Methods for PV Modules: A Review and A New Multi-Loop Integrated Method,” *Signal Processing and Renewable Energy*, vol. 4, no. 2, pp. 1–22, 2020.
+  <br>
+  <!-- LINKS -->
+  <a href="https://spre.stb.iau.ir/article_673589.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This paper reviews various algorithms for the implementation of MPPT in a PV module integrated with a DC-DC converter and current mode control strategies for power converters. Also, a novel multi-loop integrated MPPT and current mode control for the Single-Ended Primary Inductance Converter (SEPIC) derived from the incremental conductance MPPT technique is proposed. A simulation model is developed using MATLAB/Simulink dynamic system simulation software to verify the operation of the control system developed in the paper. This ensures the efficient operation of the PV power plant by rapidly and accurately tracking the maximum power point (MPP) of the PV array. Moreover, the system is seen to offer robust voltage regulation and improved dynamic response in the face of changing environmental variables.
+    </p>
+  </details>
+
+- S. Ebrahimi, **A. Moghassemi**, J. Olamaei, “PV Inverters and Modulation Strategies: A Review and A Proposed Control Strategy for Frequency and Voltage Regulation,” *Signal Processing and Renewable Energy*, vol. 4, no. 1, pp. 1–21, 2020.
+  <br>
+  <!-- LINKS -->
+  <a href="https://spre.stb.iau.ir/article_670422.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  To ensure the reliable delivery of AC power to consumers from renewable energy sources, the photovoltaic inverter has to ensure that the frequency and magnitude of the generated AC voltage are within acceptable limits. This paper develops models and control strategies for the DC-AC converter to ensure that the sinusoidal waveform of the desired frequency and magnitude, generated for both single-phase and three-phase operations, depends on the robustness of the inverter control system. The paper reviews various topologies and modulation approaches for photovoltaic inverters, operating in both single-phase and three-phase modes. Finally, a proposed control strategy is presented to ensure frequency and voltage regulation.
+    </p>
+  </details>
 
 ### 2016
-- J. Olamaei, S. Ebrahimi, **A. Moghassemi**, “Compensation of Voltage Sag Caused by Partial Shading in Grid-Connected PV System Through the Three-Level SVM Inverter,” *Sustainable Energy Technologies and Assessments*, vol. 18, pp. 107–118, 2016. <a href="https://doi.org/10.1016/j.seta.2016.10.001" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This study aims to evaluate the grid-connected PV system in partial shading conditions through the three-level SVM inverter and compensation of inverter output voltage sag caused by the partial shading using the dynamic voltage restorer (DVR). A function per time and the amount of radiation have been used to create the partial shading condition in the photovoltaic system. The advantages of the three-level SVM inverter include the complete region detection method, even in the boundary points between two regions, through boundary lines equations, and a complete online solution of those equations. Also, the reduction of total harmonic distortion (THD) through the switching table is appropriate. The results show that in the partial shading conditions, the three-level SVM inverter decreased THD in the presence or absence of DVR. DVR also compensates for the voltage sag to a suitable level. MATLAB/Simulink-based simulation results are presented for validation of the entire system.
-  </p>
+- J. Olamaei, S. Ebrahimi, **A. Moghassemi**, “Compensation of Voltage Sag Caused by Partial Shading in Grid-Connected PV System Through the Three-Level SVM Inverter,” *Sustainable Energy Technologies and Assessments*, vol. 18, pp. 107–118, 2016.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1016/j.seta.2016.10.001" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This study aims to evaluate the grid-connected PV system in partial shading conditions through the three-level SVM inverter and compensation of inverter output voltage sag caused by the partial shading using the dynamic voltage restorer (DVR). A function per time and the amount of radiation have been used to create the partial shading condition in the photovoltaic system. The advantages of the three-level SVM inverter include the complete region detection method, even in the boundary points between two regions, through boundary lines equations, and a complete online solution of those equations. Also, the reduction of total harmonic distortion (THD) through the switching table is appropriate. The results show that in the partial shading conditions, the three-level SVM inverter decreased THD in the presence or absence of DVR. DVR also compensates for the voltage sag to a suitable level. MATLAB/Simulink-based simulation results are presented for validation of the entire system.
+    </p>
+  </details>
 
 ## Conference Papers
 
