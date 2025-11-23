@@ -7,35 +7,30 @@ author_profile: true
 ## Journal Articles
 
 ### 2025
-<div class="pub-item" style="display:flex; gap:20px; align-items:flex-start; margin-bottom:25px;">
+<div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;">
 
-  <!-- LEFT SIDE — TEXT CONTENT -->
-  <div style="flex:1;">
-
-    1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan, 
-    C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and 
-    Data-Driven Degradation Forecasting of Power Electronics Building Blocks 
-    in All-Electric Ships,” <em>IEEE Transactions on Transportation Electrification</em>, 2025.
-
+  1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” <em>IEEE Transactions on Transportation Electrification</em>, 2025.
     <!-- LINKS -->
-    <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
-
+  <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
     <!-- BADGES -->
-    <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
-    <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
-
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
     <!-- ABSTRACT -->
-    <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-      <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
-      <p style="color:#1E90FF; margin-top:10px;">
-        Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
-      </p>
-    </details>
-
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+    <p style="color:#1E90FF; margin-top:10px;">
+      Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
+    </p>
+  </details>
+    <!-- GRAPHICAL ABSTRACT -->
+  <details>
+  <summary><strong style="color:#1E90FF;">Graphical Abstract</strong></summary>
+  <img src="/assets/img/graphical/xxx.jpg" style="width:100%; margin-top:10px; border-radius:10px;">
+</details>
     <!-- CITATION -->
-    <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-      <summary><strong style="color:#1E90FF;">Cite</strong></summary>
-      <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Cite</strong></summary>
+    <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
 @article{moghassemi2025ETM,
   author={Moghassemi, A. and Timilsina, L. and Rahman, I. 
           and Ozkan, G. and Edrington, C. and Zhang, Z.},
@@ -45,18 +40,8 @@ author_profile: true
   year={2025},
   status={Under Review}
 }
-      </pre>
-    </details>
-
-  </div>
-
-  <!-- RIGHT SIDE — GRAPHICAL ABSTRACT -->
-  <div style="flex:0 0 220px;">
-    <img src="path_to_your_graphical_abstract.jpg" 
-         alt="Graphical Abstract"
-         style="width:100%; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-  </div>
-
+    </pre>
+  </details>
 </div>
 
 
