@@ -7,65 +7,57 @@ author_profile: true
 ## Journal Articles
 
 ### 2025
-<div id="pub1" class="pub-item" 
-     style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;">
+<div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px;">
 
-  <!-- Publication citation line -->
-  <p style="margin-bottom:8px;">
-    <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, 
-    G. Ozkan, C. Edrington, Z. Zhang, 
-    “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting 
-    of Power Electronics Building Blocks in All-Electric Ships,” 
-    <em>IEEE Transactions on Transportation Electrification</em>, 2025.
-  </p>
+  1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, 
+  “Real-Time Electro-Thermal Management...”, <em>IEEE Transactions on Transportation Electrification</em>, 2025.
 
-  <!-- DOI + badges -->
-  <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
-  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
-  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
-
-  <!-- Buttons group -->
-  <div class="btn-group" style="margin-top:10px;">
-    <button class="btn btn-sm btn-outline-primary" data-toggle="collapse" data-target="#abs1">Abstract</button>
-    <button class="btn btn-sm btn-outline-primary" data-toggle="collapse" data-target="#gabs1">Graphical Abstract</button>
-    <button class="btn btn-sm btn-outline-primary" data-toggle="collapse" data-target="#cite1">Citation</button>
+  <!-- BUTTONS -->
+  <div style="margin-top:10px;">
+    <button class="toggle-btn" data-target="abs1">Abstract</button>
+    <button class="toggle-btn" data-target="gabs1">Graphical Abstract</button>
+    <button class="toggle-btn" data-target="cite1">Citation</button>
   </div>
 
-  <!-- ABSTRACT BOX -->
-  <div id="abs1" class="collapse" data-parent="#pub1">
-    <div style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-      <p style="color:#1E90FF;">
-        Virtual integration of geographically dispersed laboratories through real-time 
-        co-simulation presents powerful capabilities...
-      </p>
-    </div>
+  <!-- PANELS -->
+  <div id="abs1" class="toggle-panel" style="display:none; background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px; color:#1E90FF;">
+    Abstract text goes here...
   </div>
 
-  <!-- GRAPHICAL ABSTRACT BOX -->
-  <div id="gabs1" class="collapse" data-parent="#pub1">
-    <div style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px; text-align:center;">
-      <img src="/assets/img/graphical_abstract_example.jpg" 
-           alt="Graphical Abstract" 
-           style="max-width:100%; border-radius:8px;">
-    </div>
+  <div id="gabs1" class="toggle-panel" style="display:none; background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <img src="/assets/img/graphical/ETM_graphical.jpg" style="width:100%; border-radius:10px;">
   </div>
 
-  <!-- CITATION BOX -->
-  <div id="cite1" class="collapse" data-parent="#pub1">
-    <pre style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px; white-space:pre-wrap; color:#1E90FF;">
+  <div id="cite1" class="toggle-panel" style="display:none; background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px; color:#1E90FF;">
+    <pre>
 @article{moghassemi2025ETM,
-  author={Moghassemi, A. and Timilsina, L. and Rahman, I. 
-          and Ozkan, G. and Edrington, C. and Zhang, Z.},
-  title={Real-Time Electro-Thermal Management and Data-Driven 
-         Degradation Forecasting of PEBBs in All-Electric Ships},
+  author={Moghassemi, A. and Timilsina, L. and Rahman, I. ...},
+  title={Real-Time Electro-Thermal Management...},
   journal={IEEE Transactions on Transportation Electrification},
-  year={2025},
-  status={Under Review}
+  year={2025}
 }
     </pre>
   </div>
 
 </div>
+
+<!-- LIGHTWEIGHT JS -->
+<script>
+document.querySelectorAll(".toggle-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const targetId = btn.dataset.target;
+    document.querySelectorAll(".toggle-panel").forEach(panel => {
+      if(panel.id === targetId) {
+        // Toggle current panel
+        panel.style.display = (panel.style.display === "none") ? "block" : "none";
+      } else {
+        // Close other panels
+        panel.style.display = "none";
+      }
+    });
+  });
+});
+</script>
 
 
 
