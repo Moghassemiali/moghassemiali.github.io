@@ -9,29 +9,26 @@ author_profile: true
 ### 2025
 <div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;">
 
-  1. **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
-
+  1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” <em>IEEE Transactions on Transportation Electrification</em>, 2025.
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
-
   <!-- LINKS -->
-
   <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
-  <a href="https://scholar.google.com" style="color:#1E90FF;">Google Scholar</a> 📘
-
+  <!-- FLEX CONTAINER FOR ABSTRACT + CITE -->
+  <div style="display:flex; gap:10px; margin-top:10px;">
   <!-- ABSTRACT -->
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
-    <p style="color:#1E90FF; margin-top:10px;">
-      Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
-    </p>
-  </details>
+    <details style="background:#f0f7ff; padding:12px; border-radius:10px; flex:1;">
+      <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+      <p style="color:#1E90FF; margin-top:10px;">
+        Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
+      </p>
+    </details>
 
-  <!-- CITATION -->
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-    <summary><strong style="color:#1E90FF;">Cite</strong></summary>
-    <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
+<!-- CITATION -->
+    <details style="background:#f0f7ff; padding:12px; border-radius:10px; flex:1;">
+      <summary><strong style="color:#1E90FF;">Cite</strong></summary>
+      <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
 @article{moghassemi2025ETM,
   author={Moghassemi, A. and Timilsina, L. and Rahman, I. 
           and Ozkan, G. and Edrington, C. and Zhang, Z.},
@@ -41,8 +38,10 @@ author_profile: true
   year={2025},
   status={Under Review}
 }
-    </pre>
-  </details>
+      </pre>
+    </details>
+
+  </div>
 
 </div>
 
