@@ -42,26 +42,6 @@
     "vendor/font-awesome/brands"
 
 
-   details.abstract-box {
-  background: #f0f7ff;         /* light blue background */
-  border-left: 4px solid #007bff;
-  padding: 10px 15px;
-  margin: 10px 0;
-  border-radius: 6px;
-}
-
-details.abstract-box summary {
-  cursor: pointer;
-  font-weight: bold;
-  color: #0056b3;               /* darker blue text */
-  outline: none;
-}
-
-details.abstract-box[open] {
-  background: #e5f2ff;         /* slightly darker when opened */
-}
-
-
    
 ;
 
