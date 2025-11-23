@@ -7,15 +7,46 @@ author_profile: true
 ## Journal Articles
 
 ### 2025
-<div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;"> 1. **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, **“Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships”**, *IEEE Transactions on Transportation Electrification*, 2025.
-<!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge"> <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
-<!-- LINKS -->
-  <br> <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗 <a href="https://scholar.google.com" style="color:#1E90FF;">Google Scholar</a> 📘
-<!-- ABSTRACT -->
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;"> <summary><strong style="color:#1E90FF;">Abstract</strong></summary> <p style="color:#1E90FF; margin-top:10px;"> Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities for co-simulating massive complex systems but it is hindered by communication delays that compromise accuracy and stability. This challenge is particularly concerning for real-time power system co-simulation, where delays can induce synchronization loss and limit dynamic and transient studies. This study proposes an adaptive, multi-parameter model-free framework for predicting and compensating delays in co-simulated systems, addressing this critical issue. This framework leverages the improved damping impedance method interface algorithm and an adaptive, parameter-tuning predictor system that predicts and compensates for delays without requiring complex interface signal transformation, processing, decomposition, reconstruction, phase estimation, system models, and no human interference. The proposed approach is validated using a joint experiment between two laboratories at Clemson, SC, USA and Greenville, SC, USA, with the Damping Impedance Method as an Interface Algorithm between the two partitioned subsystems. The coupling errors, state tracking errors, and residual complex power are used as evaluation metrics for the proposed delay compensation. This approach enhances co-simulation accuracy and stability, facilitating reliable dynamic and transient analyses. </p> </details>
-<!-- CITATION -->
-    <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;"> <summary><strong style="color:#1E90FF;">Cite</strong></summary> <p style="color:#1E90FF; margin-top:10px;"> @article{moghassemi2025ETM, author={Moghassemi, A. and Timilsina, L. and Rahman, I. and Ozkan, G. and Edrington, C. and Zhang, Z.}, title={Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of PEBBs in All-Electric Ships}, journal={IEEE Transactions on Transportation Electrification}, year={2025}, status={Under Review} } </pre> </details> </div>
+<div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;">
+
+  1. **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
+
+  <!-- BADGES -->
+  <br>
+  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+
+  <!-- LINKS -->
+  <br>
+  <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
+  <a href="https://scholar.google.com" style="color:#1E90FF;">Google Scholar</a> 📘
+
+  <!-- ABSTRACT -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+    <p style="color:#1E90FF; margin-top:10px;">
+      Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
+    </p>
+  </details>
+
+  <!-- CITATION -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Cite</strong></summary>
+    <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
+@article{moghassemi2025ETM,
+  author={Moghassemi, A. and Timilsina, L. and Rahman, I. 
+          and Ozkan, G. and Edrington, C. and Zhang, Z.},
+  title={Real-Time Electro-Thermal Management and Data-Driven 
+         Degradation Forecasting of PEBBs in All-Electric Ships},
+  journal={IEEE Transactions on Transportation Electrification},
+  year={2025},
+  status={Under Review}
+}
+    </pre>
+  </details>
+
+</div>
+
 
 
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
