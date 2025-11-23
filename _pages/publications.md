@@ -13,7 +13,6 @@ author_profile: true
   <p>
     This paper proposes …
   </p>
-</details>
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025. (Under Review)
 - A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
 - I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
