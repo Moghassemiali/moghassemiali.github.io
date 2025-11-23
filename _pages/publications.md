@@ -7,6 +7,17 @@ author_profile: true
 ## Journal Articles
 
 ### 2025
+<div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;"> 1. **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, **“Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships”**, *IEEE Transactions on Transportation Electrification*, 2025.
+<!-- BADGES -->
+  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge"> <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+<!-- LINKS -->
+  <br> <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗 <a href="https://scholar.google.com" style="color:#1E90FF;">Google Scholar</a> 📘
+<!-- ABSTRACT -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;"> <summary><strong style="color:#1E90FF;">Abstract</strong></summary> <p style="color:#1E90FF; margin-top:10px;"> This paper presents an integrated real-time electro-thermal management framework combined with a data-driven degradation forecasting system for power electronics building blocks (PEBBs) in all-electric ships… </p> </details>
+<!-- CITATION -->
+  <details style="margin-top:8px;"> <summary><strong>Cite</strong></summary> <pre style="color:#1E90FF; font-size:13px; white-space:pre-wrap;"> @article{moghassemi2025ETM, author={Moghassemi, A. and Timilsina, L. and Rahman, I. and Ozkan, G. and Edrington, C. and Zhang, Z.}, title={Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of PEBBs in All-Electric Ships}, journal={IEEE Transactions on Transportation Electrification}, year={2025}, status={Under Review} } </pre> </details> </div>
+
+
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025. (Under Review)
 - A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
