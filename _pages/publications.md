@@ -437,44 +437,97 @@ author_profile: true
 ## Conference Papers
 
 ### 2025
-- **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2024. <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    The Power Electronics Building Block (PEBB) concept integrates fundamental components into modular units, scalable for All-Electric Ships (AESs) through Modular Multilevel Converters (MMCs). MMC-based PEBBs offer modularity, low switching losses, good voltage and current quantization, and high efficiency. However, switching frequency greatly impacts converter design, influencing size, cost, and component stress. Higher frequencies reduce reactive component size but increase thermal stress and degradation of power modules. This paper proposes a Finite-Control Set Model Predictive Control (FCSMPC) method for multi-objective electro-thermal management of PEBBs, integrating a Deep Neural Network (DNN)-based degradation forecasting model. Results demonstrate the method's ability to maintain power quality, regulate junction temperature, and provide accurate degradation forecasts, enhancing reliability and mitigating aging.
-  </p>
-- I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, G. Ozkan, B. Papari, C. Edrington, “Power Routing Based Electro-Thermal Management of Parallel Power Electronic Converters in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 154–161, 2024. <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    The application of power electronics in all-electric ships (AES) has grown significantly because they offer better control and flexibility. Additionally, Induction Motors (IM) are favored in AESs for their reliability, cost-effectiveness and superior speed and torque tracking performance. The reliability of the power converters in AESs is essential for their safe operation, and this is driving interest in new technologies that ensure safe and reliable PEC performance. One major challenge in achieving reliable PEC operation is the efficient management of generated heat. This includes control of junction temperature and regulation of thermal cycles in power semiconductors. Active Thermal Control (ATC) reduces high junction temperature and thermal cycles by using temperature-related control parameters. This paper presents a closed-loop ATC approach via power routing of parallel DC-AC converters that efficiently distributes the thermal load across various segments of a modular converter, thereby minimizing thermal stress on the most vulnerable components. The effectiveness of the proposed thermal management approach is validated through MATLAB/Simulink results.
-  </p>
-- A.A. Khan, G. Muriithi, L. Timilsina, **A. Moghassemi**, B. Papari, C. Edrington, G. Ozkan, N. Boghrabadi, Z. Wang, “Secure Energy Management For Ship Power System Using Federated Learning,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 517–524, 2024. <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper presents a Federated Learning (FL) based Energy Management System (EMS) for Ship Power Systems (SPS). The proposed method addresses the challenges of maintaining a stable power supply while ensuring data privacy, a critical concern in shipboard environments. The FL framework enables collaborative training of Gated Recurrent Unit (GRU) models across multiple generators without sharing sensitive local data. The use of FL, along with mitigating some of the security concerns associated with centralized Machine Learning (ML) configurations, also reduces the computational requirements, making the overall framework more scalable. The system was trained using load data from a Medium Voltage DC (MVDC) SPS. The results demonstrate accurate power output prediction and effective load management, indicating the potential of the proposed approach to enhance energy efficiency and reliability in ship systems.
-  </p>
+- **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Conference-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  The Power Electronics Building Block (PEBB) concept integrates fundamental components into modular units, scalable for All-Electric Ships (AESs) through Modular Multilevel Converters (MMCs). MMC-based PEBBs offer modularity, low switching losses, good voltage and current quantization, and high efficiency. However, switching frequency greatly impacts converter design, influencing size, cost, and component stress. Higher frequencies reduce reactive component size but increase thermal stress and degradation of power modules. This paper proposes a Finite-Control Set Model Predictive Control (FCSMPC) method for multi-objective electro-thermal management of PEBBs, integrating a Deep Neural Network (DNN)-based degradation forecasting model. Results demonstrate the method's ability to maintain power quality, regulate junction temperature, and provide accurate degradation forecasts, enhancing reliability and mitigating aging.
+    </p>
+  </details>
+
+- I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, G. Ozkan, B. Papari, C. Edrington, “Power Routing Based Electro-Thermal Management of Parallel Power Electronic Converters in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 154–161, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Conference-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  The application of power electronics in all-electric ships (AES) has grown significantly because they offer better control and flexibility. Additionally, Induction Motors (IM) are favored in AESs for their reliability, cost-effectiveness and superior speed and torque tracking performance. The reliability of the power converters in AESs is essential for their safe operation, and this is driving interest in new technologies that ensure safe and reliable PEC performance. One major challenge in achieving reliable PEC operation is the efficient management of generated heat. This includes control of junction temperature and regulation of thermal cycles in power semiconductors. Active Thermal Control (ATC) reduces high junction temperature and thermal cycles by using temperature-related control parameters. This paper presents a closed-loop ATC approach via power routing of parallel DC-AC converters that efficiently distributes the thermal load across various segments of a modular converter, thereby minimizing thermal stress on the most vulnerable components. The effectiveness of the proposed thermal management approach is validated through MATLAB/Simulink results.
+    </p>
+  </details>
+
+- A.A. Khan, G. Muriithi, L. Timilsina, **A. Moghassemi**, B. Papari, C. Edrington, G. Ozkan, N. Boghrabadi, Z. Wang, “Secure Energy Management For Ship Power System Using Federated Learning,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 517–524, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Conference-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This paper presents a Federated Learning (FL) based Energy Management System (EMS) for Ship Power Systems (SPS). The proposed method addresses the challenges of maintaining a stable power supply while ensuring data privacy, a critical concern in shipboard environments. The FL framework enables collaborative training of Gated Recurrent Unit (GRU) models across multiple generators without sharing sensitive local data. The use of FL, along with mitigating some of the security concerns associated with centralized Machine Learning (ML) configurations, also reduces the computational requirements, making the overall framework more scalable. The system was trained using load data from a Medium Voltage DC (MVDC) SPS. The results demonstrate accurate power output prediction and effective load management, indicating the potential of the proposed approach to enhance energy efficiency and reliability in ship systems.
+    </p>
+  </details>
 
 ### 2024
-- L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. Arsalan, G. Muriithi, O. Ciftci, G. Ozkan, B. Papari, C. Edrington, “Hybrid Electric Vehicle Simulation Operation Across Distributed Laboratories Using Hardware Integrated Virtual Environment Concept,” *2024 IEEE 9th Southern Power Electronics Conference (SPEC)*, Brisbane, Australia, pp. 1–8, 2024. <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    The research on hybrid electric vehicles (HEVs) poses significant cost challenges due to the necessity of assembling various components and ensuring the fidelity of the entire system, especially when testing new algorithms or integrating additional devices. In research institutes, different laboratories may specialize in hardware or control aspects of HEVs, with some possessing most components while others lack certain elements. This fragmented distribution often necessitates purchasing all components, increasing research expenses substantially. To address this issue, this paper presents a framework introducing the concept of a hardware-integrated virtual environment (HIVE) that facilitates the virtual connection of components dispersed across multiple locations, enabling comprehensive research on the entire vehicle system without physical integration. To test this framework, this study utilizes a series HEV model developed in MATLAB, which is operated in real-time using Speedgoat, a digital real-time simulator. One laboratory possesses all the vehicle components except for the battery, while another laboratory houses the missing battery component, also developed in MATLAB and operated in real-time using Speedgoat. This study successfully establishes connectivity between the two laboratories, enabling the seamless operation of the entire HEV model across distributed locations.
-  </p>
-- **A. Moghassemi**, L. Timilsina, D. Scruggs, A. Arsalan, I. Rahman, A.A. Khan, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “Heuristic Evolutionary Optimization For Control and Management of Renewable-Based Hybrid Microgrids,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–8, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10664868" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    The surge in renewable energy and distributed generation necessitates advanced control systems for network performance enhancement. However, the lack of a standardized evaluation framework hampers comparisons, especially in complex hybrid networks. Hybrid energy systems offer greener and more reliable networks but require sophisticated control methods. To address this challenge, research explores novel linear and nonlinear techniques. This overview focuses on heuristic evolutionary optimization methods for Microgrids, covering AC, DC, and hybrid AC-DC systems, highlighting current research and future control requirements.
-  </p>
-- E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, A. Arsalan, B. Papari, **A. Moghassemi**, C. Edrington, M. Ozden, “Distributed Deep Deterministic Policy Gradient Agents For Real-Time Energy Management of DC Microgrid,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–5, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10665114" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper presents a real-world military use of a microgrid with Vehicle-to-Grid (V2G) and Vehicle-to-Vehicle (V2V). This plug-and-play system delivers efficient, fast-deploying power for a contingency base within 20 minutes, generating up to 500 kW of three-phase power. It utilizes vehicle-based Internal Combustion (IC) engine generators and an Energy Storage System (ESS) to power vehicle equipment and off-board loads like shelters and communication centers. However, fluctuating off-board loads create operational challenges for this V2G-V2V microgrid. This work proposes a real-time implementation of energy management based on distributed Deep Deterministic Policy Gradient (DDPG), a deep reinforcement learning, to address this problem for continuous state and continuous action spaces. This work formulates the energy management problem as a Markov decision process, considering random load demands and fuel costs. This paper aims to minimize the microgrid's operating costs by optimizing the dispatch of onboard vehicle power generators and storage units. With simulation experiments, this work demonstrates the effectiveness of the proposed distributed deep reinforcement learning approach. The results show the distributed DDPG agents can utilize the state of the ESS and significantly decrease the microgrid's overall operation costs. This validates the practical value of distributed DDPG for economic operations in military microgrids.
-  </p>
+- L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. Arsalan, G. Muriithi, O. Ciftci, G. Ozkan, B. Papari, C. Edrington, “Hybrid Electric Vehicle Simulation Operation Across Distributed Laboratories Using Hardware Integrated Virtual Environment Concept,” *2024 IEEE 9th Southern Power Electronics Conference (SPEC)*, Brisbane, Australia, pp. 1–8, 2024.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Conference-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  The research on hybrid electric vehicles (HEVs) poses significant cost challenges due to the necessity of assembling various components and ensuring the fidelity of the entire system, especially when testing new algorithms or integrating additional devices. In research institutes, different laboratories may specialize in hardware or control aspects of HEVs, with some possessing most components while others lack certain elements. This fragmented distribution often necessitates purchasing all components, increasing research expenses substantially. To address this issue, this paper presents a framework introducing the concept of a hardware-integrated virtual environment (HIVE) that facilitates the virtual connection of components dispersed across multiple locations, enabling comprehensive research on the entire vehicle system without physical integration. To test this framework, this study utilizes a series HEV model developed in MATLAB, which is operated in real-time using Speedgoat, a digital real-time simulator. One laboratory possesses all the vehicle components except for the battery, while another laboratory houses the missing battery component, also developed in MATLAB and operated in real-time using Speedgoat. This study successfully establishes connectivity between the two laboratories, enabling the seamless operation of the entire HEV model across distributed locations.
+    </p>
+  </details>
+
+- **A. Moghassemi**, L. Timilsina, D. Scruggs, A. Arsalan, I. Rahman, A.A. Khan, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “Heuristic Evolutionary Optimization For Control and Management of Renewable-Based Hybrid Microgrids,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–8, 2024.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ICDCM60322.2024.10664868" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Conference-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  The surge in renewable energy and distributed generation necessitates advanced control systems for network performance enhancement. However, the lack of a standardized evaluation framework hampers comparisons, especially in complex hybrid networks. Hybrid energy systems offer greener and more reliable networks but require sophisticated control methods. To address this challenge, research explores novel linear and nonlinear techniques. This overview focuses on heuristic evolutionary optimization methods for Microgrids, covering AC, DC, and hybrid AC-DC systems, highlighting current research and future control requirements.
+    </p>
+  </details>
+
+- E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, A. Arsalan, B. Papari, **A. Moghassemi**, C. Edrington, M. Ozden, “Distributed Deep Deterministic Policy Gradient Agents For Real-Time Energy Management of DC Microgrid,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–5, 2024.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ICDCM60322.2024.10665114" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Conference-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This paper presents a real-world military use of a microgrid with Vehicle-to-Grid (V2G) and Vehicle-to-Vehicle (V2V). This plug-and-play system delivers efficient, fast-deploying power for a contingency base within 20 minutes, generating up to 500 kW of three-phase power. It utilizes vehicle-based Internal Combustion (IC) engine generators and an Energy Storage System (ESS) to power vehicle equipment and off-board loads like shelters and communication centers. However, fluctuating off-board loads create operational challenges for this V2G-V2V microgrid. This work proposes a real-time implementation of energy management based on distributed Deep Deterministic Policy Gradient (DDPG), a deep reinforcement learning, to address this problem for continuous state and continuous action spaces. This work formulates the energy management problem as a Markov decision process, considering random load demands and fuel costs. This paper aims to minimize the microgrid's operating costs by optimizing the dispatch of onboard vehicle power generators and storage units. With simulation experiments, this work demonstrates the effectiveness of the proposed distributed deep reinforcement learning approach. The results show the distributed DDPG agents can utilize the state of the ESS and significantly decrease the microgrid's overall operation costs. This validates the practical value of distributed DDPG for economic operations in military microgrids.
+    </p>
+  </details>
+
 - L. Timilsina, **A. Moghassemi**, E. Buraimoh, I. Rahman, A.A. Khan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Degradation and State of Health Prediction of a Battery Used in a Microgrid in Real-Time,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–7, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10665285" style="color: #1E90FF">doi</a> 🔗
   <details>
   <summary><strong>Abstract</strong></summary>
