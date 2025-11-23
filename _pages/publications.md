@@ -15,11 +15,12 @@ author_profile: true
 - L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025. (Under Review)
 - L. Timilsina, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “Real-Time Analysis of Battery Degradation in a Plug-In Hybrid Electric Vehicles During V2G Operation,” *SAE International Journal of Electrified Vehicles*, 2025. (Accepted)
 - E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025. <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+    <p style="color:#1E90FF; margin-top:10px;">
     Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities for co-simulating massive complex systems but it is hindered by communication delays that compromise accuracy and stability. This challenge is particularly concerning for real-time power system co-simulation, where delays can induce synchronization loss and limit dynamic and transient studies. This study proposes an adaptive, multi-parameter model-free framework for predicting and compensating delays in co-simulated systems, addressing this critical issue. This framework leverages the improved damping impedance method interface algorithm and an adaptive, parameter-tuning predictor system that predicts and compensates for delays without requiring complex interface signal transformation, processing, decomposition, reconstruction, phase estimation, system models, and no human interference. The proposed approach is validated using a joint experiment between two laboratories at Clemson, SC, USA and Greenville, SC, USA, with the Damping Impedance Method as an Interface Algorithm between the two partitioned subsystems. The coupling errors, state tracking errors, and residual complex power are used as evaluation metrics for the proposed delay compensation. This approach enhances co-simulation accuracy and stability, facilitating reliable dynamic and transient analyses.
-  </p>
+    </p>
+  </details>
 - A. Khan, L. Timilsina, G. Muriithi, A. Arsalan, **A. Moghassemi**, B. Papari, G. Ozkan, M. Ozden, C. Edrington, N. Boghrabadi, Z. Wang, “Energy Management Systems for Maritime Microgrids: A Comprehensive Review of Intelligent Optimization Strategies,” *IEEE Access*, vol. 13, pp. 171563-171597, 2025. <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color: #1E90FF">doi</a> 🔗
   <details>
   <summary><strong>Abstract</strong></summary>
