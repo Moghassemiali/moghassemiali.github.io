@@ -8,11 +8,6 @@ author_profile: true
 
 ### 2025
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper proposes …
-  </p>
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025. (Under Review)
 - A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
 - I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025. (Under Review)
@@ -53,6 +48,11 @@ author_profile: true
 
 ### 2016
 - J. Olamaei, S. Ebrahimi, **A. Moghassemi**, “Compensation of Voltage Sag Caused by Partial Shading in Grid-Connected PV System Through the Three-Level SVM Inverter,” *Sustainable Energy Technologies and Assessments*, vol. 18, pp. 107–118, 2016. <a href="https://doi.org/10.1016/j.seta.2016.10.001" style="color: #1E90FF">doi</a> 🔗
+  <details>
+  <summary><strong>Abstract</strong></summary>
+  <p style="color:#1E90FF;">
+    This study aims to evaluate the grid-connected PV system in partial shading conditions through the three-level SVM inverter and compensation of inverter output voltage sag caused by the partial shading using the dynamic voltage restorer (DVR). A function per time and the amount of radiation have been used to create the partial shading condition in the photovoltaic system. The advantages of the three-level SVM inverter include the complete region detection method, even in the boundary points between two regions, through boundary lines equations, and complete online solution of those equations. Also, the reduction of total harmonic distortion (THD) through the switching table is appropriate. The results show that in the partial shading conditions, the three-level SVM inverter decreased THD in the presence or absence of DVR. DVR also compensates for the voltage sag to a suitable level. MATLAB/Simulink-based simulation results are presented for validation of the entire system.
+  </p>
 
 ## Conference Papers
 
