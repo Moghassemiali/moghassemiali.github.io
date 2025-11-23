@@ -9,31 +9,46 @@ author_profile: true
 ### 2025
 <div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;">
 
-  1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” <em>IEEE Transactions on Transportation Electrification</em>, 2025.
-    <!-- LINKS -->
+  1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan,
+     C. Edrington, Z. Zhang,
+     “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting
+     of Power Electronics Building Blocks in All-Electric Ships,”
+     <em>IEEE Transactions on Transportation Electrification</em>, 2025.
+
+  <!-- LINKS -->
   <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
-    <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
-  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
-    <!-- ABSTRACT -->
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
-    <p style="color:#1E90FF; margin-top:10px;">
+
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue">
+  <img src="https://img.shields.io/badge/Status-Under%20Review-orange">
+
+  <!-- MENU BUTTONS -->
+  <div class="btn-group" style="margin-top:10px;">
+    <button class="btn btn-sm btn-outline-primary" data-toggle="collapse" data-target="#abs1">Abstract</button>
+    <button class="btn btn-sm btn-outline-primary" data-toggle="collapse" data-target="#gabs1">Graphical Abstract</button>
+    <button class="btn btn-sm btn-outline-primary" data-toggle="collapse" data-target="#cite1">Citation</button>
+  </div>
+
+  <!-- ABSTRACT BOX -->
+  <div id="abs1" class="collapse" data-parent="">
+    <div style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px; color:#1E90FF;">
       Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
-    </p>
-  </details>
-    <!-- GRAPHICAL ABSTRACT -->
-  <details>
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-    <summary><strong style="color:#1E90FF;">Graphical Abstract</strong></summary>
-  <img src="/assets/img/graphical/xxx.jpg" style="width:100%; margin-top:10px; border-radius:10px;">
-</details>
-    <!-- CITATION -->
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
-    <summary><strong style="color:#1E90FF;">Cite</strong></summary>
-    <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
+    </div>
+  </div>
+
+  <!-- GRAPHICAL ABSTRACT BOX -->
+  <div id="gabs1" class="collapse" data-parent="">
+    <div style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+      <img src="/assets/img/graphical/your_graphical_abstract.jpg"
+           style="width:100%; border-radius:10px;">
+    </div>
+  </div>
+
+  <!-- CITATION BOX -->
+  <div id="cite1" class="collapse" data-parent="">
+    <pre style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px; color:#1E90FF; white-space:pre-wrap;">
 @article{moghassemi2025ETM,
-  author={Moghassemi, A. and Timilsina, L. and Rahman, I. 
+  author={Moghassemi, A. and Timilsina, L. and Rahman, I.
           and Ozkan, G. and Edrington, C. and Zhang, Z.},
   title={Real-Time Electro-Thermal Management and Data-Driven 
          Degradation Forecasting of PEBBs in All-Electric Ships},
@@ -42,8 +57,10 @@ author_profile: true
   status={Under Review}
 }
     </pre>
-  </details>
+  </div>
+
 </div>
+
 
 
 
