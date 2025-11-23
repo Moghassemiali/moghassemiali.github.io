@@ -835,11 +835,11 @@ author_profile: true
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
     MATLAB® is the high-level programming language developed for solving technical and mathematical problems. It is used widely not only in academic courses but also in scientific and engineering activities. The graphical programming language Simulink® is included in MATLAB. Simulink is used for simulating dynamical systems. It is supposed that the system under investigation is developed as a functional diagram consisting of blocks that are equivalent, by their functions, to the program blocks that are included in the Simulink library. This book is intended primarily for later year undergraduate, graduate and research students who are fascinated to learn how to model and control Renewable Energy Systems based on MATLAB/Simulink software. It starts with a comprehensive review of fundamental principles of codes, functions, structures, graphics and graphical user interface programming and then moves on to explain mathematical model of Renewable Energy Systems, PV solar and wind turbine in particular. MATLAB/Simulink models of PV Solar and Wind Energy Conversion Systems are discussed in detail in the very last two chapters. There are very few books on this subject. This book tries to fill this gap and pursues the following aims:
-    
+  <br>    
     • It provides the necessary descriptions and explanations of blocks, functions and models.
-  
+  <br>
     • It organizes the material in a logical sequence, from simple to complex, to make it easier to study MATLAB codes and Simulink library to enable this book to be used in the educational process covering various electrical fields.
-  
+  <br>
     The book can be used by students who are conducting research on Distributed Generations. It should also prove useful for graduate and undergraduate students undergoing courses in electrical fields in higher educational institutions.
     </p>
   </details>
