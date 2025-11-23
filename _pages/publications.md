@@ -15,8 +15,8 @@ author_profile: true
 - L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025. (Under Review)
 - L. Timilsina, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “Real-Time Analysis of Battery Degradation in a Plug-In Hybrid Electric Vehicles During V2G Operation,” *SAE International Journal of Electrified Vehicles*, 2025. (Accepted)
 - E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025.
-  <!-- LINKS -->
   <br>
+  <!-- LINKS -->
   <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
@@ -30,6 +30,7 @@ author_profile: true
   </details>
 
 - A. Khan, L. Timilsina, G. Muriithi, A. Arsalan, **A. Moghassemi**, B. Papari, G. Ozkan, M. Ozden, C. Edrington, N. Boghrabadi, Z. Wang, “Energy Management Systems for Maritime Microgrids: A Comprehensive Review of Intelligent Optimization Strategies,” *IEEE Access*, vol. 13, pp. 171563-171597, 2025.
+  <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
@@ -43,56 +44,126 @@ author_profile: true
     </p>
   </details>
 
-- **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, P.K. Chamarthi, “Real-Time Improved Nearest Level Control for Power Electronics Building Blocks in All-Electric Ship Power Systems,” *IEEE Transactions on Industry Applications*, vol. 61, no. 5, pp. 7656-7670, 2025. <a href="https://doi.org/10.1109/TIA.2025.3559049" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Power electronics building block (PEBB) concept involves integrating fundamental components into functional blocks that can be stacked, extending converter power ratings for all-electric ships (AESs). This modular approach reduces costs, size, weight, design complexity, and maintenance. PEBBs can be realized as modular multi-level converters (MMCs), which offer advantages like modularity, low switching losses, minimal voltage/current quantization, high reliability, and efficiency. However, effective switching control methods are crucial to balance capacitor voltages and suppress circulating currents. This paper proposes an improved nearest level control (NLC) method that employs smoothed trapezoidal reference signals instead of sinusoidal references, aiming to enhance capacitor voltage balancing, suppress circulating currents, and improve the output power quality of PEBBs in AESs. The proposed NLC method is analyzed in real-time for an N-level PEBB connected to an induction machine (IM) with variable speed and torque load. The real-time verification is conducted in the Typhoon HIL606 digital real-time simulator (DRTS). The results validate the feasibility and effectiveness of the proposed NLC method for a three-phase N-level PEBB concept for AESs.
-  </p>
-- A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Reliability Score Benchmarking and Resistive Loss Profile-Based Open-Circuit Fault Diagnosis Approach for Motor Drive System,” *IEEE Transactions on Power Electronics*, vol. 40, no. 7, pp. 9824–9839, 2025. <a href="https://doi.org/10.1109/TPEL.2025.3546221" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    In recent years, data-driven methods have shown promise in diagnosing various open circuit fault (OCF) modes in inverter drive applications. However, existing studies primarily evaluate the reliability of these methods based solely on classification accuracy, neglecting critical real-time factors, such as computational delays and data transfer latency associated with the data-driven approach and communication protocols, respectively, which can affect real-time operational reliability. This article addresses these gaps by proposing a universally applicable reliability score criterion that integrates classification accuracy with system timing profiles. In addition, a model predictive control strategy employing active thermal management (ATM) is applied to the drive system, enabling a detailed analysis of the impact of OCF modes on the junction temperature of MOSFETs. Moreover, a novel feature extraction dataset is introduced, leveraging resistive/conduction loss data from the ATM scheme without requiring signal preprocessing. The proposed reliability score quantification and the dataset's diagnostic potential are validated using various data-driven classifiers. The most reliable classifier, achieving a 99.95% diagnosis accuracy, is further tested under diverse operating conditions using a control hardware-in-the-loop setup on an OPAL-RT testbed and Raspberry Pi.
-  </p>
-- E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, B. Papari, A. Arsalan, **A. Moghassemi**, M. Ozden, C. Edrington, “Analysis of Model Free Predictors for Interface Signal Delay Compensation in Real-Time Co-simulation,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 4, pp. 3448–3457, 2025. <a href="https://doi.org/10.1109/TII.2025.3528548" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Real-time cosimulation of geographically dispersed laboratories enables extensive system simulations but faces significant challenges from communication delays, impacting accuracy and stability. This issue is crucial in real-time power system cosimulation, where delays can disrupt synchronism and hinder dynamic analyses. This article proposes model-free predictive delay compensation methods as a viable alternative to signal transformation-based methods. This study explores the frequency domain stability of a model-free framework for delay prediction and compensation at power system interfaces using the ideal transformer method as an interface algorithm. Similarly, time-domain implementation reveals signal amplitude magnification, addressed by introducing a delay- and frequency-dependent normalizing factor. This framework adapts interface coupling signals, enabling real-time parameter tuning without complex processing or system models, enhancing co-simulation accuracy and stability for distributed power system analyses.
-  </p>
-- **A. Moghassemi**, D.S. Vanaja, J. Olamaei, G. Ozkan, C. Edrington, “A Novel Switching Method in PV Fed Quasi-ZSI-DVR for Voltage Quality Enhancement of Photovoltaic Integrated Networks,” *IET Renewable Power Generation*, vol. 19, pp. 1–29, 2025. <a href="https://doi.org/10.1049/rpg2.12575" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    In this work, a novel switching method for the photovoltaic-fed (PV-fed) dynamic voltage restorer (DVR) system based on a quasi-Z-source inverter (quasi-ZSI) is proposed. This proposed switching control strategy is implemented in such a way that a wider voltage boost gain and lower voltage stress across the switches and capacitors are achieved. The major drawback with the traditional switching method is that always three switches will be in conduction. However, in the proposed switching method, only two switches are triggered simultaneously to achieve the required output. It also obviates the need for zero states. The proposed switching method for the PV-fed quasi-ZSI-DVR provides an accurate compensation for various voltage disturbances, such as sags, swells, and interruptions, thereby eliminating the voltage harmonics at the point of common coupling. The integration of PV and battery is suggested for the quasi-ZSI-DVR to tackle the pertinent issue regarding sporadically transferring energy in the PV arrays and also recharging of batteries. Simulation and experimental results validate the suitability of the proposed PV-fed quasi-ZSI-DVR configuration with the proposed switching control method. It is inferred that the proposed system provides the lowest voltage harmonics and additional benefits like smaller capacitors, higher voltage gain, and lower voltage stress rates.
-  </p>
-- G. Muriithi, B. Papari, **A. Moghassemi**, A. Sundar, A. Arsalan, L. Timilsina, G. Ozkan, C. Edrington, “Vulnerability Assessment and Detection of Stealthy Sequential Cyberattacks in Hybrid Tracked Vehicles,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 2, pp. 6472–6489, 2025. <a href="https://doi.org/10.1109/TTE.2024.3510458" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This article presents an innovative approach to improve hybrid powertrains’ cyber-physical security for high-speed, tracked, off-road vehicles against subtle and sophisticated cyberattacks. While cyber threats against hybrid tracked vehicles (HTVs) have been acknowledged, exploring advanced cyberattacks targeting battery lifetime and energy efficiency within the powertrain remains underexplored. This article proposes a dual-pronged intelligent methodology to construct novel FDIAs targeting vehicle control decisions from the energy management system (EMS). The optimal cyberattack strategy by a minimally informed adversary is formulated as a partial observable Markov decision process (POMDP), employing deep reinforcement learning (DRL) for online learning and attacking. Simultaneously, a comprehensive reward system is devised that incorporates sniffing features to elevate the stealthiness and efficacy of the cyberattacks. This augmentation ensures that the orchestrated attack vectors remain inconspicuous to human drivers. Evaluation metrics are formulated to assess the impact and stealth characteristics of the cyberattack. Furthermore, a sliding window-based controller data monitoring scheme combining iForest and dynamic time warping (DTW) algorithms is proposed to automatically detect the stealthy FDIAs in real-time, ensuring secure control of energy-efficient powertrain systems. Through the proposed metrics and detection module, the article thoroughly examines the impact of cyberattacks on the energy consumption of the HTV. It also provides vital insights for defending vehicles that operate in austere environments against sophisticated controller attacks.
-  </p>
-- A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Enhanced Real-Time ATM-Based MPC for Electric Vehicles with Cyber-Physical Security Aspect,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 1, pp. 4698–4716, 2025. <a href="https://doi.org/10.1109/TTE.2024.3468887" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Inverter-based electric drive systems (EDSs) in electric vehicles (EVs) are susceptible to various common cyber and physical anomalies (CPAs), such as cyberattacks (CAs) and open-circuit faults (OCFs) in power switches. Most existing data-driven diagnostic schemes for motor drives solely rely on residual and three-phase output current signals and are prone to misclassification due to overlapping data features associated with these anomalies. Moreover, these methods concentrate on detecting either CAs or OCFs independently, lacking a unified approach that can be universally applied to both types of anomalies. Therefore, in this work, a physics-informed machine learning (PIML) approach is proposed, which can effectively distinguish between CAs and OCFs in EDS. In this regard, the unique features associated with stator current, resulting from various CPAs, are used to estimate the stator voltage characteristics through a synchronous motor mathematical model. The proposed voltage-based features characterizing better correlation via distinctive EDS transients in response to these anomalies are further used as the system’s prior information by a machine learning (ML) classifier. Moreover, active thermal management (ATM)-based model predictive control (MPC) is utilized in the control layer due to its benefits in device-level thermal cycling and power quality. In addition, various variations in electrical, mechanical, and thermal characteristics due to CPAs in EDS have also been analyzed. The presented approach is evaluated for the US06 standard drive cycle in real time via a controller-hardware-in-the-loop (CHIL) experiment for various case study scenarios, resulting in a classification accuracy of 98.92%.
-  </p>
+- **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, P.K. Chamarthi, “Real-Time Improved Nearest Level Control for Power Electronics Building Blocks in All-Electric Ship Power Systems,” *IEEE Transactions on Industry Applications*, vol. 61, no. 5, pp. 7656-7670, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/TIA.2025.3559049" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Power electronics building block (PEBB) concept involves integrating fundamental components into functional blocks that can be stacked, extending converter power ratings for all-electric ships (AESs). This modular approach reduces costs, size, weight, design complexity, and maintenance. PEBBs can be realized as modular multi-level converters (MMCs), which offer advantages like modularity, low switching losses, minimal voltage/current quantization, high reliability, and efficiency. However, effective switching control methods are crucial to balance capacitor voltages and suppress circulating currents. This paper proposes an improved nearest level control (NLC) method that employs smoothed trapezoidal reference signals instead of sinusoidal references, aiming to enhance capacitor voltage balancing, suppress circulating currents, and improve the output power quality of PEBBs in AESs. The proposed NLC method is analyzed in real-time for an N-level PEBB connected to an induction machine (IM) with variable speed and torque load. The real-time verification is conducted in the Typhoon HIL606 digital real-time simulator (DRTS). The results validate the feasibility and effectiveness of the proposed NLC method for a three-phase N-level PEBB concept for AESs.
+    </p>
+  </details>
+ 
+- A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Reliability Score Benchmarking and Resistive Loss Profile-Based Open-Circuit Fault Diagnosis Approach for Motor Drive System,” *IEEE Transactions on Power Electronics*, vol. 40, no. 7, pp. 9824–9839, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/TPEL.2025.3546221" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  In recent years, data-driven methods have shown promise in diagnosing various open circuit fault (OCF) modes in inverter drive applications. However, existing studies primarily evaluate the reliability of these methods based solely on classification accuracy, neglecting critical real-time factors, such as computational delays and data transfer latency associated with the data-driven approach and communication protocols, respectively, which can affect real-time operational reliability. This article addresses these gaps by proposing a universally applicable reliability score criterion that integrates classification accuracy with system timing profiles. In addition, a model predictive control strategy employing active thermal management (ATM) is applied to the drive system, enabling a detailed analysis of the impact of OCF modes on the junction temperature of MOSFETs. Moreover, a novel feature extraction dataset is introduced, leveraging resistive/conduction loss data from the ATM scheme without requiring signal preprocessing. The proposed reliability score quantification and the dataset's diagnostic potential are validated using various data-driven classifiers. The most reliable classifier, achieving a 99.95% diagnosis accuracy, is further tested under diverse operating conditions using a control hardware-in-the-loop setup on an OPAL-RT testbed and Raspberry Pi.
+    </p>
+  </details>
+
+- E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, B. Papari, A. Arsalan, **A. Moghassemi**, M. Ozden, C. Edrington, “Analysis of Model Free Predictors for Interface Signal Delay Compensation in Real-Time Co-simulation,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 4, pp. 3448–3457, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/TII.2025.3528548" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Real-time cosimulation of geographically dispersed laboratories enables extensive system simulations but faces significant challenges from communication delays, impacting accuracy and stability. This issue is crucial in real-time power system cosimulation, where delays can disrupt synchronism and hinder dynamic analyses. This article proposes model-free predictive delay compensation methods as a viable alternative to signal transformation-based methods. This study explores the frequency domain stability of a model-free framework for delay prediction and compensation at power system interfaces using the ideal transformer method as an interface algorithm. Similarly, time-domain implementation reveals signal amplitude magnification, addressed by introducing a delay- and frequency-dependent normalizing factor. This framework adapts interface coupling signals, enabling real-time parameter tuning without complex processing or system models, enhancing co-simulation accuracy and stability for distributed power system analyses.
+    </p>
+  </details>
+
+- **A. Moghassemi**, D.S. Vanaja, J. Olamaei, G. Ozkan, C. Edrington, “A Novel Switching Method in PV Fed Quasi-ZSI-DVR for Voltage Quality Enhancement of Photovoltaic Integrated Networks,” *IET Renewable Power Generation*, vol. 19, pp. 1–29, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1049/rpg2.12575" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  In this work, a novel switching method for the photovoltaic-fed (PV-fed) dynamic voltage restorer (DVR) system based on a quasi-Z-source inverter (quasi-ZSI) is proposed. This proposed switching control strategy is implemented in such a way that a wider voltage boost gain and lower voltage stress across the switches and capacitors are achieved. The major drawback with the traditional switching method is that always three switches will be in conduction. However, in the proposed switching method, only two switches are triggered simultaneously to achieve the required output. It also obviates the need for zero states. The proposed switching method for the PV-fed quasi-ZSI-DVR provides an accurate compensation for various voltage disturbances, such as sags, swells, and interruptions, thereby eliminating the voltage harmonics at the point of common coupling. The integration of PV and battery is suggested for the quasi-ZSI-DVR to tackle the pertinent issue regarding sporadically transferring energy in the PV arrays and also recharging of batteries. Simulation and experimental results validate the suitability of the proposed PV-fed quasi-ZSI-DVR configuration with the proposed switching control method. It is inferred that the proposed system provides the lowest voltage harmonics and additional benefits like smaller capacitors, higher voltage gain, and lower voltage stress rates.
+    </p>
+  </details>
+
+- G. Muriithi, B. Papari, **A. Moghassemi**, A. Sundar, A. Arsalan, L. Timilsina, G. Ozkan, C. Edrington, “Vulnerability Assessment and Detection of Stealthy Sequential Cyberattacks in Hybrid Tracked Vehicles,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 2, pp. 6472–6489, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/TTE.2024.3510458" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This article presents an innovative approach to improve hybrid powertrains’ cyber-physical security for high-speed, tracked, off-road vehicles against subtle and sophisticated cyberattacks. While cyber threats against hybrid tracked vehicles (HTVs) have been acknowledged, exploring advanced cyberattacks targeting battery lifetime and energy efficiency within the powertrain remains underexplored. This article proposes a dual-pronged intelligent methodology to construct novel FDIAs targeting vehicle control decisions from the energy management system (EMS). The optimal cyberattack strategy by a minimally informed adversary is formulated as a partial observable Markov decision process (POMDP), employing deep reinforcement learning (DRL) for online learning and attacking. Simultaneously, a comprehensive reward system is devised that incorporates sniffing features to elevate the stealthiness and efficacy of the cyberattacks. This augmentation ensures that the orchestrated attack vectors remain inconspicuous to human drivers. Evaluation metrics are formulated to assess the impact and stealth characteristics of the cyberattack. Furthermore, a sliding window-based controller data monitoring scheme combining iForest and dynamic time warping (DTW) algorithms is proposed to automatically detect the stealthy FDIAs in real-time, ensuring secure control of energy-efficient powertrain systems. Through the proposed metrics and detection module, the article thoroughly examines the impact of cyberattacks on the energy consumption of the HTV. It also provides vital insights for defending vehicles that operate in austere environments against sophisticated controller attacks.
+    </p>
+  </details>
+
+- A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Enhanced Real-Time ATM-Based MPC for Electric Vehicles with Cyber-Physical Security Aspect,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 1, pp. 4698–4716, 2025.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/TTE.2024.3468887" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Inverter-based electric drive systems (EDSs) in electric vehicles (EVs) are susceptible to various common cyber and physical anomalies (CPAs), such as cyberattacks (CAs) and open-circuit faults (OCFs) in power switches. Most existing data-driven diagnostic schemes for motor drives solely rely on residual and three-phase output current signals and are prone to misclassification due to overlapping data features associated with these anomalies. Moreover, these methods concentrate on detecting either CAs or OCFs independently, lacking a unified approach that can be universally applied to both types of anomalies. Therefore, in this work, a physics-informed machine learning (PIML) approach is proposed, which can effectively distinguish between CAs and OCFs in EDS. In this regard, the unique features associated with stator current, resulting from various CPAs, are used to estimate the stator voltage characteristics through a synchronous motor mathematical model. The proposed voltage-based features characterizing better correlation via distinctive EDS transients in response to these anomalies are further used as the system’s prior information by a machine learning (ML) classifier. Moreover, active thermal management (ATM)-based model predictive control (MPC) is utilized in the control layer due to its benefits in device-level thermal cycling and power quality. In addition, various variations in electrical, mechanical, and thermal characteristics due to CPAs in EDS have also been analyzed. The presented approach is evaluated for the US06 standard drive cycle in real time via a controller-hardware-in-the-loop (CHIL) experiment for various case study scenarios, resulting in a classification accuracy of 98.92%.
+    </p>
+  </details>
 
 ### 2024
-- B. Papari, L. Timilsina, **A. Moghassemi**, A.A. Khan, A. Arsalan, G. Ozkan, C. Edrington, “Advanced Meta Metrics-Based Approach to Assess an Appropriate Optimization Method for Wind/PV/Battery Based Hybrid AC-DC Microgrid,” *e-Prime*, p. 100640, 2024. <a href="https://doi.org/10.1016/j.prime.2024.100640" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    This paper discusses the growing influence of renewable energy and distributed generation, emphasizing the need for smart control systems to maximize benefits and optimize network performance. However, the absence of a standardized evaluation framework makes it challenging to compare different control systems effectively, especially in large-scale hybrid networks with both AC and DC components. While hybrid energy systems show promise for greener and more reliable power networks, they introduce complexity to control methods. Researchers are exploring innovative approaches, including linear and nonlinear techniques, to leverage renewable energy sources effectively in hybrid grids. The paper provides an overview of heuristic evolutionary optimization methods for microgrids (AC, DC, and hybrid AC-DC), highlighting promising techniques such as Crow Search Algorithm, Modified Crow Search Algorithm, Particle Swarm Optimization, and Genetic Algorithms. Comparative analysis suggests that the Modified Crow Search Algorithm performs best across various evaluation criteria, indicating its potential for optimizing microgrids effectively.
-  </p>
-- I. Rahman, **A. Moghassemi**, P.K. Chamarthi, G. Ozkan, C. Edrington, B. Papari, “Emerging Trends and Challenges in Thermal Management of Power Electronic Converters: A State of The Art Review,” *IEEE Access*, vol. 12, pp. 50633–50672, 2024. <a href="https://doi.org/10.1109/ACCESS.2024.3385429" style="color: #1E90FF">doi</a> 🔗
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p style="color:#1E90FF;">
-    Recently, the thermal management of power electronic converters has gained significant attention due to the continuous trend of developing very compact power electronic converters with high power density. With the evolution of power semiconductor devices, high operating temperatures and large thermal cycles have become possible, necessitating a significant improvement in thermal system designs. Researchers have made significant efforts to develop effective thermal management systems to improve the reliability and lifetime of power electronic converters. This article intends to present a thorough review of thermal management systems employed in power electronics cooling. The applied thermal management techniques have been reviewed from the perspective of electrical parameter regulation and heat dissipation control. Regulation of electrical parameters involves active thermal control, which is a method for controlling junction temperature and thermal cycling of power semiconductor devices. The active thermal control implementation processes reviewed in this article consist of increasing overload capacity, manipulating switching and conduction losses, employing modified modulation processes, balancing thermal stress at the converter level, and controlling thermal stress at the system level. Control of heat dissipation can be achieved through direct and indirect cooling of power electronic converters with air or liquid as the coolant. The effectiveness and implementation methods of these cooling techniques, such as channel cooling, phase change material-based cooling, immersion cooling, jet impingement and spray cooling, are reviewed in this paper. Moreover, performance-enhancing ideas and challenges for these techniques are discussed. The primary objective of this review paper is to bridge the existing gap in the literature by offering a comprehensive comparison of commonly employed thermal management techniques.
-  </p>
+- B. Papari, L. Timilsina, **A. Moghassemi**, A.A. Khan, A. Arsalan, G. Ozkan, C. Edrington, “Advanced Meta Metrics-Based Approach to Assess an Appropriate Optimization Method for Wind/PV/Battery Based Hybrid AC-DC Microgrid,” *e-Prime*, p. 100640, 2024.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1016/j.prime.2024.100640" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  This paper discusses the growing influence of renewable energy and distributed generation, emphasizing the need for smart control systems to maximize benefits and optimize network performance. However, the absence of a standardized evaluation framework makes it challenging to compare different control systems effectively, especially in large-scale hybrid networks with both AC and DC components. While hybrid energy systems show promise for greener and more reliable power networks, they introduce complexity to control methods. Researchers are exploring innovative approaches, including linear and nonlinear techniques, to leverage renewable energy sources effectively in hybrid grids. The paper provides an overview of heuristic evolutionary optimization methods for microgrids (AC, DC, and hybrid AC-DC), highlighting promising techniques such as Crow Search Algorithm, Modified Crow Search Algorithm, Particle Swarm Optimization, and Genetic Algorithms. Comparative analysis suggests that the Modified Crow Search Algorithm performs best across various evaluation criteria, indicating its potential for optimizing microgrids effectively.
+    </p>
+  </details>
+
+- I. Rahman, **A. Moghassemi**, P.K. Chamarthi, G. Ozkan, C. Edrington, B. Papari, “Emerging Trends and Challenges in Thermal Management of Power Electronic Converters: A State of The Art Review,” *IEEE Access*, vol. 12, pp. 50633–50672, 2024.
+  <br>
+  <!-- LINKS -->
+  <a href="https://doi.org/10.1109/ACCESS.2024.3385429" style="color:#1E90FF;" target="_blank">doi</a> 🔗
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
+  <!-- Abstract -->
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Recently, the thermal management of power electronic converters has gained significant attention due to the continuous trend of developing very compact power electronic converters with high power density. With the evolution of power semiconductor devices, high operating temperatures and large thermal cycles have become possible, necessitating a significant improvement in thermal system designs. Researchers have made significant efforts to develop effective thermal management systems to improve the reliability and lifetime of power electronic converters. This article intends to present a thorough review of thermal management systems employed in power electronics cooling. The applied thermal management techniques have been reviewed from the perspective of electrical parameter regulation and heat dissipation control. Regulation of electrical parameters involves active thermal control, which is a method for controlling junction temperature and thermal cycling of power semiconductor devices. The active thermal control implementation processes reviewed in this article consist of increasing overload capacity, manipulating switching and conduction losses, employing modified modulation processes, balancing thermal stress at the converter level, and controlling thermal stress at the system level. Control of heat dissipation can be achieved through direct and indirect cooling of power electronic converters with air or liquid as the coolant. The effectiveness and implementation methods of these cooling techniques, such as channel cooling, phase change material-based cooling, immersion cooling, jet impingement and spray cooling, are reviewed in this paper. Moreover, performance-enhancing ideas and challenges for these techniques are discussed. The primary objective of this review paper is to bridge the existing gap in the literature by offering a comprehensive comparison of commonly employed thermal management techniques.
+    </p>
+  </details>
 
 ### 2023
 - L. Timilsina, P.H. Hoang, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “A Real-Time Prognostic Based Control Framework for Hybrid Electric Vehicles,” *IEEE Access*, vol. 11, pp. 127589–127607, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3332689" style="color: #1E90FF">doi</a> 🔗
