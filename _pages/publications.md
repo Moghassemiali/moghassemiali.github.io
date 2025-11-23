@@ -30,7 +30,7 @@ author_profile: true
 
 - A. Khan, L. Timilsina, G. Muriithi, A. Arsalan, **A. Moghassemi**, B. Papari, G. Ozkan, M. Ozden, C. Edrington, N. Boghrabadi, Z. Wang, “Energy Management Systems for Maritime Microgrids: A Comprehensive Review of Intelligent Optimization Strategies,” *IEEE Access*, vol. 13, pp. 171563-171597, 2025.
   <!-- LINKS -->
-  <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;"target="_blank">doi</a> 🔗
+  <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
   <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
