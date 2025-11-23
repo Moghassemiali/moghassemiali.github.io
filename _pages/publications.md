@@ -10,15 +10,11 @@ author_profile: true
 <div class="pub-item" style="margin-bottom:20px; padding:12px; border-radius:10px; transition:0.2s;">
 
   1. <strong>A. Moghassemi</strong>, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” <em>IEEE Transactions on Transportation Electrification</em>, 2025.
+    <!-- LINKS -->
+  <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
     <!-- BADGES -->
   <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
-    <!-- LINKS -->
-  <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
-    <!-- FLEX CONTAINER FOR ABSTRACT + CITE -->
-  <div style="display:flex; gap:10px; margin-top:10px;">
-    <!-- TOGGLE ROW -->
-  <div style="display:flex; gap:15px; margin-top:15px;">
     <!-- ABSTRACT -->
   <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
