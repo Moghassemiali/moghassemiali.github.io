@@ -20,26 +20,27 @@ author_profile: true
     <!-- TOGGLE ROW -->
   <div style="display:flex; gap:15px; margin-top:15px;">
     <!-- ABSTRACT -->
-    <details class="toggle-box" style="background:#f0f7ff; padding:12px; border-radius:10px; width:50%;">
-      <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
-      <p style="color:#1E90FF; margin-top:10px;">
-        Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
-      </p>
-    </details>
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+    <p style="color:#1E90FF; margin-top:10px;">
+      Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
+    </p>
+  </details>
     <!-- CITATION -->
-    <details class="toggle-box" style="background:#f0f7ff; padding:12px; border-radius:10px; width:50%;">
-      <summary><strong style="color:#1E90FF;">Cite</strong></summary>
-      <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Cite</strong></summary>
+    <pre style="color:#1E90FF; margin-top:10px; white-space:pre-wrap;">
 @article{moghassemi2025ETM,
   author={Moghassemi, A. and Timilsina, L. and Rahman, I. 
           and Ozkan, G. and Edrington, C. and Zhang, Z.},
-  title={Real-Time Electro-Thermal Management of PEBBs},
+  title={Real-Time Electro-Thermal Management and Data-Driven 
+         Degradation Forecasting of PEBBs in All-Electric Ships},
   journal={IEEE Transactions on Transportation Electrification},
-  year={2025}
+  year={2025},
+  status={Under Review}
 }
-      </pre>
-    </details>
-  </div>
+    </pre>
+  </details>
 </div>
 
 
