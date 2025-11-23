@@ -16,7 +16,7 @@ author_profile: true
 - L. Timilsina, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “Real-Time Analysis of Battery Degradation in a Plug-In Hybrid Electric Vehicles During V2G Operation,” *SAE International Journal of Electrified Vehicles*, 2025. (Accepted)
 - E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025.
   <!-- LINKS -->
-  <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color:#1E90FF;">doi</a> 🔗
+  <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color:#1E90FF;"target="_blank">doi</a> 🔗
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
   <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
@@ -30,7 +30,7 @@ author_profile: true
 
 - A. Khan, L. Timilsina, G. Muriithi, A. Arsalan, **A. Moghassemi**, B. Papari, G. Ozkan, M. Ozden, C. Edrington, N. Boghrabadi, Z. Wang, “Energy Management Systems for Maritime Microgrids: A Comprehensive Review of Intelligent Optimization Strategies,” *IEEE Access*, vol. 13, pp. 171563-171597, 2025.
   <!-- LINKS -->
-  <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;">doi</a> 🔗
+  <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;"target="_blank">doi</a> 🔗
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
   <img src="https://img.shields.io/badge/Status-Published-green" alt="status badge">
