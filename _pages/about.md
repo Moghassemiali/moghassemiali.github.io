@@ -9,7 +9,7 @@ redirect_from:
 
 {% if author.avatar %}
   <p align="center">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" style="max-width: 150px;">
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" style="max-width: 150px; border-radius: 100%;">
   </p>
 {% endif %}
 
