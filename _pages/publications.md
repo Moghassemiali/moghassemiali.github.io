@@ -24,7 +24,8 @@ author_profile: true
   </details>
     <!-- GRAPHICAL ABSTRACT -->
   <details>
-  <summary><strong style="color:#1E90FF;">Graphical Abstract</strong></summary>
+  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+    <summary><strong style="color:#1E90FF;">Graphical Abstract</strong></summary>
   <img src="/assets/img/graphical/xxx.jpg" style="width:100%; margin-top:10px; border-radius:10px;">
 </details>
     <!-- CITATION -->
