@@ -13,10 +13,10 @@ author_profile: true
     <!-- LINKS -->
   <a href="https://doi.org/xxxx" style="color:#1E90FF;">doi</a> 🔗
     <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
   <img src="https://img.shields.io/badge/Type-Journal-blue" alt="journal badge">
+  <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="status badge">
     <!-- ABSTRACT -->
-  <details style="background:#f0f7ff; padding:12px; border-radius:10px; margin-top:10px;">
+  <details style="background:#f8fbff; padding:12px; border-radius:10px; margin-top:10px;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
     <p style="color:#1E90FF; margin-top:10px;">
       Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities...
