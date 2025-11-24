@@ -442,7 +442,7 @@ author_profile: true
     </p>
   </details>
 
-## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.8rem; font-weight:800;">Conference Papers</span>
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Conference Papers</span>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
@@ -801,7 +801,7 @@ author_profile: true
     </p>
   </details>
 
-## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.8rem; font-weight:800;">Book Chapters</span>
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Book Chapters</span>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2022</span>
 
@@ -835,7 +835,7 @@ author_profile: true
     </p>
   </details>
   
-## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.8rem; font-weight:800;">Books</span>
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Books</span>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2019</span>
 
