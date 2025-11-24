@@ -31,68 +31,58 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Academic Experience</span>
 
 * **Post-Doctoral Research Associate**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
-  * **Research group:** <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>
-  * **Supervisor:** Dr. Robert Cuzner  
-  * **Contributions:**
-    * **NiPEC-PEPDS Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed an Integration Framework for PEPDS, focusing on Virtual Prototyping Process (VPP) leading to metamodels of Power Electronic Power Distribution System (PEPDS) equipment within the Navy and collaboration with Arizona State University to produce dielectric scaling laws for use within the VPP.
-    * **Tech candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the Power Electronic Power Distribution System (PEPDS) integration team to bring a range of technologies developed on the PEPDS.
-    * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
-    * **Demo D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishes bases of cost estimates, providing validation cases and "new sources of truth" to increase the confidence in equipment metamodels and measurement data.
-    * Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
-    * Provided guidance on experimental methods, coding practices, or writing techniques.
-    * Contributed to lab management, group meetings, and collaborative initiatives.
+  * **Research Group:** <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>, supervised by Dr. Robert Cuzner
+  * **NiPEC-PEPDS Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed an Integration Framework for PEPDS, focusing on Virtual Prototyping Process (VPP) leading to metamodels of Power Electronic Power Distribution System (PEPDS) equipment within the Navy and collaboration with Arizona State University to produce dielectric scaling laws for use within the VPP.
+  * **Tech candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the Power Electronic Power Distribution System (PEPDS) integration team to bring a range of technologies developed on the PEPDS.
+  * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
+  * **Demo D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishes bases of cost estimates, providing validation cases and "new sources of truth" to increase the confidence in equipment metamodels and measurement data.
+  * Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
+  * Provided guidance on experimental methods, coding practices, or writing techniques.
+  * Contributed to lab management, group meetings, and collaborative initiatives.
 <br>
 * **Graduate Research Assistant**, Clemson University, Clemson, SC (August 2022 – May 2025)
-  * **Research group:** <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a>
-  * **Supervisor:** Dr. Christopher Edrington
-  * **Contributions:**
-    * **Electrothermal Management Using In-situ Junction Thermal Estimates for Enhanced Converter Reliability:** Developed data-driven and model-based electro-thermal management control strategies to ensure acceptable electrical performance while minimizing cooling demands and thermal cycling in power converters, through implemented control and management algorithms on various real-time controller boards and digital simulation platforms.
-    * **Dynamometer Test Bed:**
-      * Designed, modeled, controlled, prototyped, and validated a dyno testbed with two PMSMs (4-pole 10kW/350A and 5-pole 12kW/350A), mechanically coupled via a bearingless digital torque transducer and enclosed in a protective housing.
-      * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
-      * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
+  * **Research Group:** <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a>, supervised by Dr. Christopher Edrington
+  * **Electrothermal Management Using In-situ Junction Thermal Estimates for Enhanced Converter Reliability:** Developed data-driven and model-based electro-thermal management control strategies to ensure acceptable electrical performance while minimizing cooling demands and thermal cycling in power converters, through implemented control and management algorithms on various real-time controller boards and digital simulation platforms.
+  * **Dynamometer Test Bed:**
+    * Designed, modeled, controlled, prototyped, and validated a dyno testbed with two PMSMs (4-pole 10kW/350A and 5-pole 12kW/350A), mechanically coupled via a bearingless digital torque transducer and enclosed in a protective housing.
+    * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
+    * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
 <br>
 * **External Researcher**, Aarhus University, Herning, Denmark (March 2021 – July 2021)
-  * **Contributions:**
-    * Collaborated on *Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms* research project
-    * Published one journal article funded by the *Science Foundation Ireland (SFI)*
+  * Collaborated on *Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms* research project
+  * Published one journal article funded by the *Science Foundation Ireland (SFI)*
 <br>
 * **External Researcher**, Aalborg University, Esbjerg, Denmark (November 2020 – March 2021)
-  * **Contributions:**
-    * Collaborated on *Decarbonization of Grid with an Optimal Controller and Energy Management for Energy Storage System in Microgrid Applications* research project
-    * Published one journal article funded by the *Ministry of Education (MOE)*, Malaysia
+  * Collaborated on *Decarbonization of Grid with an Optimal Controller and Energy Management for Energy Storage System in Microgrid Applications* research project
+  * Published one journal article funded by the *Ministry of Education (MOE)*, Malaysia
 <br>
 * **University Lecturer**, University of Applied Science and Technology, Tehran, Iran (January 2021 – July 2021)
-    * **Contributions:**
-      * Taught undergraduate courses: Industrial Electronics, Power Systems Analysis, Protections and Relays, and Electric Machines.
-      * Created structured assignments and project-based activities to enhance student understanding of theoretical concepts.
+  * Designed and taught undergraduate courses in *Industrial Electronics*, *Power Systems Analysis*, *Protections and Relays*, and *Electric Machines*.
+  * Implemented project-based learning and structured assignments to connect theory with practical engineering applications.
+  * Provided mentorship and individualized academic support to enhance student performance and engagement.
 <br>
 * **Course Instructor**, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
-  * **Contributions:**
-    * Taught *MATLAB/Simulink* for undergraduate/graduate students, focusing on control systems modeling and power electronics applications.
-    * Developed interactive tutorials and laboratory-style assignments to strengthen computational and simulation skills.
-    * Advised students on research projects and power electronics simulations, fostering independent problem-solving.
+  * Taught *MATLAB/Simulink* for undergraduate/graduate students, focusing on control and modeling of power electronics.
+  * Developed interactive tutorials and laboratory-style assignments to strengthen computational and simulation skills.
+  * Advised students on research projects and power electronics simulations, fostering independent problem-solving.
 <br>
 * **Teaching Assistant**, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2010 – June 2015)
-  * **Contributions:**
-    * Supported instruction in courses: *Electric Circuits I/II*, *Power Electronics*, *Advanced Power Systems Operation*, and *Power System Planning*.
-    * Led discussion sessions, assisted with laboratory activities, and provided guidance during problem-solving exercises.
-    * Evaluated student work, offered constructive feedback, and facilitated exam preparation.
+  * Supported instruction in courses: *Electric Circuits I/II*, *Power Electronics*, *Advanced Power Systems Operation*, and *Power System Planning*.
+  * Led discussion sessions, assisted with laboratory activities, and provided guidance during problem-solving exercises.
+  * Evaluated student work, offered constructive feedback, and facilitated exam preparation.
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Experience</span>
 
 * **Technical Expert**, Intelligent Control & Processing (ICP) Company, Tehran, Iran (June 2021 – August 2022)
-  * **Contributions:**
-    * Developed technical/commercial proposals for over €3 million advanced control systems (DCS, ESD, FGS, PDCS, PMS, BMS), resulting in successful projects from different domains.
-    * Supported business development activities by preparing bills of materials (BOM), responding to requests for information (RFI) and for proposals (RFP), and engaging with clients to assess their technical requirements.
-    * Conducted technical meetings with clients, addressed their engineering needs, ensuring optimal solutions as per project specifications.
-    * Led R&D initiatives, successfully enhanced proposed control system solutions.
+  * Developed technical/commercial proposals for over €3 million advanced control systems (DCS, ESD, FGS, PDCS, PMS, BMS), resulting in successful projects from different domains.
+  * Supported business development activities by preparing bills of materials (BOM), responding to requests for information (RFI) and for proposals (RFP), and engaging with clients to assess their technical requirements.
+  * Conducted technical meetings with clients, addressed their engineering needs, and ensured optimal solutions as per project specifications.
+  * Led R&D initiatives, successfully enhanced proposed control system solutions.
 <br>
 * **Intern**, Paykar Bonyan Sanat (PBS) Company, Tehran, Iran (February 2012 – June 2012)
-  * **Contributions:**
-    * Programmed Omron & Siemens PLCs
-    * Controlled AC inverters
+  * Programmed Omron & Siemens PLCs
+  * Controlled AC inverters
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Honors and Awards</span>
