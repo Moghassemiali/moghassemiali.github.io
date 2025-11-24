@@ -19,13 +19,22 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Education</span>
 
-* Ph.D. in Electrical Engineering, Clemson University (August 2022 - May 2025)
-  * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships</a> 
-  * **Supervisor:** Dr. Christopher Edrington
-* M.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch (September 2013 - December 2015)
-  * **Thesis:** Response and Reliability Improvement of Grid-Connected Photovoltaic Systems with Trans-Z-Source Inverter
-* B.Sc. in Electrical Engineering, Islamic Azad University - South Tehran Branch (September 2008 - July 2012)
-  * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
+### **Ph.D. in Electrical Engineering — Clemson University**  
+<span style="color:#555;">August 2022 – May 2025</span>  
+- **Dissertation:**  
+  <a href="https://open.clemson.edu/all_dissertations/3903/" style="color:#1E90FF; text-decoration:none;">
+  Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships
+  </a>  
+- **Supervisor:** Dr. Christopher Edrington
+
+### **M.Sc. in Electrical Engineering — Islamic Azad University, South Tehran Branch**  
+<span style="color:#555;">September 2013 – December 2015</span>  
+- **Thesis:** Response and Reliability Improvement of Grid-Connected Photovoltaic Systems with Trans-Z-Source Inverter
+
+### **B.Sc. in Electrical Engineering — Islamic Azad University, South Tehran Branch**  
+<span style="color:#555;">September 2008 – July 2012</span>  
+- **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
+
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Academic Experience</span>
