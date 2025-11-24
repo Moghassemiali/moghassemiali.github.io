@@ -220,7 +220,8 @@ author_profile: true
     </p>
   </details>
 
-### 2024
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2024</span>
+
 - B. Papari, L. Timilsina, **A. Moghassemi**, A.A. Khan, A. Arsalan, G. Ozkan, C. Edrington, “Advanced Meta Metrics-Based Approach to Assess an Appropriate Optimization Method for Wind/PV/Battery Based Hybrid AC-DC Microgrid,” *e-Prime*, p. 100640, 2024.
   <br>
   <!-- LINKS -->
@@ -251,7 +252,8 @@ author_profile: true
     </p>
   </details>
 
-### 2023
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2023</span>
+
 - L. Timilsina, P.H. Hoang, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “A Real-Time Prognostic Based Control Framework for Hybrid Electric Vehicles,” *IEEE Access*, vol. 11, pp. 127589–127607, 2023.
   <br>
   <!-- LINKS -->
@@ -282,7 +284,8 @@ author_profile: true
     </p>
   </details>
 
-### 2022
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2022</span>
+
 - **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022.
   <br>
   <!-- LINKS -->
@@ -298,7 +301,8 @@ author_profile: true
     </p>
   </details>
 
-### 2021
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2021</span>
+
 - D.S. Vanaja, A.A. Stonier, **A. Moghassemi**, “A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter,” *International Transactions on Electrical Energy Systems*, vol. 31, no. 12, p. e13135, 2021.
   <br>
   <!-- LINKS -->
@@ -329,7 +333,8 @@ author_profile: true
     </p>
   </details>
 
-### 2020
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2020</span>
+
 - **A. Moghassemi**, S. Padmanaban, V.K. Ramachandaramurthy, M. Mitolo, M. Benbouzid, “A Novel Solar Photovoltaic Fed TransZSI-DVR for Power Quality Improvement of Grid-Connected PV Systems,” *IEEE Access*, vol. 9, pp. 7263–7279, 2020.
   <br>
   <!-- LINKS -->
@@ -420,7 +425,8 @@ author_profile: true
     </p>
   </details>
 
-### 2016
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2016</span>
+
 - J. Olamaei, S. Ebrahimi, **A. Moghassemi**, “Compensation of Voltage Sag Caused by Partial Shading in Grid-Connected PV System Through the Three-Level SVM Inverter,” *Sustainable Energy Technologies and Assessments*, vol. 18, pp. 107–118, 2016.
   <br>
   <!-- LINKS -->
@@ -438,7 +444,8 @@ author_profile: true
 
 ## Conference Papers
 
-### 2025
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
+
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2025.
   <br>
   <!-- LINKS -->
@@ -484,7 +491,8 @@ author_profile: true
     </p>
   </details>
 
-### 2024
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2024</span>
+
 - L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. Arsalan, G. Muriithi, O. Ciftci, G. Ozkan, B. Papari, C. Edrington, “Hybrid Electric Vehicle Simulation Operation Across Distributed Laboratories Using Hardware Integrated Virtual Environment Concept,” *2024 IEEE 9th Southern Power Electronics Conference (SPEC)*, Brisbane, Australia, pp. 1–8, 2024.
   <br>
   <!-- LINKS -->
@@ -650,7 +658,8 @@ author_profile: true
     </p>
   </details>
 
-### 2023
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2023</span>
+
 - P.K. Chamarthi, C. Edrington, A. Arsalan, L. Timilsina, B. Papari, G. Ozkan, **A. Moghassemi**, “A Novel 1-ϕ Cuk Based On-Board EV Charger with Minimal Power Components,” *2023 SAE Energy & Propulsion Conference & Exhibition (EPCE)*, Greenville, SC, USA, 2023-01-1686, 2023.
   <br>
   <!-- LINKS -->
@@ -696,7 +705,8 @@ author_profile: true
     </p>
   </details>
 
-### 2021
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2021</span>
+
 - **A. Moghassemi**, S. Ebrahimi, F. Ferdowsi, “A Novel Control Scheme for TransZSI-DVR to Enhance Power Quality in Solar Integrated Networks,” *2021 North American Power Symposium (NAPS)*, College Station, TX, USA, pp. 1–6, 2021.
   <br>
   <!-- LINKS -->
@@ -712,7 +722,8 @@ author_profile: true
     </p>
   </details>
 
-### 2020
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2020</span>
+
 - **A. Moghassemi**, S. Ebrahimi, “Modified SVPWM for Trans-Z-Source Inverter-Based PV Systems,” *The 7th National Congress of Newly Discovered Iranian Electrical Engineering*, Tehran, Iran, 2020.
   <br>
   <!-- LINKS -->
@@ -758,7 +769,8 @@ author_profile: true
     </p>
   </details>
 
-### 2014
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2014</span>
+
 - **A. Moghassemi**, J. Olamaei, M. Hosseini, “Simulation of Photovoltaic System Based on Zero-Current Switching Forward Converter,” *The 17th Iranian Student Conference on Electrical Engineering*, Kish, Iran, 2014.
   <br>
   <!-- LINKS -->
@@ -791,7 +803,7 @@ author_profile: true
 
 ## Books and Book Chapters
 
-### 2022
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2022</span>
 
 - T. Kerci, W. Zhong, **A. Moghassemi**, F. Milano, P. Moutis, “Frequency Control and Regulating Reserves by VPPs,” *Scheduling and Operation of Virtual Power Plants*, pp. 131–162, Cambridge: Elsevier, 2022
   <br>
@@ -823,7 +835,7 @@ author_profile: true
     </p>
   </details>
   
-### 2019
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2019</span>
 
 - **A. Moghassemi**, S. Ebrahimi, “Application of Renewable Energy Systems in MATLAB/Simulink Software: PV Solar and Wind Turbine,” *Roham Andisheh Press*, Tehran, Iran, 2019.
   <br>
