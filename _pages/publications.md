@@ -6,7 +6,16 @@ author_profile: true
 
 ## Journal Articles
 
-### 2025
+### <span style="
+  display:inline-block;
+  background:#e6f2ff;
+  padding:6px 14px;
+  border-radius:8px;
+  font-size:1.25rem;
+  font-weight:700;">
+📅 2025
+</span>
+
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- BADGES -->
