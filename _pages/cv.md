@@ -109,29 +109,26 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Service Experience</span>
 
-* **Editorial Roles**
-  * <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a>, Editorial Board (September 2025 - Present)
-  * <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a>, Associate Editor (September 2025 - Present)
-  * <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a>, Associate Editor (June 2025 - Present)
-  * <a href="https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies" style="color: #1E90FF; text-decoration: none;"> Frontiers in Smart Grids, Smart Grid Technologies</a>, Section Editor (July 2022 - Present)
-<br>
-* **Peer-Review Contributions**
-  * Top-tier journals and conferences (230+ verified reviews) listed in my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile (June 2018 - Present)
+* **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> September 2025 - Present)
+* **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> (September 2025 - Present)
+* **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a> (June 2025 - Present)
+* **Section Editor**, <a href="https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies" style="color: #1E90FF; text-decoration: none;"> Frontiers in Smart Grids, Smart Grid Technologies</a> (July 2022 - Present)
+* **Reviewer**, top-tier journals and conferences (230+ verified reviews) listed in my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile (June 2018 - Present)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
 
-* Member, <a href="https://www.ieee.org/" style="color: #1E90FF; text-decoration: none;"> Institute for Electrical and Electronics Engineers (IEEE)</a> (March 2023 - Present)
-* Member, <a href="https://yp.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Young Professionals (IEEE YP)</a> (January 2023 - Present)
-* Member, <a href="https://www.ieee-ies.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industrial Electronics Society (IEEE IES)</a> March 2025 - Present)
-* Member, <a href="https://ias.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industry Applications Society (IEEE IAS)</a> (March 2025 - Present)
-* Member, <a href="https://ieee-pes.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power & Energy Society (IEEE PES)</a> (March 2023 - Present)
-* Member, <a href="https://www.ieee-pels.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power Electronics Society (IEEE PELS)</a> (March 2025 - Present)
-* Member, <a href="hhttps://ieeesystemscouncil.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Systems Council</a> (March 2023 - Present)
-* Member, <a href="https://tec.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Transportation Electrification Council</a> (March 2025 - Present)
-* Member, <a href="https://smartcities.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Smart Cities Community</a> (January 2025 - Present)
-* Member, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a> (April 2023 - May 2025)
-* Member, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a> (April 2023 - May 2025)
+* **Member**, <a href="https://www.ieee.org/" style="color: #1E90FF; text-decoration: none;"> Institute for Electrical and Electronics Engineers (IEEE)</a> (March 2023 - Present)
+* **Member**, <a href="https://yp.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Young Professionals (IEEE YP)</a> (January 2023 - Present)
+* **Member**, <a href="https://www.ieee-ies.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industrial Electronics Society (IEEE IES)</a> March 2025 - Present)
+* **Member**, <a href="https://ias.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industry Applications Society (IEEE IAS)</a> (March 2025 - Present)
+* **Member**, <a href="https://ieee-pes.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power & Energy Society (IEEE PES)</a> (March 2023 - Present)
+* **Member**, <a href="https://www.ieee-pels.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power Electronics Society (IEEE PELS)</a> (March 2025 - Present)
+* **Member**, <a href="hhttps://ieeesystemscouncil.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Systems Council</a> (March 2023 - Present)
+* **Member**, <a href="https://tec.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Transportation Electrification Council</a> (March 2025 - Present)
+* **Member**, <a href="https://smartcities.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Smart Cities Community</a> (January 2025 - Present)
+* **Member**, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a> (April 2023 - May 2025)
+* **Member**, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a> (April 2023 - May 2025)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Skills</span>
