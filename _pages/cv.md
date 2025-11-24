@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 👉 Download my full CV (PDF) <a href="{{ '/files/AliMoghassemi_CV.pdf' | relative_url }}" style="color: #1E90FF; text-decoration: none;"> here</a>.
+👉 Download my full CV (PDF) <a href="{{ '/files/AliMoghassemi_CV.pdf' | relative_url }}" style="color:#1E90FF; text-decoration:none;"> here <i class="fa fa-file-pdf-o" style="color:#D32F2F;"></i> </a>.
+
 
 {% include base_path %}
 ------
