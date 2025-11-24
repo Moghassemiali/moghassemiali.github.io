@@ -113,7 +113,7 @@ redirect_from:
 * **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> (September 2025 - Present)
 * **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a> (June 2025 - Present)
 * **Section Editor**, <a href="https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies" style="color: #1E90FF; text-decoration: none;"> Frontiers in Smart Grids, Smart Grid Technologies</a> (July 2022 - Present)
-* **Reviewer**, top-tier journals and conferences (230+ verified reviews) listed in my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile (June 2018 - Present)
+* **Reviewer**, top-tier journals and conferences (230+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
