@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.8rem; font-weight:800;">Journal Articles</span>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
