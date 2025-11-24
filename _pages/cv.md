@@ -121,18 +121,17 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
 
-* Member, Institute for Electrical and Electronics Engineers (IEEE) (Mar. 2023 - Present)
-* Member, IEEE Young Professionals (IEEE YP) (Jan. 2023 - Present)
-* Member, IEEE Industrial Electronics Society (IEEE IES) (Mar. 2025 - Present)
-* Member, IEEE Industry Applications Society (IEEE IAS) (Mar. 2025 - Present)
-* Member, IEEE Power \& Energy Society (IEEE PES) (Mar. 2023 - Present)
-* Member, IEEE Power Electronics Society (IEEE PELS) (Mar. 2025 - Present)
-* Member, IEEE Systems Council (Mar. 2023 - Present)
-* Member, IEEE Transportation Electrification Council (Mar. 2025 - Present)
-* Member, IEEE Smart Cities Community (Jan. 2025 - Present)
-* Member, SAE International (Apr. 2023 - May. 2025)
-* Member, Clemson IEEE Power and Energy Society Student Branch (Apr. 2023 - May. 2025)
-  
+* Member, <a href="https://www.ieee.org/" style="color: #1E90FF; text-decoration: none;"> Institute for Electrical and Electronics Engineers (IEEE)</a> (March 2023 - Present)
+* Member, <a href="https://yp.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Young Professionals (IEEE YP)</a> (January 2023 - Present)
+* Member, <a href="https://www.ieee-ies.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industrial Electronics Society (IEEE IES)</a> (March 2025 - Present)
+* Member, <a href="https://ias.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industry Applications Society (IEEE IAS)</a>  (March 2025 - Present)
+* Member, <a href="https://ieee-pes.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power & Energy Society (IEEE PES)</a>  (March 2023 - Present)
+* Member, <a href="https://www.ieee-pels.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power Electronics Society (IEEE PELS)</a>  (March 2025 - Present)
+* Member, <a href="hhttps://ieeesystemscouncil.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Systems Council</a>  (March 2023 - Present)
+* Member, <a href="https://tec.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Transportation Electrification Council</a>  (March 2025 - Present)
+* Member, <a href="https://smartcities.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Smart Cities Community</a>  (January 2025 - Present)
+* Member, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a>  (April 2023 - May 2025)
+* Member, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a>  (April 2023 - May 2025)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Skills</span>
