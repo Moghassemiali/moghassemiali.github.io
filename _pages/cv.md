@@ -116,7 +116,7 @@ redirect_from:
   * <a href="https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies" style="color: #1E90FF; text-decoration: none;"> Frontiers in Smart Grids, Smart Grid Technologies</a>, Section Editor (July 2022 - Present)
 <br>
 * **Peer-Review Contributions**
-  * Top-tier journals and conferences (230+ verified reviews) since June 2018, see my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile.
+  * Top-tier journals and conferences (230+ verified reviews) listed in my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile (June 2018 - Present)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
