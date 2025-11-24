@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 ------
 
-## Education
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Education</span>
 
 * Ph.D. in Electrical Engineering, Clemson University (August 2022 - May 2025)
   * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships</a> 
@@ -23,7 +23,7 @@ redirect_from:
   * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
 <br>
 
-## Academic Experience
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Academic Experience</span>
 
 * <span style="color: #1E90FF">**Post-Doctoral Research Associate**</span>, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
   * **Research group:** <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>
@@ -75,7 +75,7 @@ redirect_from:
     * Evaluated student work, offered constructive feedback, and facilitated exam preparation.
 <br>
 
-## Work Experience
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Experience</span>
 
 * <span style="color: #1E90FF">**Technical Expert**</span>, Intelligent Control & Processing (ICP) Company, Tehran, Iran (June 2021 – August 2022)
   * **Contributions:**
@@ -90,7 +90,7 @@ redirect_from:
     * Controlled AC inverters
 <br>
 
-## Honors and Awards
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Honors and Awards</span>
 
 *  May 2025, <span style="color: #1E90FF">**Outstanding Graduate Researcher Award**</span>, Graduate School, Clemson University, Clemson, SC
    * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a research, and/or originality, imagination and significance of research or creative activity.
@@ -102,8 +102,7 @@ redirect_from:
 * February 2009, <span style="color: #1E90FF">**Distinguished Student**</span>, Bachelor's program, Islamic Azad University - South Tehran Branch
 <br>
 
-## Service Experience
-
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Service Experience</span>
 
 * <span style="color: #1E90FF">**Editorial Roles**</span>
   * <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a>, Editorial Board (September 2025 - Present)
@@ -115,7 +114,23 @@ redirect_from:
   * Top-tier journals and conferences (230+ verified reviews) since June 2018, see my <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> profile.
 <br>
 
-## Skills
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
+
+* Member, Institute for Electrical and Electronics Engineers (IEEE) (Mar. 2023 - Present)
+* Member, IEEE Young Professionals (IEEE YP) (Jan. 2023 - Present)
+* Member, IEEE Industrial Electronics Society (IEEE IES) (Mar. 2025 - Present)
+* Member, IEEE Industry Applications Society (IEEE IAS) (Mar. 2025 - Present)
+* Member, IEEE Power \& Energy Society (IEEE PES) (Mar. 2023 - Present)
+* Member, IEEE Power Electronics Society (IEEE PELS) (Mar. 2025 - Present)
+* Member, IEEE Systems Council (Mar. 2023 - Present)
+* Member, IEEE Transportation Electrification Council (Mar. 2025 - Present)
+* Member, IEEE Smart Cities Community (Jan. 2025 - Present)
+* Member, SAE International (Apr. 2023 - May. 2025)
+* Member, Clemson IEEE Power and Energy Society Student Branch (Apr. 2023 - May. 2025)
+  
+<br>
+
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Skills</span>
 
 * <span style="color: #1E90FF">**Technical:**</span>
   * Power Electronics (DC/AC to DC/AC Converters, Modular Multilevel Converters (MMC), Power Electronics Building Blocks (PEBB)), Impedance-Source Inverters (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Shipboard Power Systems, Electric Vehicles), Renewable Energy Systems (PV and Wind Turbine Systems), Power Quality (Dynamic Voltage Restorer, Voltage Sag/Swell)
