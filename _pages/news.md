@@ -5,32 +5,74 @@ author_profile: true
 ---
 ------
 
-Some recent(-ish) news and activities:
+<style>
+.news-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 24px;
+  margin-top: 20px;
+}
+.news-item {
+  padding: 6px 0;
+}
+</style>
 
-- **[Nov. 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> Fall IAB meeting in Fayetteville, AR.
+<div class="news-grid">
 
-- **[Oct. 19-21, 2025]** Attended <a href="https://www.ieee-ecce.org/2025/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE Energy Conversion Conference and Expo (ECCE)</a> in Philadelphia, PA.
+  <div class="news-item">
+    - <strong>[Nov. 13-14, 2025]</strong> Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRAPES</a> Fall IAB meeting in Fayetteville, AR.
+  </div>
 
-- **[Aug. 5-8, 2025]** Attended and presented two papers at <a href="https://ests.mit.edu/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE Electric Ship Technologies Symposium (ESTS)</a> in Old Town Alexandria, VA.
+  <div class="news-item">
+    - <strong>[Oct. 19-21, 2025]</strong> Attended <a href="https://www.ieee-ecce.org/2025/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE ECCE</a> in Philadelphia, PA.
+  </div>
 
-- **[Jun. 1, 2025]** Started new role as Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee and joined <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
+  <div class="news-item">
+    - <strong>[Aug. 5-8, 2025]</strong> Attended and presented two papers at <a href="https://ests.mit.edu/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE ESTS</a> in Old Town Alexandria, VA.
+  </div>
 
-- **[May 6, 2025]** Officially got hooded and received my Ph.D. in Electrical Engineering from Clemson University.
+  <div class="news-item">
+    - <strong>[Jun. 1, 2025]</strong> Started new role as Post-Doctoral Research Associate at UWM and joined <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> SEES</a>.
+  </div>
 
-- **[May 5, 2025]** Recipient of the *Outstanding Graduate Researcher* award from the Graduate School at Clemson University (university-wide award)
+  <div class="news-item">
+    - <strong>[May 6, 2025]</strong> Officially got hooded and received my Ph.D. in Electrical Engineering.
+  </div>
 
-- **[Apr. 24, 2025]** Recipient of the *Outstanding Graduate Researcher* award from the Holcombe Electrical and Computer Engineering (ECE) Department at Clemson University (department-wide award).
+  <div class="news-item">
+    - <strong>[May 5, 2025]</strong> Recipient of the <em>Outstanding Graduate Researcher</em> award from Clemson University.
+  </div>
 
-- **[Apr. 7, 2025]** Successfully defended my Ph.D. dissertation titled *Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships*.
+  <div class="news-item">
+    - <strong>[Apr. 24, 2025]</strong> Recipient of the <em>Outstanding Graduate Researcher</em> award from the ECE Department.
+  </div>
 
-- **[Sept. 24, 2024]** Successfully passed my Comprehensive Exam and promoted to Ph.D. candidacy.
+  <div class="news-item">
+    - <strong>[Apr. 7, 2025]</strong> Successfully defended my Ph.D. dissertation.
+  </div>
 
-- **[Aug. 5-8, 2024]** Attended and presented one paper at <a href="https://attend.ieee.org/icdcm-2024/" style="color: #1E90FF; text-decoration: none;"> 2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)</a> in Columbia, SC.
+  <div class="news-item">
+    - <strong>[Sept. 24, 2024]</strong> Passed my Comprehensive Exam.
+  </div>
 
-- **[Jun. 19-21, 2024]** Attended and presented one paper at <a href="https://itec-conf.com/itec-2024/" style="color: #1E90FF; text-decoration: none;"> 2024 IEEE Transportation Electrification Conference and Expo (ITEC)</a> in Rosemont, IL.
+  <div class="news-item">
+    - <strong>[Aug. 5-8, 2024]</strong> Presented at <a href="https://attend.ieee.org/icdcm-2024/" style="color: #1E90FF; text-decoration: none;"> IEEE ICDCM</a>.
+  </div>
 
-- **[Aug. 5-8, 2023]** Attended and presented one paper at <a href="https://ests.mit.edu/" style="color: #1E90FF; text-decoration: none;"> 2023 IEEE Electric Ship Technologies Symposium (ESTS)</a> in Old Town Alexandria, VA.
+  <div class="news-item">
+    - <strong>[Jun. 19-21, 2024]</strong> Presented at <a href="https://itec-conf.com/itec-2024/" style="color: #1E90FF; text-decoration: none;"> IEEE ITEC</a>.
+  </div>
 
-- **[Mar. 28, 2023]** Successfully passed my Qualifying Exam.
+  <div class="news-item">
+    - <strong>[Aug. 5-8, 2023]</strong> Presented at <a href="https://ests.mit.edu/" style="color: #1E90FF; text-decoration: none;"> 2023 IEEE ESTS</a>.
+  </div>
 
-- **[Aug. 24, 2022]** Started my Ph.D. in Electrical Engineering at Clemson University and joined <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a> as a Graduate Research Assistant.
+  <div class="news-item">
+    - <strong>[Mar. 28, 2023]</strong> Passed my Qualifying Exam.
+  </div>
+
+  <div class="news-item">
+    - <strong>[Aug. 24, 2022]</strong> Started Ph.D. at Clemson University and joined <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> RT-COOL</a>.
+  </div>
+
+</div>
