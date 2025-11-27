@@ -195,7 +195,12 @@ author_profile: true
   Real-time cosimulation of geographically dispersed laboratories enables extensive system simulations but faces significant challenges from communication delays, impacting accuracy and stability. This issue is crucial in real-time power system cosimulation, where delays can disrupt synchronism and hinder dynamic analyses. This article proposes model-free predictive delay compensation methods as a viable alternative to signal transformation-based methods. This study explores the frequency domain stability of a model-free framework for delay prediction and compensation at power system interfaces using the ideal transformer method as an interface algorithm. Similarly, time-domain implementation reveals signal amplitude magnification, addressed by introducing a delay- and frequency-dependent normalizing factor. This framework adapts interface coupling signals, enabling real-time parameter tuning without complex processing or system models, enhancing co-simulation accuracy and stability for distributed power system analyses.
     </p>
   </details>
-
+  <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#FF8C00;">Graphical Abstract</strong></summary>
+  <img src="{{ '/images/GA/IEEETII25.jpg' | relative_url }}" 
+       style="width:100%; margin-top:10px;" alt="Graphical Abstract">
+  </details>
+  
 - **A. Moghassemi**, D.S. Vanaja, J. Olamaei, G. Ozkan, C. Edrington, “A Novel Switching Method in PV Fed Quasi-ZSI-DVR for Voltage Quality Enhancement of Photovoltaic Integrated Networks,” *IET Renewable Power Generation*, vol. 19, pp. 1–29, 2025.
   <br>
   <!-- LINKS -->
