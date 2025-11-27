@@ -6,38 +6,10 @@ author_profile: true
 
 ------
 
-<input
-  type="text"
-  id="pub-search"
-  placeholder="Search publications..."
-  style="
-    width: 100%;
-    padding: 12px;
-    margin: 20px 0;
-    font-size: 1rem;
-    border: 2px solid #1E90FF;
-    border-radius: 8px;
-  "
-/>
-
-<script>
-  document.getElementById("pub-search").addEventListener("keyup", function () {
-    let filter = this.value.toLowerCase();
-    let pubs = document.querySelectorAll(".publication-entry");
-
-    pubs.forEach(function (pub) {
-      let text = pub.textContent.toLowerCase();
-      pub.style.display = text.includes(filter) ? "" : "none";
-    });
-  });
-</script>
-
-
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
-<div class="publication-entry">
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- BADGES -->
@@ -50,7 +22,10 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-</div>
+  <details style="background:#fffaf0; padding:12px;">
+  <summary><strong style="color:#FF8C00;">Graphical Abstract</strong></summary>
+  <img src="image_path_here.jpg" style="width:100%; margin-top:10px;">
+  </details>
   
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
   <br>
