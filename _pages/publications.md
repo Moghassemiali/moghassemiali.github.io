@@ -6,6 +6,33 @@ author_profile: true
 
 ------
 
+<input
+  type="text"
+  id="pub-search"
+  placeholder="Search publications..."
+  style="
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    font-size: 1rem;
+    border: 2px solid #1E90FF;
+    border-radius: 8px;
+  "
+/>
+
+<script>
+  document.getElementById("pub-search").addEventListener("keyup", function () {
+    let filter = this.value.toLowerCase();
+    let pubs = document.querySelectorAll(".publication-entry");
+
+    pubs.forEach(function (pub) {
+      let text = pub.textContent.toLowerCase();
+      pub.style.display = text.includes(filter) ? "" : "none";
+    });
+  });
+</script>
+
+
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
