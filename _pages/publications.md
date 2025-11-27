@@ -750,7 +750,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2020</span>
 
-- **A. Moghassemi**, S. Ebrahimi, “Modified SVPWM for Trans-Z-Source Inverter-Based PV Systems,” *The 7th National Congress of Newly Discovered Iranian Electrical Engineering*, Tehran, Iran, 2020.
+- **A. Moghassemi**, S. Ebrahimi, “Modified SVPWM for Trans-Z-Source Inverter-Based PV Systems,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020.
   <br>
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037743" style="color:#1E90FF;" target="_blank">doi</a> 🔗
@@ -765,7 +765,7 @@ author_profile: true
     </p>
   </details>
 
-- F. Zareei, M. Hosseini, **A. Moghassemi**, “Optimal Placement and Sizing of Distributed Generation via a Hybrid Multi-Objective Artificial Bee Colony and Differential Evolution Algorithms,” *The 7th National Congress of Newly Discovered Iranian Electrical Engineering*, Tehran, Iran, 2020.
+- F. Zareei, M. Hosseini, **A. Moghassemi**, “Optimal Placement and Sizing of Distributed Generation via a Hybrid Multi-Objective Artificial Bee Colony and Differential Evolution Algorithms,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020.
   <br>
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037744" style="color:#1E90FF;" target="_blank">doi</a> 🔗
@@ -780,7 +780,7 @@ author_profile: true
     </p>
   </details>
 
-- S. Ebrahimi, **A. Moghassemi**, M. Mola, “Target Tracer Switching Strategy for Multi-Level PV Inverters Motor Drives Based on MPC,” *The 7th National Congress of Newly Discovered Iranian Electrical Engineering*, Tehran, Iran, 2020.
+- S. Ebrahimi, **A. Moghassemi**, M. Mola, “Target Tracer Switching Strategy for Multi-Level PV Inverters Motor Drives Based on MPC,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020.
   <br>
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037760" style="color:#1E90FF;" target="_blank">doi</a> 🔗
