@@ -22,10 +22,11 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-  <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+<details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#FF8C00;">Graphical Abstract</strong></summary>
-  <img src="image_path_here.jpg" style="width:100%; margin-top:10px;">
-  </details>
+  <img src="{{ '/images/GA/your_image_name.jpg' | relative_url }}" 
+       style="width:100%; margin-top:10px;" alt="Graphical Abstract">
+</details>
   
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
   <br>
@@ -148,6 +149,11 @@ author_profile: true
   <p style="margin-top:10px;">
   Power electronics building block (PEBB) concept involves integrating fundamental components into functional blocks that can be stacked, extending converter power ratings for all-electric ships (AESs). This modular approach reduces costs, size, weight, design complexity, and maintenance. PEBBs can be realized as modular multi-level converters (MMCs), which offer advantages like modularity, low switching losses, minimal voltage/current quantization, high reliability, and efficiency. However, effective switching control methods are crucial to balance capacitor voltages and suppress circulating currents. This paper proposes an improved nearest level control (NLC) method that employs smoothed trapezoidal reference signals instead of sinusoidal references, aiming to enhance capacitor voltage balancing, suppress circulating currents, and improve the output power quality of PEBBs in AESs. The proposed NLC method is analyzed in real-time for an N-level PEBB connected to an induction machine (IM) with variable speed and torque load. The real-time verification is conducted in the Typhoon HIL606 digital real-time simulator (DRTS). The results validate the feasibility and effectiveness of the proposed NLC method for a three-phase N-level PEBB concept for AESs.
     </p>
+  </details>
+  <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#FF8C00;">Graphical Abstract</strong></summary>
+  <img src="{{ '/images/GA/IEEEIAS.jpg' | relative_url }}" 
+       style="width:100%; margin-top:10px;" alt="Graphical Abstract">
   </details>
  
 - A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Reliability Score Benchmarking and Resistive Loss Profile-Based Open-Circuit Fault Diagnosis Approach for Motor Drive System,” *IEEE Transactions on Power Electronics*, vol. 40, no. 7, pp. 9824–9839, 2025.
