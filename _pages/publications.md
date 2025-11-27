@@ -22,7 +22,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-  <details style="background:#fffaf0; padding:12px;">
+  <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#FF8C00;">Graphical Abstract</strong></summary>
   <img src="image_path_here.jpg" style="width:100%; margin-top:10px;">
   </details>
