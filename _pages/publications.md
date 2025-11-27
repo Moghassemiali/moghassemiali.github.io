@@ -175,7 +175,12 @@ author_profile: true
   In recent years, data-driven methods have shown promise in diagnosing various open circuit fault (OCF) modes in inverter drive applications. However, existing studies primarily evaluate the reliability of these methods based solely on classification accuracy, neglecting critical real-time factors, such as computational delays and data transfer latency associated with the data-driven approach and communication protocols, respectively, which can affect real-time operational reliability. This article addresses these gaps by proposing a universally applicable reliability score criterion that integrates classification accuracy with system timing profiles. In addition, a model predictive control strategy employing active thermal management (ATM) is applied to the drive system, enabling a detailed analysis of the impact of OCF modes on the junction temperature of MOSFETs. Moreover, a novel feature extraction dataset is introduced, leveraging resistive/conduction loss data from the ATM scheme without requiring signal preprocessing. The proposed reliability score quantification and the dataset's diagnostic potential are validated using various data-driven classifiers. The most reliable classifier, achieving a 99.95% diagnosis accuracy, is further tested under diverse operating conditions using a control hardware-in-the-loop setup on an OPAL-RT testbed and Raspberry Pi.
     </p>
   </details>
-
+  <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#FF8C00;">Graphical Abstract</strong></summary>
+  <img src="{{ '/images/GA/IEEETPL25.jpg' | relative_url }}" 
+       style="width:100%; margin-top:10px;" alt="Graphical Abstract">
+  </details>
+  
 - E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, B. Papari, A. Arsalan, **A. Moghassemi**, M. Ozden, C. Edrington, “Analysis of Model Free Predictors for Interface Signal Delay Compensation in Real-Time Co-simulation,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 4, pp. 3448–3457, 2025.
   <br>
   <!-- LINKS -->
