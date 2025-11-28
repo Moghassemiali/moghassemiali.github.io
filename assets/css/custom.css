@@ -1,0 +1,46 @@
+/* assets/css/custom.css
+   Overrides for AcademicPages typography
+   Use rem or px. !important ensures override of earlier styles.
+*/
+
+/* Base body text */
+html, body {
+  font-size: 18px !important; /* sets the browser px baseline on the site (effective for px-based sizing) */
+}
+
+/* Prefer rem for scalable text; set base if you want rem to be relative to html font-size */
+body {
+  font-size: 1.125rem !important; /* ~18px if 1rem == 16px; adjusts with html font-size above */
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1.05rem !important;
+  margin-bottom: 1em;
+}
+
+/* Headings: scale proportionally */
+h1 { font-size: 2.2rem !important; margin-top: .8em; margin-bottom: .6em; }
+h2 { font-size: 1.8rem !important; margin-top: .75em; margin-bottom: .5em; }
+h3 { font-size: 1.4rem !important; margin-top: .6em; margin-bottom: .45em; }
+h4 { font-size: 1.15rem !important; }
+h5 { font-size: 1rem !important; }
+h6 { font-size: 0.9rem !important; }
+
+/* Smaller elements */
+small, .small {
+  font-size: 0.9rem !important;
+}
+
+/* Optional: increase readability on narrow screens */
+@media (max-width: 768px) {
+  body { font-size: 1rem !important; } /* slightly smaller for phones */
+  h1 { font-size: 1.6rem !important; }
+  h2 { font-size: 1.35rem !important; }
+}
+
+/* Optional: strengthen link visibility without changing color schemes */
+a { text-decoration: underline; text-underline-offset: 3px; }
