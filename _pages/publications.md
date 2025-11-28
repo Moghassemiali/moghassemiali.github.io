@@ -4,6 +4,31 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- Search Box -->
+<div style="margin: 20px 0; padding: 10px 0;">
+  <input 
+    type="text" 
+    id="pubSearch" 
+    placeholder="🔍 Search publications…" 
+    style="width:100%; padding:10px 14px; font-size:1rem; border:2px solid #d9e9ff; border-radius:8px;"
+  >
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const searchInput = document.getElementById("pubSearch");
+  const items = document.querySelectorAll("li, p");
+
+  searchInput.addEventListener("keyup", () => {
+    const query = searchInput.value.toLowerCase();
+    items.forEach(item => {
+      const text = item.innerText.toLowerCase();
+      item.style.display = text.includes(query) ? "" : "none";
+    });
+  });
+});
+</script>
+
 ------
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
