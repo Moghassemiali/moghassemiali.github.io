@@ -14,6 +14,6 @@ My research focuses on the design, modeling, and control of intelligent, advance
 In my free time, I enjoy movies and TV series 🎬, kitchen experiments 🍳, and an ongoing quest for the perfect cup of coffee ☕; my favorite closed-loop control system.
 
 <p style="color: red; font-weight: bold;">
-👉 I am on the job market for tenure-track faculty positions in EE and ECE starting in Fall 2026!<br>
+👉 I am currently on the job market for academic tenure-track and industry research positions! <br>
 Please feel free to reach out if you know any suitable openings. I'd love to connect!
 </p>
