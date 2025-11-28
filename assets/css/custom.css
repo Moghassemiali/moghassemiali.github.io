@@ -1,46 +1,26 @@
-/* assets/css/custom.css
-   Overrides for AcademicPages typography
-   Use rem or px. !important ensures override of earlier styles.
-*/
-
-/* Base body text */
+/* GLOBAL BASE FONT SIZE */
 html, body {
-  font-size: 14px !important; /* sets the browser px baseline on the site (effective for px-based sizing) */
+  font-size: 14px !important;   /* was ~16px */
+  line-height: 1.55;
 }
 
-/* Prefer rem for scalable text; set base if you want rem to be relative to html font-size */
-body {
-  font-size: 0.875rem !important; /* ~18px if 1rem == 16px; adjusts with html font-size above */
-  line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Paragraphs & list items */
+p, li {
+  font-size: 0.95rem !important; /* ~13.3px */
+  line-height: 1.55;
 }
 
-/* Paragraphs */
-p {
-  font-size: 1.05rem !important;
-  margin-bottom: 1em;
+/* Headings (scaled down for compact look) */
+h1 { font-size: 1.9rem !important; }   /* ~26.6px */
+h2 { font-size: 1.55rem !important; }  /* ~21.7px */
+h3 { font-size: 1.25rem !important; }  /* ~17.5px */
+h4 { font-size: 1.1rem !important; }   /* ~15.4px */
+h5 { font-size: 1rem !important; }     /* ~14px */
+h6 { font-size: 0.9rem !important; }   /* ~12.6px */
+
+/* Optional: shrink captions/smaller text */
+small,
+.caption,
+.footnote {
+  font-size: 0.8rem !important;   /* ~11.2px */
 }
-
-/* Headings: scale proportionally */
-h1 { font-size: 2.2rem !important; margin-top: .8em; margin-bottom: .6em; }
-h2 { font-size: 1.8rem !important; margin-top: .75em; margin-bottom: .5em; }
-h3 { font-size: 1.4rem !important; margin-top: .6em; margin-bottom: .45em; }
-h4 { font-size: 1.15rem !important; }
-h5 { font-size: 1rem !important; }
-h6 { font-size: 0.9rem !important; }
-
-/* Smaller elements */
-small, .small {
-  font-size: 0.9rem !important;
-}
-
-/* Optional: increase readability on narrow screens */
-@media (max-width: 768px) {
-  body { font-size: 1rem !important; } /* slightly smaller for phones */
-  h1 { font-size: 1.6rem !important; }
-  h2 { font-size: 1.35rem !important; }
-}
-
-/* Optional: strengthen link visibility without changing color schemes */
-a { text-decoration: underline; text-underline-offset: 3px; }
