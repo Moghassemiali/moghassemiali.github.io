@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+My full list of publications is available here:
+<a href="https://scholar.google.com/citations?user=1sO3jUwAAAAJ&hl=en" 
+   target="_blank" style="text-decoration:none;">
+   <i class="fa-brands fa-google-scholar" 
+      style="color:#1E90FF; margin-left:6px; font-size:1.2em;"></i>
+</a>
 
 ------
 
