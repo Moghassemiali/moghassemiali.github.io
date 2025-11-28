@@ -1,26 +1,26 @@
 /* GLOBAL BASE FONT SIZE */
 html, body {
-  font-size: 16px !important;   /* clean and readable */
+  font-size: 15px !important;   /* was 14px */
   line-height: 1.6;
 }
 
 /* Paragraphs & list items */
 p, li {
-  font-size: 1rem !important;   /* 16px */
+  font-size: 1rem !important;   /* 15px relative to html font-size */
   line-height: 1.6;
 }
 
-/* Headings (scaled for 16px base) */
-h1 { font-size: 2.2rem !important; }   /* ~35px */
-h2 { font-size: 1.8rem !important; }   /* ~29px */
-h3 { font-size: 1.4rem !important; }   /* ~22px */
-h4 { font-size: 1.2rem !important; }   /* ~19px */
-h5 { font-size: 1.05rem !important; }  /* ~16.8px */
-h6 { font-size: 0.95rem !important; }  /* ~15.2px */
+/* Headings (scaled for 15px base) */
+h1 { font-size: 2.06rem !important; }   /* ~31px */
+h2 { font-size: 1.68rem !important; }   /* ~25px */
+h3 { font-size: 1.31rem !important; }   /* ~20px */
+h4 { font-size: 1.125rem !important; }  /* ~17px */
+h5 { font-size: 1rem !important; }      /* 15px */
+h6 { font-size: 0.875rem !important; }  /* ~13px */
 
-/* Optional: captions and small text */
+/* Optional: captions/smaller text */
 small,
 .caption,
 .footnote {
-  font-size: 0.85rem !important;  /* ~13.6px */
+  font-size: 0.85rem !important;   /* ~13px */
 }
