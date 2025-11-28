@@ -10,7 +10,7 @@ html, body {
 
 /* Prefer rem for scalable text; set base if you want rem to be relative to html font-size */
 body {
-  font-size: 1.125rem !important; /* ~18px if 1rem == 16px; adjusts with html font-size above */
+  font-size: 0.875rem !important; /* ~18px if 1rem == 16px; adjusts with html font-size above */
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
