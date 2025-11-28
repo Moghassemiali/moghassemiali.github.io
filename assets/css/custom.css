@@ -5,7 +5,7 @@
 
 /* Base body text */
 html, body {
-  font-size: 18px !important; /* sets the browser px baseline on the site (effective for px-based sizing) */
+  font-size: 14px !important; /* sets the browser px baseline on the site (effective for px-based sizing) */
 }
 
 /* Prefer rem for scalable text; set base if you want rem to be relative to html font-size */
