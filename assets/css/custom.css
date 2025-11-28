@@ -1,26 +1,26 @@
 /* GLOBAL BASE FONT SIZE */
 html, body {
-  font-size: 14px !important;   /* was ~16px */
-  line-height: 1.55;
+  font-size: 16px !important;   /* clean and readable */
+  line-height: 1.6;
 }
 
 /* Paragraphs & list items */
 p, li {
-  font-size: 0.95rem !important; /* ~13.3px */
-  line-height: 1.55;
+  font-size: 1rem !important;   /* 16px */
+  line-height: 1.6;
 }
 
-/* Headings (scaled down for compact look) */
-h1 { font-size: 1.9rem !important; }   /* ~26.6px */
-h2 { font-size: 1.55rem !important; }  /* ~21.7px */
-h3 { font-size: 1.25rem !important; }  /* ~17.5px */
-h4 { font-size: 1.1rem !important; }   /* ~15.4px */
-h5 { font-size: 1rem !important; }     /* ~14px */
-h6 { font-size: 0.9rem !important; }   /* ~12.6px */
+/* Headings (scaled for 16px base) */
+h1 { font-size: 2.2rem !important; }   /* ~35px */
+h2 { font-size: 1.8rem !important; }   /* ~29px */
+h3 { font-size: 1.4rem !important; }   /* ~22px */
+h4 { font-size: 1.2rem !important; }   /* ~19px */
+h5 { font-size: 1.05rem !important; }  /* ~16.8px */
+h6 { font-size: 0.95rem !important; }  /* ~15.2px */
 
-/* Optional: shrink captions/smaller text */
+/* Optional: captions and small text */
 small,
 .caption,
 .footnote {
-  font-size: 0.8rem !important;   /* ~11.2px */
+  font-size: 0.85rem !important;  /* ~13.6px */
 }
