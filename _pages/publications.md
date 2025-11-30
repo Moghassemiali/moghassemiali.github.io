@@ -111,7 +111,6 @@ My full list of publications is available on Google Scholar:
 - E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025.
   <br>
   <!-- LINKS -->
-  <a href="https://doi.org/10.1109/TPWRS.2025.3575793" target="_blank" style="text-decoration:none; font-weight:600; color:#1E90FF;"> DOI 🔗 </a>
   <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
