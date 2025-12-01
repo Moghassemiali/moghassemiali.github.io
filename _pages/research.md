@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Under Construction 🚧<br>
 My research thrusts are presented here.
 
 ------
