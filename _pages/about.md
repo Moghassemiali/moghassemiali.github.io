@@ -14,9 +14,9 @@ Before joining Clemson, I earned my M.Sc. and B.Sc. in Electrical Engineering fr
 
 My research centers on the design, modeling, and control of intelligent, high-efficiency power electronic converters for transportation electrification, renewable energy systems, and advanced power system applications.
 
-In my free time, I enjoy movies and TV series 🎬, kitchen experiments 🍳, and an ongoing quest for the perfect cup of coffee ☕—my favorite closed-loop control system.
+In my free time, I enjoy movies and TV series 🎬, kitchen experiments 🍳, and an ongoing quest for the perfect cup of coffee ☕; my favorite closed-loop control system.
 
 <p style="color: red; font-weight: bold;">
 👉 I am currently on the job market for academic tenure-track and industry research positions. <br>
-If you know of suitable openings or potential collaborations, please feel free to reach out—I’d love to connect!
+If you know of suitable openings or potential collaborations, please feel free to reach out. I’d love to connect!
 </p>
