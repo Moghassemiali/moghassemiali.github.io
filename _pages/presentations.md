@@ -34,7 +34,7 @@ author_profile: true
 
 - **“A Novel Four-Switch Transformerless Inverter with Step-Up/Down Capability for PV-Fed Grid-Connected Systems.”**  
   *IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, 2024.  
-  <img src="https://img.shields.io/badge/Type-Poster%20Presentation-1E90FF" />
+  <img src="https://img.shields.io/badge/Type-Poster%20Presentation-6A5ACD" />
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599067" style="color: #1E90FF; text-decoration: none;">doi</a> 🔗
 
 ---
