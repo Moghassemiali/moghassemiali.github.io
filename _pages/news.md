@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-- **[Nov. 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> Fall IAB meeting in Fayetteville, AR.
+- **[Nov. 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> Fall IAB meeting and the <a href="https://music.uapower.group/" style="color: #1E90FF; text-decoration: none;"> National Multi-User Silicon Carbide Research Fab (MUSiC)</a> grand opening in Fayetteville, AR.
 
 - **[Oct. 19-21, 2025]** Attended <a href="https://www.ieee-ecce.org/2025/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE Energy Conversion Conference and Expo (ECCE)</a> in Philadelphia, PA.
 
