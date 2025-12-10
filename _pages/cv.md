@@ -102,7 +102,6 @@ My full CV (PDF) is available here:
 * **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> September 2025 - Present)
 * **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> (September 2025 - Present)
 * **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a> (June 2025 - Present)
-* **Section Editor**, <a href="https://www.frontiersin.org/journals/smart-grids/sections/smart-grid-technologies" style="color: #1E90FF; text-decoration: none;"> Frontiers in Smart Grids, Smart Grid Technologies</a> (July 2022 - Present)
 * **Reviewer**, top-tier journals and conferences (230+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
 <br>
 
