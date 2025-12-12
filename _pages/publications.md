@@ -95,7 +95,7 @@ My full list of publications is available on Google Scholar:
     </p>
   </details>
   
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Karimi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicles during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025.
+- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicles during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025.
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2025-01-5079" style="color:#1E90FF;" target="_blank">doi</a> 🔗
