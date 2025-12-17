@@ -7,12 +7,6 @@ redirect_from:
   - /resume
 ---
 
-My full CV (PDF) is available here:
-<a href="{{ '/files/AliMoghassemi_CV.pdf' | relative_url }}" 
-   style="text-decoration:none;">
-   <i class="fa-solid fa-file-pdf" 
-      style="color:#D32F2F; margin-left:6px; font-size:1.2em;"></i>
-</a>
 
 {% include base_path %}
 ------
