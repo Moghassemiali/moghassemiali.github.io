@@ -42,14 +42,6 @@ redirect_from:
     * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
     * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
 <br>
-* **External Researcher**, Aarhus University, Herning, Denmark (March 2021 – July 2021)
-  * Collaborated on *Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms* research project
-  * Published one journal article funded by the *Science Foundation Ireland (SFI)*
-<br>
-* **External Researcher**, Aalborg University, Esbjerg, Denmark (November 2020 – March 2021)
-  * Collaborated on *Decarbonization of Grid with an Optimal Controller and Energy Management for Energy Storage System in Microgrid Applications* research project
-  * Published one journal article funded by the *Ministry of Education (MOE)*, Malaysia
-<br>
 * **University Lecturer**, University of Applied Science and Technology, Tehran, Iran (January 2021 – July 2021)
   * Designed and taught undergraduate courses in *Industrial Electronics*, *Power Systems Analysis*, *Protections and Relays*, and *Electric Machines*.
   * Implemented project-based learning and structured assignments to connect theory with practical engineering applications.
