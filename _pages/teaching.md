@@ -21,13 +21,13 @@ My teaching experiences are presented here.
   <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
   <p style="margin-top:10px;">
      Principles of electrical and electromechanical energy conversion; transformers, polyphase induction and synchronous machines, d.c. machines, single-phase motors, including design parameters and testing.
-    
+    <br>
     **Prerequisites:** ELECENG 234(P) and ELECENG 301(P); or graduate standing. Special students must satisfy course prerequisites.
-
+    <br>
     **Course Rules:** 3 hr lec recitation and 2 hr lab per week.
-
+    <br>
     **Credits:** 4
-
+    <br>
     **Level:** Undergraduate
     </p>
   </details>
