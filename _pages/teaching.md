@@ -14,18 +14,17 @@ My teaching experiences are presented here.
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Spring 2026</span>
 
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicles during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025.
+- ELECENG 362 - Electromechanical Energy Conversion
   <br>
-  <!-- LINKS -->
-  <a href="https://doi.org/10.4271/2025-01-5079" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
-  <img src="https://img.shields.io/badge/Status-Accepted-DAA520" />
-  <!-- Abstract -->
+  <!-- Course Description -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
-  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
   <p style="margin-top:10px;">
-     This paper investigates the impact of Vehicle-to-Grid (V2G) integration on battery degradation and the economic viability of plug-in hybrid electric vehicles (PHEVs). V2G technology is gaining traction due to its energy storage capabilities, environmental benefits, and enhancement of grid stability. However, frequent use of the battery in V2G operations can lead to accelerated degradation and increased replacement costs, creating uncertainty for EV owners. This study evaluates battery degradation under two scenarios: driving scenarios using the US06 drive cycle and V2G operation with a 10 kW and 15 kW bidirectional charger. During the V2G operation, the charger discharges the battery by 20 kWh and recharges it back to 90% SoC at a constant 1C rate. Real-time simulations are conducted in order to validate the findings, where a grid, a bidirectional charger, and the vehicle’s battery are all modeled in a real-time simulator. Additionally, a pair of controllers is employed to run the energy management and predict battery aging. An economic analysis assesses the capacity loss from V2G participation and the associated incentives, providing a comprehensive view of the economic feasibility and potential benefits of V2G applications.
+     Principles of electrical and electromechanical energy conversion; transformers, polyphase induction and synchronous machines, d.c. machines, single-phase motors, including design parameters and testing.
+    **Prerequisites:** ELECENG 234(P) and ELECENG 301(P); or graduate standing. Special students must satisfy course prerequisites.
+    **Course Rules:** 3 hr lec recitation and 2 hr lab per week.
+    **Credits:** 4
+    **Level:** Undergraduate
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
