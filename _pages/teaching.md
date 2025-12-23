@@ -22,7 +22,17 @@ My teaching experiences are presented here.
   <p style="margin-top:10px;">
      Principles of electrical and electromechanical energy conversion; transformers, polyphase induction and synchronous machines, d.c. machines, single-phase motors, including design parameters and testing.
     <br>
-    <strong>Prerequisites:</strong> ELECENG 234(P) and ELECENG 301(P); or graduate standing.
+<strong>Prerequisites:</strong>
+<a href="https://catalog.uwm.edu/search/?P=ELECENG%20234"
+   target="_blank"
+   style="color:#1E90FF; text-decoration:none;">
+   ELECENG 234
+</a>(P) and
+<a href="https://catalog.uwm.edu/search/?P=ELECENG%20301"
+   target="_blank"
+   style="color:#1E90FF; text-decoration:none;">
+   ELECENG 301
+</a>(P); or graduate standing.
     <br>
     <strong>Course Rules:</strong> 3 hr lec recitation and 2 hr lab per week.
     <br>
