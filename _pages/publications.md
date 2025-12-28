@@ -95,13 +95,13 @@ My full list of publications is available on Google Scholar:
     </p>
   </details>
   
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicles during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025.
+- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicles during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025.
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2025-01-5079" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
-  <img src="https://img.shields.io/badge/Status-Accepted-DAA520" />
+  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
