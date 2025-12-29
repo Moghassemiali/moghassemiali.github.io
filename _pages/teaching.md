@@ -40,3 +40,14 @@ My teaching experiences are presented here.
     <br>
     <strong>Level:</strong> Undergraduate
     </p>
+<details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#FF8C00;">Course Syllabus</strong></summary>
+  <p style="margin-top:10px;">
+    <strong>Course Syllabus:</strong>
+    <a href="/files/ELECENG362_Syllabus.pdf"
+       target="_blank"
+       style="color:#FF8C00; text-decoration:none; font-weight:600;">
+       PDF
+    </a>
+  </p>
+</details>
