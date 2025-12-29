@@ -51,7 +51,3 @@ My teaching experiences are presented here.
        ELECENG 362 - Syllabus (PDF)
     </a>
   </p>
-
-
-files
-/ELECENG 362 - Syllabus.pdf
