@@ -45,7 +45,7 @@ My teaching experiences are presented here.
   <summary><strong style="color:#FF8C00;">Course Syllabus</strong></summary>
   <p style="margin-top:10px;">
     <strong>Course Syllabus:</strong>
-    <a href="/files/ELECENG%362%-%Syllabus.pdf"
+    <a href="/files/ELECENG%20362%20-%20Syllabus.pdf"
        target="_blank"
        style="color:#FF8C00; text-decoration:none; font-weight:600;">
        ELECENG 362 - Syllabus (PDF)
