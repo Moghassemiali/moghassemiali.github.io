@@ -51,4 +51,3 @@ My teaching experiences are presented here.
        PDF
     </a>
   </p>
-</details>
