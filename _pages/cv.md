@@ -86,7 +86,7 @@ redirect_from:
 * **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> September 2025 - Present)
 * **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> (September 2025 - Present)
 * **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a> (June 2025 - Present)
-* **Reviewer**, top-tier journals and conferences (230+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
+* **Reviewer**, top-tier journals and conferences (240+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
@@ -103,16 +103,6 @@ redirect_from:
 * **Member**, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a> (April 2023 - May 2025)
 * **Member**, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a> (April 2023 - May 2025)
 <br>
-
-## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Skills</span>
-
-* **Technical:**
-  * Power Electronics (DC/DC, DC/AC, AC/AC, and AC/DC Converters, Modular Multilevel Converters (MMC), Power Electronics Building Blocks (PEBB), Dual Active Bridge (DAB)), Impedance-Source Inverters (ZSI, Trans-ZSI, Quasi-ZSI), Electrified Transportation (Shipboard Power Systems, Electric Vehicles), Renewable Energy Systems (PV and Wind Turbine Systems), Power Quality (Dynamic Voltage Restorer, Voltage Sag/Swell)
-  * Control & Implementation: PWM Techniques, Model Predictive Control, Maximum Power Point Tracking (MPPT) Techniques, Real-Time Simulation, SiL/HiL/CHiL/PHiL Implementation
-
-* **Software:**
-  * MATLAB/Simulink (SimPowerSystems, Simscape), PLECS (Standalone and Blockset, Thermal Modeling, RT Box Integration), Typhoon Control Center (HIL Testing, Schematic Editor, SCADA), LTspice (Circuit Simulation, Transient Analysis), dSPACE ControlDesk (Real-Time Interface, Signal Monitoring), PSCAD/EMTDC (EMT Simulation), Python (NumPy, SciPy, Matplotlib), C/C++, AutoCAD Electrical (2D/3D Schematics, Layouts), KiCad (PCB Design), LaTeX and Overleaf, Microsoft Office
-
 * **Hardware:**
   *  Real-Time Platforms: Typhoon HIL606/604/603, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat
   *  Power Hardware: Dynamometer System with Dual PMSMs, PEBB 6000/1000, Wolfspeed XM3 Three-Phase Inverter
