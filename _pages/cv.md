@@ -30,9 +30,7 @@ redirect_from:
   * **Tech candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the PEPDS integration team to bring a range of technologies developed on the PEPDS.
   * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
   * **Demo A, B, C, and D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishes bases of cost estimates, providing validation cases and "new sources of truth" to increase the confidence in equipment metamodels and measurement data.
-  * Mentored 4 Ph.D. students, 3 Master's students, and 2 undergraduate students.
-  * Guided experimental methods, coding practices, or writing techniques.
-  * Contributed to lab management, group meetings, and collaborative initiatives.
+  * Mentored students (4 Ph.D., 2 Master’s), guided coding/simulation/experimental practices, and contributed to collaborative initiatives.
 <br>
 * **Graduate Research Assistant**, Clemson University, Clemson, SC (August 2022 – May 2025)
   * **Research Group:** <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a>, supervised by Dr. Christopher Edrington
