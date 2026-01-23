@@ -26,7 +26,7 @@ redirect_from:
 
 * **Post-Doctoral Research Associate**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
   * **Research Group:** <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>, supervised by Dr. Robert Cuzner
-  * **PDC&R Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis:** Developed an integration framework for Power Distribution Control and Resilience (PDC&R), focusing on Virtual Prototyping Process (VPP) leading to producing big data and metamodels for PDC\&R equipment.
+  * **PDC&R Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis:** Developed an integration framework for Power Distribution Control and Resilience (PDC&R), focusing on Virtual Prototyping Process (VPP) leading to producing big data and metamodels for PDC&R equipment.
   * **Tech Candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the PDC&R integration team to bring a range of technologies developed on the PDC&R.
   * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
   * **Demo A, B, C, and D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishes bases of cost estimates, providing validation cases and "new sources of truth" to increase the confidence in equipment metamodels and measurement data.
