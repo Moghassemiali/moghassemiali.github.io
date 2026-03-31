@@ -103,7 +103,3 @@ redirect_from:
 * **Member**, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a> (April 2023 - May 2025)
 * **Member**, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a> (April 2023 - May 2025)
 <br>
-* **Hardware:**
-  *  Real-Time Platforms: Typhoon HIL606/604/603, dSPACE MicroLabBox, OPAL-RT OP4510, Speedgoat
-  *  Power Hardware: Dynamometer System with Dual PMSMs, PEBB 6000/1000, Wolfspeed XM3 Three-Phase Inverter
-  *  Industrial Controllers: Siemens PLC (S7-400/400H/400F/400FH/300/1200/1500, ET-200M/200SP/200pro), TI C2000 DSP
