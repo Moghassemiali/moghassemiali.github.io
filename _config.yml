@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "IMG_7536.JPG"
   name             : "Ali Moghassemi"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Research Associate"
   location         : # "Earth"
   employer         : "UWM"
@@ -79,7 +79,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following is the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
