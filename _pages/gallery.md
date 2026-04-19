@@ -14,3 +14,8 @@ My activities are shown here.
 
 # Chill activities
 * **03/2025** ABC
+
+
+## HKUST, Hong Kong, China, Dec. 2025
+<img src="/images/2025_hkust.jpg" />
+I was honored at the HKUST Faculty Recognition Ceremony 2025 (for NSFC Excellent Young Scientists Fund).
