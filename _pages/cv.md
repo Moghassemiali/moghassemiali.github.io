@@ -45,12 +45,12 @@ redirect_from:
   * Implemented project-based learning and structured assignments to connect theory with practical engineering applications.
   * Provided mentorship and individualized academic support to enhance student performance and engagement.
 <br>
-* **Course Instructor**, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2012 – June 2016)
+* **Course Instructor**, Islamic Azad University – South Tehran, Tehran, Iran (September 2012 – June 2016)
   * Taught *MATLAB/Simulink* for undergraduate/graduate students, focusing on control and modeling of power electronics.
   * Developed interactive tutorials and laboratory-style assignments to strengthen computational and simulation skills.
   * Advised students on research projects and power electronics simulations, fostering independent problem-solving.
 <br>
-* **Teaching Assistant**, Islamic Azad University – South Tehran Branch, Tehran, Iran (September 2010 – June 2015)
+* **Teaching Assistant**, Islamic Azad University – South Tehran, Tehran, Iran (September 2010 – June 2015)
   * Supported instruction in courses: *Electric Circuits I/II*, *Power Electronics*, *Advanced Power Systems Operation*, and *Power System Planning*.
   * Led discussion sessions, assisted with laboratory activities, and provided guidance during problem-solving exercises.
   * Evaluated student work, offered constructive feedback, and facilitated exam preparation.
@@ -72,13 +72,13 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Honors and Awards</span>
 
 *  **Outstanding Graduate Researcher Award**, Graduate School, Clemson University, Clemson, SC (May 2025)
-   * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a research, and/or originality, imagination and significance of research or creative activity.
+   * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a researcher, and/or originality, imagination, and significance of research or creative activity.
    * 💡 *Fun Fact:* This is the first time in the history of Clemson University that an ECE department student has received such an award!
 *  **Outstanding Graduate Researcher Award**, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (April 2025)
    * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
 * **Graduate Research Assistantship**, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (February 2022)
-* **Distinguished Student** Master's program, Islamic Azad University - South Tehran Branch (December 2013)
-* **Distinguished Student**, Bachelor's program, Islamic Azad University - South Tehran Branch (February 2009)
+* **Distinguished Student** Master's program, Islamic Azad University - South Tehran (December 2013)
+* **Distinguished Student**, Bachelor's program, Islamic Azad University - South Tehran (February 2009)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Service Experience</span>
