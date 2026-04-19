@@ -73,7 +73,7 @@ redirect_from:
 
 *  **Outstanding Graduate Researcher Award**, Graduate School, Clemson University, Clemson, SC (May 2025)
    * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a research, and/or originality, imagination and significance of research or creative activity.
-   * 💡 *Fun Fact:* This is the first time EVER in the history of Clemson University that an ECE department student has received such an award!
+   * 💡 *Fun Fact:* This is the first time in the history of Clemson University that an ECE department student has received such an award!
 *  **Outstanding Graduate Researcher Award**, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (April 2025)
    * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
 * **Graduate Research Assistantship**, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (February 2022)
