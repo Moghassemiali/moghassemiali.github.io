@@ -20,7 +20,6 @@ My full list of publications is available on Google Scholar:
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -33,7 +32,6 @@ My full list of publications is available on Google Scholar:
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
   <br>
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -46,7 +44,6 @@ My full list of publications is available on Google Scholar:
 - A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -59,7 +56,6 @@ My full list of publications is available on Google Scholar:
 - I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -72,7 +68,6 @@ My full list of publications is available on Google Scholar:
 - G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2025.
   <br>
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -85,7 +80,6 @@ My full list of publications is available on Google Scholar:
 - L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025.
   <br>
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -95,12 +89,11 @@ My full list of publications is available on Google Scholar:
     </p>
   </details>
   
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicles during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025.
+- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicle during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025.
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2025-01-5079" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -120,13 +113,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities for co-simulating massive complex systems but it is hindered by communication delays that compromise accuracy and stability. This challenge is particularly concerning for real-time power system co-simulation, where delays can induce synchronization loss and limit dynamic and transient studies. This study proposes an adaptive, multi-parameter model-free framework for predicting and compensating delays in co-simulated systems, addressing this critical issue. This framework leverages the improved damping impedance method interface algorithm and an adaptive, parameter-tuning predictor system that predicts and compensates for delays without requiring complex interface signal transformation, processing, decomposition, reconstruction, phase estimation, system models, and no human interference. The proposed approach is validated using a joint experiment between two laboratories at Clemson, SC, USA and Greenville, SC, USA, with the Damping Impedance Method as an Interface Algorithm between the two partitioned subsystems. The coupling errors, state tracking errors, and residual complex power are used as evaluation metrics for the proposed delay compensation. This approach enhances co-simulation accuracy and stability, facilitating reliable dynamic and transient analyses.
+  Virtual integration of geographically dispersed laboratories through real-time co-simulation presents powerful capabilities for co-simulating massive complex systems, but it is hindered by communication delays that compromise accuracy and stability. This challenge is particularly concerning for real-time power system co-simulation, where delays can induce synchronization loss and limit dynamic and transient studies. This study proposes an adaptive, multi-parameter model-free framework for predicting and compensating delays in co-simulated systems, addressing this critical issue. This framework leverages the improved damping impedance method interface algorithm and an adaptive, parameter-tuning predictor system that predicts and compensates for delays without requiring complex interface signal transformation, processing, decomposition, reconstruction, phase estimation, system models, or human interference. The proposed approach is validated using a joint experiment between two laboratories at Clemson, SC, USA, and Greenville, SC, USA, with the Damping Impedance Method as an Interface Algorithm between the two partitioned subsystems. The coupling errors, state tracking errors, and residual complex power are used as evaluation metrics for the proposed delay compensation. This approach enhances co-simulation accuracy and stability, facilitating reliable dynamic and transient analyses.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -140,13 +132,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  In modern maritime operations, electric ship power systems (SPSs) play a crucial role as they integrate distributed energy resources to meet stringent environmental targets while ensuring reliability in dynamic and isolated marine environments. Energy management systems (EMS) are critical to optimizing fuel efficiency, reducing emissions, and maintaining power quality under variable load demands and the harsh conditions in which ships operate. This paper presents a comprehensive review of EMS methodologies for SPS, covering traditional methods such as evolutionary algorithms, model predictive control (MPC), fuzzy logic control, and more modern approaches such as machine learning (ML) and deep learning (DL). ML and DL for EMS offer predictive and adaptive capabilities for real-time optimization, but face limitations in data security and centralized computational demands. Federated learning (FL), which is a decentralized, privacy-preserving paradigm, is a viable solution to the disadvantages of the conventional centralized form of training in ML. FL enables collaborative model training across distributed systems without raw data sharing, addressing critical concerns in cybersecurity and communication overhead. However, FL does require individual devices or clients to have enough computational power to carry out distributed optimization locally. A detailed overview of FL, including the FL training process, categories, architectures and various applications of FL in ship and energy systems, is presented in this paper. To further establish the usefulness of conducting energy management (EM) in ship systems, the paper presents a case study on a notional four-zone DC SPS in which FL has been utilized to collaboratively train DL models across multiple generators without sharing sensitive local data. The results demonstrate better generator output power prediction and effective load management in comparison to the conventional centralized learning setup, indicating the potential of FL to enhance energy efficiency and reliability in ship systems. Finally, some challenges and possible research gaps in applying FL to ship systems are discussed.
+  In modern maritime operations, electric ship power systems (SPSs) play a crucial role as they integrate distributed energy resources to meet stringent environmental targets while ensuring reliability in dynamic and isolated marine environments. Energy management systems (EMS) are critical to optimizing fuel efficiency, reducing emissions, and maintaining power quality under variable load demands and the harsh conditions in which ships operate. This paper presents a comprehensive review of EMS methodologies for SPS, covering traditional methods such as evolutionary algorithms, model predictive control (MPC), fuzzy logic control, and more modern approaches such as machine learning (ML) and deep learning (DL). ML and DL for EMS offer predictive and adaptive capabilities for real-time optimization, but face limitations in data security and centralized computational demands. Federated learning (FL), which is a decentralized, privacy-preserving paradigm, is a viable solution to the disadvantages of the conventional centralized form of training in ML. FL enables collaborative model training across distributed systems without raw data sharing, addressing critical concerns in cybersecurity and communication overhead. However, FL does require individual devices or clients to have enough computational power to carry out distributed optimization locally. A detailed overview of FL, including the FL training process, categories, architectures, and various applications of FL in ship and energy systems, is presented in this paper. To further establish the usefulness of conducting energy management (EM) in ship systems, the paper presents a case study on a notional four-zone DC SPS in which FL has been utilized to collaboratively train DL models across multiple generators without sharing sensitive local data. The results demonstrate better generator output power prediction and effective load management in comparison to the conventional centralized learning setup, indicating the potential of FL to enhance energy efficiency and reliability in ship systems. Finally, some challenges and possible research gaps in applying FL to ship systems are discussed.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -160,7 +151,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TIA.2025.3559049" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -180,7 +170,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TPEL.2025.3546221" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -200,7 +189,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TII.2025.3528548" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -220,7 +208,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1049/rpg2.12575" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -240,7 +227,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TTE.2024.3510458" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -260,7 +246,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TTE.2024.3468887" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -282,7 +267,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/j.prime.2024.100640" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -302,13 +286,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2024.3385429" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  Recently, the thermal management of power electronic converters has gained significant attention due to the continuous trend of developing very compact power electronic converters with high power density. With the evolution of power semiconductor devices, high operating temperatures and large thermal cycles have become possible, necessitating a significant improvement in thermal system designs. Researchers have made significant efforts to develop effective thermal management systems to improve the reliability and lifetime of power electronic converters. This article intends to present a thorough review of thermal management systems employed in power electronics cooling. The applied thermal management techniques have been reviewed from the perspective of electrical parameter regulation and heat dissipation control. Regulation of electrical parameters involves active thermal control, which is a method for controlling junction temperature and thermal cycling of power semiconductor devices. The active thermal control implementation processes reviewed in this article consist of increasing overload capacity, manipulating switching and conduction losses, employing modified modulation processes, balancing thermal stress at the converter level, and controlling thermal stress at the system level. Control of heat dissipation can be achieved through direct and indirect cooling of power electronic converters with air or liquid as the coolant. The effectiveness and implementation methods of these cooling techniques, such as channel cooling, phase change material-based cooling, immersion cooling, jet impingement and spray cooling, are reviewed in this paper. Moreover, performance-enhancing ideas and challenges for these techniques are discussed. The primary objective of this review paper is to bridge the existing gap in the literature by offering a comprehensive comparison of commonly employed thermal management techniques.
+  Recently, the thermal management of power electronic converters has gained significant attention due to the continuous trend of developing very compact power electronic converters with high power density. With the evolution of power semiconductor devices, high operating temperatures and large thermal cycles have become possible, necessitating a significant improvement in thermal system designs. Researchers have made significant efforts to develop effective thermal management systems to improve the reliability and lifetime of power electronic converters. This article intends to present a thorough review of thermal management systems employed in power electronics cooling. The applied thermal management techniques have been reviewed from the perspective of electrical parameter regulation and heat dissipation control. Regulation of electrical parameters involves active thermal control, which is a method for controlling junction temperature and thermal cycling of power semiconductor devices. The active thermal control implementation processes reviewed in this article consist of increasing overload capacity, manipulating switching and conduction losses, employing modified modulation processes, balancing thermal stress at the converter level, and controlling thermal stress at the system level. Control of heat dissipation can be achieved through direct and indirect cooling of power electronic converters with air or liquid as the coolant. The effectiveness and implementation methods of these cooling techniques, such as channel cooling, phase change material-based cooling, immersion cooling, jet impingement, and spray cooling, are reviewed in this paper. Moreover, performance-enhancing ideas and challenges for these techniques are discussed. The primary objective of this review paper is to bridge the existing gap in the literature by offering a comprehensive comparison of commonly employed thermal management techniques.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -324,13 +307,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2023.3332689" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  The increasing popularity of electric vehicles is driven by their compatibility with sustainable energy goals. However, the decline in the performance of energy storage systems, such as batteries, due to their degradation puts electric vehicles and hybrid electric vehicles at a disadvantage compared to traditional internal combustion engine vehicles. This paper presents a prognostic-based control framework for hybrid electric vehicles to reduce the cost of operating hybrid electric vehicles by considering the degradation of energy storage systems. The strategy utilizes a degradation forecasting model of electrical components to predict their degradation pattern and uses the prediction to control hybrid electric vehicles via their energy management systems to reduce the degradation of components. A real-time controller hardware-in-the-loop is set up to run the proposed strategy. A hybrid electric vehicle model is developed on Typhoon (i.e., a real-time simulator), which is connected to two layers: energy management and degradation forecasting layer, deployed in Raspberry Pis, respectively. All these components are communicated through CAN communication, where the actual operating condition of the vehicle is sent from Typhoon to each Raspberry Pis to implement the proposed control strategy. With this approach, the cost of operating hybrid electric vehicles can be reduced, making them more competitive than their combustion engine counterparts shown in both numerical simulations and the CHIL experiment.
+  The increasing popularity of electric vehicles is driven by their compatibility with sustainable energy goals. However, the decline in the performance of energy storage systems, such as batteries, due to their degradation puts electric vehicles and hybrid electric vehicles at a disadvantage compared to traditional internal combustion engine vehicles. This paper presents a prognostic-based control framework for hybrid electric vehicles to reduce the cost of operating hybrid electric vehicles by considering the degradation of energy storage systems. The strategy utilizes a degradation forecasting model of electrical components to predict their degradation pattern and uses the prediction to control hybrid electric vehicles via their energy management systems to reduce the degradation of components. A real-time controller hardware-in-the-loop is set up to run the proposed strategy. A hybrid electric vehicle model is developed on Typhoon (i.e., a real-time simulator), which is connected to two layers: energy management and degradation forecasting layer, deployed in Raspberry Pis, respectively. All these components are communicated through CAN communication, where the actual operating condition of the vehicle is sent from Typhoon to each Raspberry Pi to implement the proposed control strategy. With this approach, the cost of operating hybrid electric vehicles can be reduced, making them more competitive than their combustion engine counterparts, as shown in both numerical simulations and the CHIL experiment.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -344,7 +326,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2023.3308523" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -361,12 +342,11 @@ My full list of publications is available on Google Scholar:
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2022</span>
 
-- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022.
+- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic-Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022.
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/j.ijepes.2021.107567" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -388,13 +368,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1002/2050-7038.13135" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  This paper presents a novel control topology for a multilevel inverter with a reduced number of power switches for achieving an increased number of levels in the output voltage, along with improved power quality. The diode clamped multilevel inverter configuration is modified, and the gating signals are generated using a  selective harmonic optimization technique at fundamental frequency using Satin Bower Bird optimization (SBO). It enhances the quality of the  output voltage waveform with the reduction in total harmonic distortion (THD), less switching power losses, and better efficiency. The inverter is investigated for its competent operation capability on grid-tied applications. A detailed simulation is conducted, and results are presented for various load conditions. To validate the inverter operation, an experimental setup of the modified diode clamped modular inverter (MDCMI) interfacing the grid is presented. The loss analysis is carried out at the inverter and converter segments. Based on the analysis, the proposed control topology demonstrates the reliable and efficient operation of the modular inverter. From the results obtained, it is evident that the proposed inverter design suits suitable for the grid applications.
+  This paper presents a novel control topology for a multilevel inverter with a reduced number of power switches for achieving an increased number of levels in the output voltage, along with improved power quality. The diode clamped multilevel inverter configuration is modified, and the gating signals are generated using a  selective harmonic optimization technique at fundamental frequency using Satin Bower Bird optimization (SBO). It enhances the quality of the  output voltage waveform with the reduction in total harmonic distortion (THD), less switching power losses, and better efficiency. The inverter is investigated for its competent operation capability on grid-tied applications. A detailed simulation is conducted, and results are presented for various load conditions. To validate the inverter operation, an experimental setup of the modified diode clamped modular inverter (MDCMI) interfacing the grid is presented. The loss analysis is carried out at the inverter and converter segments. Based on the analysis, the proposed control topology demonstrates the reliable and efficient operation of the modular inverter. From the results obtained, it is evident that the proposed inverter design is suitable for the grid applications.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -408,13 +387,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2021.3078570" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  Global warming and the desire to increase the use of clean energy have led to an increase in the installation and operation of renewable energy power plants (REPPs), especially large-scale photovoltaic (PV) farms (LPFs). Given that the LPFs are added to the power system or replace conventional power plants, they must be able to perform the basic tasks of synchronous generators (SGs). One of these tasks is the ability to mitigate the low-frequency oscillation (LFO) risk. Also, one of the LPFs problems is reducing the power system inertia and increasing the risk of LFOs. Therefore, these types of power plants must damp the LFOs through a power oscillation damping controller (PODC), similar to the performance of power system stabilizers (PSSs) in the SGs. This paper represents an overview of the different PODCs and control methods for LFOs damping by LPF. It seems that it can be a driver for future studies. Different studies show that the application of PODCs for LPFs can play an effective role in dampening the LFOs and increasing the power system stability.
+  Global warming and the desire to increase the use of clean energy have led to an increase in the installation and operation of renewable energy power plants (REPPs), especially large-scale photovoltaic (PV) farms (LPFs). Given that the LPFs are added to the power system or replace conventional power plants, they must be able to perform the basic tasks of synchronous generators (SGs). One of these tasks is the ability to mitigate the low-frequency oscillation (LFO) risk. Also, one of the LPF's problems is reducing the power system inertia and increasing the risk of LFOs. Therefore, these types of power plants must damp the LFOs through a power oscillation damping controller (PODC), similar to the performance of power system stabilizers (PSSs) in the SGs. This paper represents an overview of the different PODCs and control methods for LFOs damping by LPF. It seems that it can be a driver for future studies. Different studies show that the application of PODCs for LPFs can play an effective role in dampening the LFOs and increasing the power system stability.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -430,7 +408,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2020.3048022" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -450,13 +427,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.3390/en13164152" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  Power quality is a pressing concern and of the utmost importance for advanced and high-tech equipment in particular, whose performance relies heavily on the supply’s quality. Power quality issues like voltage sags/swells, harmonics, interruptions, etc., are defined as any deviations in current, voltage, or frequency that result in end-use equipment damage or failure. Sensitive loads like medical equipment in hospitals and health clinics, schools, prisons, etc., malfunction for the outages and interruptions, thereby causing substantial economic losses. For enhancing power quality, custom power devices (CPDs) are recommended, among which the Dynamic Voltage Restorer (DVR) is considered the best and cost-effective solution. DVR is a power electronic-based solution to mitigate and compensate for voltage sags. This paper provides a thorough discussion and comprehensive review of DVR topologies based on operations, power converters, control methods, and applications. The review compares the state-of-the-art in works of literature, and comparative study on power quality issues, the DVR principle along with its operation modes, the DVR components, the DVR topologies based on energy storage, the DVR topologies based on single-/three-phase power converters, and the DVR topologies based on control units that have different control processing stages. Furthermore, modified and improved configurations of the DVR, as well as its integration with distributed generations, are described. This work serves as a comprehensive and useful reference for those who have an interest in researching DVRs.
+  Power quality is a pressing concern and of the utmost importance for advanced and high-tech equipment in particular, whose performance relies heavily on the supply’s quality. Power quality issues like voltage sags/swells, harmonics, interruptions, etc., are defined as any deviations in current, voltage, or frequency that result in end-use equipment damage or failure. Sensitive loads like medical equipment in hospitals and health clinics, schools, prisons, etc., malfunction due to outages and interruptions, thereby causing substantial economic losses. For enhancing power quality, custom power devices (CPDs) are recommended, among which the Dynamic Voltage Restorer (DVR) is considered the best and most cost-effective solution. DVR is a power electronic-based solution to mitigate and compensate for voltage sags. This paper provides a thorough discussion and comprehensive review of DVR topologies based on operations, power converters, control methods, and applications. The review compares the state-of-the-art in works of literature, and comparative study on power quality issues, the DVR principle along with its operation modes, the DVR components, the DVR topologies based on energy storage, the DVR topologies based on single-/three-phase power converters, and the DVR topologies based on control units that have different control processing stages. Furthermore, modified and improved configurations of the DVR, as well as its integration with distributed generations, are described. This work serves as a comprehensive and useful reference for those who have an interest in researching DVRs.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -470,13 +446,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1007/s40998-020-00338-0" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  Voltage-source inverters have been widely used in traditional photovoltaic systems, which have limitations. To overcome, the Z-source inverter has been introduced. In spite of all the features introduced in the Z-source inverter, its configuration has been improved over the years, like the trans-Z-source inverter, which has added advantages compared to traditional inverters, namely, buck–boost feature, fewer passive elements, and a higher voltage boost gain. In this paper, photovoltaic arrays are connected to the grid via the trans-Z-source inverter with the aim of improving its power quality. Moreover, the shoot-through duty ratio is kept constant in the switching control method to add features like lower voltage stress (higher reliability), lower total harmonic distortion (lower maintenance cost), and higher voltage boost ratio. To evaluate the precision of the proposed system, the photovoltaic system is simulated on a standard grid and under partial shading conditions which bring about voltage sag, and hence, a dynamic voltage restorer is used to mitigate voltage sag. Simulation results are presented to verify the validation of the proposed photovoltaic system in terms of voltage and current THD, reducing 78.2% and 19.7%, respectively.
+  Voltage-source inverters have been widely used in traditional photovoltaic systems, which have limitations. To overcome this, the Z-source inverter has been introduced. In spite of all the features introduced in the Z-source inverter, its configuration has been improved over the years, like the trans-Z-source inverter, which has added advantages compared to traditional inverters, namely, a buck–boost feature, fewer passive elements, and a higher voltage boost gain. In this paper, photovoltaic arrays are connected to the grid via the trans-Z-source inverter with the aim of improving its power quality. Moreover, the shoot-through duty ratio is kept constant in the switching control method to add features like lower voltage stress (higher reliability), lower total harmonic distortion (lower maintenance cost), and higher voltage boost ratio. To evaluate the precision of the proposed system, the photovoltaic system is simulated on a standard grid and under partial shading conditions, which bring about voltage sag, and hence, a dynamic voltage restorer is used to mitigate voltage sag. Simulation results are presented to verify the validation of the proposed photovoltaic system in terms of voltage and current THD, reducing 78.2% and 19.7%, respectively.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -490,7 +465,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://spre.stb.iau.ir/article_676122.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -510,7 +484,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://spre.stb.iau.ir/article_673589.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -530,7 +503,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://spre.stb.iau.ir/article_670422.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -552,7 +524,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/j.seta.2016.10.001" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Journal-1E90FF" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -576,7 +547,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -596,13 +566,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  The application of power electronics in all-electric ships (AES) has grown significantly because they offer better control and flexibility. Additionally, Induction Motors (IM) are favored in AESs for their reliability, cost-effectiveness and superior speed and torque tracking performance. The reliability of the power converters in AESs is essential for their safe operation, and this is driving interest in new technologies that ensure safe and reliable PEC performance. One major challenge in achieving reliable PEC operation is the efficient management of generated heat. This includes control of junction temperature and regulation of thermal cycles in power semiconductors. Active Thermal Control (ATC) reduces high junction temperature and thermal cycles by using temperature-related control parameters. This paper presents a closed-loop ATC approach via power routing of parallel DC-AC converters that efficiently distributes the thermal load across various segments of a modular converter, thereby minimizing thermal stress on the most vulnerable components. The effectiveness of the proposed thermal management approach is validated through MATLAB/Simulink results.
+  The application of power electronics in all-electric ships (AES) has grown significantly because they offer better control and flexibility. Additionally, Induction Motors (IM) are favored in AESs for their reliability, cost-effectiveness, and superior speed and torque tracking performance. The reliability of the power converters in AESs is essential for their safe operation, and this is driving interest in new technologies that ensure safe and reliable PEC performance. One major challenge in achieving reliable PEC operation is the efficient management of generated heat. This includes control of junction temperature and regulation of thermal cycles in power semiconductors. Active Thermal Control (ATC) reduces high junction temperature and thermal cycles by using temperature-related control parameters. This paper presents a closed-loop ATC approach via power routing of parallel DC-AC converters that efficiently distributes the thermal load across various segments of a modular converter, thereby minimizing thermal stress on the most vulnerable components. The effectiveness of the proposed thermal management approach is validated through MATLAB/Simulink results.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -616,7 +585,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -638,13 +606,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-  The research on hybrid electric vehicles (HEVs) poses significant cost challenges due to the necessity of assembling various components and ensuring the fidelity of the entire system, especially when testing new algorithms or integrating additional devices. In research institutes, different laboratories may specialize in hardware or control aspects of HEVs, with some possessing most components while others lack certain elements. This fragmented distribution often necessitates purchasing all components, increasing research expenses substantially. To address this issue, this paper presents a framework introducing the concept of a hardware-integrated virtual environment (HIVE) that facilitates the virtual connection of components dispersed across multiple locations, enabling comprehensive research on the entire vehicle system without physical integration. To test this framework, this study utilizes a series HEV model developed in MATLAB, which is operated in real-time using Speedgoat, a digital real-time simulator. One laboratory possesses all the vehicle components except for the battery, while another laboratory houses the missing battery component, also developed in MATLAB and operated in real-time using Speedgoat. This study successfully establishes connectivity between the two laboratories, enabling the seamless operation of the entire HEV model across distributed locations.
+  The research on hybrid electric vehicles (HEVs) poses significant cost challenges due to the necessity of assembling various components and ensuring the fidelity of the entire system, especially when testing new algorithms or integrating additional devices. In research institutes, different laboratories may specialize in hardware or control aspects of HEVs, with some possessing most components while others lack certain elements. This fragmented distribution often necessitates purchasing all components, increasing research expenses substantially. To address this issue, this paper presents a framework introducing the concept of a hardware-integrated virtual environment (HIVE) that facilitates the virtual connection of components dispersed across multiple locations, enabling comprehensive research on the entire vehicle system without physical integration. To test this framework, this study utilizes a series HEV models developed in MATLAB, which is operated in real-time using Speedgoat, a digital real-time simulator. One laboratory possesses all the vehicle components except for the battery, while another laboratory houses the missing battery component, also developed in MATLAB and operated in real-time using Speedgoat. This study successfully establishes connectivity between the two laboratories, enabling the seamless operation of the entire HEV model across distributed locations.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -658,7 +625,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ICDCM60322.2024.10664868" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -678,7 +644,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ICDCM60322.2024.10665114" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -698,7 +663,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ICDCM60322.2024.10665285" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -718,7 +682,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10598932" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -738,13 +701,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599084" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   Permanent Magnet Synchronous Machines (PMSM) are commonly used for Electric Vehicles (EV) to benefit from their higher torque and efficiency, better performance, and heat dissipation capability than an asynchronous machine. The reliability of the power converters of PMSM drives is crucial for EV operation and is mainly related to the junction temperature of semiconductor devices. During operation, semiconductors experience periodic heating and cooling processes, which causes thermal stress. This stress causes failures of the devices and increases maintenance costs. This paper uses the Finite Control Set Model Predictive Control (FCS-MPC) approach to provide active thermal management (ATM) for a motor drive system. Active thermal management is a method to reduce the thermal cycling of the semiconductor device in order to improve the reliability of the motor drive system. The proposed method uses the FCS-MPC method to predict the three-level Neutral-Point Clamped (3L-NPC) converter’s electro-thermal characteristic to find its optimum state. The speed reference is converted to the reference current via Field-Oriented Control (FOC), and a Cauer-thermal network is used to predict the junction temperature of the semiconductors. The mission objectives vary during the EV operation; thus, adaptive weighting is applied to the objective function to control thermal cycling effectively. The preliminary results of the proposed method show that thermal cycling can be managed to improve reliability, and FCS-MPC is a powerful tool to provide multi-objective control for EV powertrains.
+   Permanent Magnet Synchronous Machines (PMSM) are commonly used for Electric Vehicles (EV) to benefit from their higher torque and efficiency, better performance, and heat dissipation capability than an asynchronous machine. The reliability of the power converters of PMSM drives is crucial for EV operation and is mainly related to the junction temperature of semiconductor devices. During operation, semiconductors experience periodic heating and cooling processes, which cause thermal stress. This stress causes failures of the devices and increases maintenance costs. This paper uses the Finite Control Set Model Predictive Control (FCS-MPC) approach to provide active thermal management (ATM) for a motor drive system. Active thermal management is a method to reduce the thermal cycling of the semiconductor device in order to improve the reliability of the motor drive system. The proposed method uses the FCS-MPC method to predict the three-level Neutral-Point Clamped (3L-NPC) converter’s electro-thermal characteristic to find its optimum state. The speed reference is converted to the reference current via Field-Oriented Control (FOC), and a Cauer-thermal network is used to predict the junction temperature of the semiconductors. The mission objectives vary during the EV operation; thus, adaptive weighting is applied to the objective function to control thermal cycling effectively. The preliminary results of the proposed method show that thermal cycling can be managed to improve reliability, and FCS-MPC is a powerful tool to provide multi-objective control for EV powertrains.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -758,13 +720,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599067" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   This paper presents a novel four-switch transformerless inverter (FSTI) topology for 1-ø grid-connected solar photovoltaic applications with reactive power capability. This proposed FSTI steps up/down the output voltage while completely suppressing the leakage/parasitic currents. Further, this inverter topology supports the on/off-grid application where active/reactive power requirement is essential. In addition, the FSTI comprises of least active power devices, lower voltage and current stresses of power devices, appropriate THD in grid current and better efficiency. The FSTI performance is evaluated for the 1-ø grid connected system. The FSTI is modeled using small signal analysis for the grid-connected inverter's stable operation and fast response. The FSTI is validated on a 500VA laboratory prototype for input PV voltages of 100V, 180V and grid voltage of 110Vrms. The experimental results are in good agreement with the theoretical analysis, which verifies the practicality of the proposed inverter. The FSTI demonstrates the DC to AC power transfer while stepping up/down the inverter’s output voltage with maximum efficiencies of 97% and 96% for the input voltages of 180V and 100V, respectively.
+   This paper presents a novel four-switch transformerless inverter (FSTI) topology for 1-ø grid-connected solar photovoltaic applications with reactive power capability. This proposed FSTI steps up/down the output voltage while completely suppressing the leakage/parasitic currents. Further, this inverter topology supports the on/off-grid application where active/reactive power requirements are essential. In addition, the FSTI comprises the least active power devices, lower voltage and current stresses of power devices, appropriate THD in grid current, and better efficiency. The FSTI performance is evaluated for the 1-ø grid-connected system. The FSTI is modeled using small signal analysis for the grid-connected inverter's stable operation and fast response. The FSTI is validated on a 500VA laboratory prototype for input PV voltages of 100V, 180V, and a grid voltage of 110Vrms. The experimental results are in good agreement with the theoretical analysis, which verifies the practicality of the proposed inverter. The FSTI demonstrates the DC to AC power transfer while stepping up/down the inverter’s output voltage with maximum efficiencies of 97% and 96% for the input voltages of 180V and 100V, respectively.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -778,13 +739,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10598963" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   The considerable advancement in electric vehicles (EVs) and constant reduction of prices for solar photovoltaic (PV) modules has raised interest in integrating PV modules to the EV chargers. In this paper a new Cuk based hybrid converter topology (CHCT) is proposed as an EV charger. The proposed CHCT consists of a PV source and 1-ϕ AC grid as two main energy sources. The main advantage of CHCT configuration is that it uses the optimal number of power components (i.e., five power switches, three inductors and one auxiliary capacitor) in the system. To control the CHCT configuration a simple modulation/switching strategy is proposed. Further, the control strategy to extract the maximum power available from PV source, controlling the power fed/extracted from the AC grid and charging the EV battery are also presented. In addition, the CHCT is tested under various scenarios such as the distribution of power between the two sources (AC grid and PV under wide variation of weather conditions), sending the power from PV to AC grid when EV battery is full or EV is not available, feeding power from PV to EV battery when AC grid is not available, and feeding power from AC grid to the EV battery during the absence of PV source. The MATLAB/Simulink is used to verify the proposed CHCT configuration under various circumstances at a power rating of 10kVA. The experimental testing of laboratory prototype of proposed EV charger is still under way. All the analysis and results of the proposed work will be presented in future papers.
+   The considerable advancement in electric vehicles (EVs) and the constant reduction of prices for solar photovoltaic (PV) modules have raised interest in integrating PV modules into EV chargers. In this paper, a new Cuk-based hybrid converter topology (CHCT) is proposed as an EV charger. The proposed CHCT consists of a PV source and a 1-ϕ AC grid as two main energy sources. The main advantage of the CHCT configuration is that it uses the optimal number of power components (i.e., five power switches, three inductors, and one auxiliary capacitor) in the system. To control the CHCT configuration, a simple modulation/switching strategy is proposed. Further, the control strategy to extract the maximum power available from the PV source, controlling the power fed/extracted from the AC grid, and charging the EV battery are also presented. In addition, the CHCT is tested under various scenarios such as the distribution of power between the two sources (AC grid and PV under wide variation of weather conditions), sending the power from PV to AC grid when EV battery is full or EV is not available, feeding power from PV to EV battery when AC grid is not available, and feeding power from AC grid to the EV battery during the absence of PV source. MATLAB/Simulink is used to verify the proposed CHCT configuration under various circumstances at a power rating of 10kVA. The experimental testing of the laboratory prototype of the proposed EV charger is still underway. All the analysis and results of the proposed work will be presented in future papers.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -798,7 +758,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599012" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -818,7 +777,6 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2024-01-2000" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -838,13 +796,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2024-01-2790" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   Semiconductor devices in electric vehicle (EV) motor drive systems are considered the most fragile components with a high occurrence rate for open circuit fault (OCF). Various signal-based and model-based methods with explicit mathematical models have been previously published for OCF diagnosis. However, this proposed work presents a model-free machine learning (ML) approach for a single-switch OCF detection and localization (DaL) for a two-level, three-phase inverter. Compared to already available ML models with complex feature extraction methods in the literature, a new and simple way to extract OCF feature data with sufficient classification accuracy is proposed. In this regard, the inherent property of active thermal management (ATM) based model predictive control (MPC) to quantify the conduction losses for each semiconductor device in a power converter is integrated with an ML network. This recurrent neural network (RNN)-based ML model as a multiclass classifier localizes the faulty switch based on the dynamics associated with conduction losses as reliable and feature-rich data. The presented approach utilizes the controller data with no additional computational load to compute the feed-in data for the ML model and no extra hardware requirements. The proposed data-driven approach, with an accuracy of 99% for distinct hyperparameters and testing datasets, proves to be a promising solution for OCF DaL.
+   Semiconductor devices in electric vehicle (EV) motor drive systems are considered the most fragile components with a high occurrence rate for open circuit fault (OCF). Various signal-based and model-based methods with explicit mathematical models have been previously published for OCF diagnosis. However, this proposed work presents a model-free machine learning (ML) approach for a single-switch OCF detection and localization (DaL) for a two-level, three-phase inverter. Compared to already available ML models with complex feature extraction methods in the literature, a new and simple way to extract OCF feature data with sufficient classification accuracy is proposed. In this regard, the inherent property of active thermal management (ATM) based model predictive control (MPC) to quantify the conduction losses for each semiconductor device in a power converter is integrated with an ML network. This recurrent neural network (RNN)-based ML model, as a multiclass classifier, localizes the faulty switch based on the dynamics associated with conduction losses, using reliable and feature-rich data. The presented approach utilizes the controller data with no additional computational load to compute the feed-in data for the ML model and no extra hardware requirements. The proposed data-driven approach, with an accuracy of 99% for distinct hyperparameters and testing datasets, proves to be a promising solution for OCF DaL.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -860,13 +817,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2023-01-1686" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   This paper proposes a novel 1-ϕ, Cuk based on-board electric vehicle (EV) charger with least power components. The proposed EV charger has a special feature to achieve power factor correction (PFC) at AC grid without requirement of the grid voltage and current sensors which cuts the cost and increases the power density of the EV charger along with robustness to noise. The automatic PFC at AC grid is accomplished by operating the output DC inductor in discontinuous conduction mode (DCM). The proposed EV charger necessitates a minimal number of power components for positive and negative half cycles of AC grid which improves the overall efficiency of the system. This is possible due to the combination of inverting and non-inverting Cuk converters are used for each half cycle of the AC grid. Further, the presence of output inductor in the EV charger reduces the ripples in the output current which is not common with all the existing chargers in the literature. In addition, the control of charger is simple, and easy to implement with only battery current sensor based current control. The proposed charger configuration has lower voltage stress across the power switches and diodes in comparison with the existing charger configurations. The theoretical concept is validated through experimental studies which prove the superior execution of PFC control of the 2kW EV charger. The various performance factors such as power factor at AC grid is 0.996 and total harmonic distortion (THD) in the AC grid current is 2.8% which are within the limits of standard IEC 61000-3-2.
+   This paper proposes a novel 1-ϕ, Cuk-based on-board electric vehicle (EV) charger with the least power components. The proposed EV charger has a special feature to achieve power factor correction (PFC) at the AC grid without the requirement of the grid voltage and current sensors, which cuts the cost and increases the power density of the EV charger, along with robustness to noise. The automatic PFC at the AC grid is accomplished by operating the output DC inductor in discontinuous conduction mode (DCM). The proposed EV charger necessitates a minimal number of power components for positive and negative half cycles of the AC grid, which improves the overall efficiency of the system. This is possible due to the combination of inverting and non-inverting Cuk converters, which are used for each half cycle of the AC grid. Further, the presence of an output inductor in the EV charger reduces the ripples in the output current, which is not common with all the existing chargers in the literature. In addition, the control of the charger is simple and easy to implement with only battery current sensor-based current control. The proposed charger configuration has lower voltage stress across the power switches and diodes in comparison with the existing charger configurations. The theoretical concept is validated through experimental studies, which prove the superior execution of PFC control of the 2kW EV charger. The various performance factors, such as the power factor at the AC grid is 0.996 and total harmonic distortion (THD) in the AC grid current is 2.8%, which are within the limits of standard IEC 61000-3-2.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -880,13 +836,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS56571.2023.10220528" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   The evolution of power electronics devices in the semiconductor sector has created a strong need for power modules that have high efficiency and low power usage. The power package; which embraces a couple of power electronics devices such as switches and diodes; provides mechanical supports, electrical interface, protection, and thermal management to the power electronics devices. The power package is power dissipation, resulting in a significant challenge to its thermal management. To lower the expenses on wasted power and minimize the need for cooling systems, it is imperative for power converters and their control algorithm to offer exceptional efficiency in converting power. Hence, efficient thermal control and sophisticated thermal design are crucial in developing the power module. In this paper, health monitoring of the power modules is considered in the active thermal control of a two-level power rectifier using a sequence-based model predictive control method. This paper sets the stage for monitoring the thermal response and health of power electronics devices by early diagnosis of degradation. This declines the thermal stress and makes a prompt prediction of failure. This would enhance the reliability of the power converter.
+   The evolution of power electronics devices in the semiconductor sector has created a strong need for power modules that have high efficiency and low power usage. The power package, which embraces a couple of power electronics devices such as switches and diodes, provides mechanical supports, electrical interface, protection, and thermal management to the power electronics devices. The power package is a power dissipation, resulting in a significant challenge to its thermal management. To lower the expenses on wasted power and minimize the need for cooling systems, it is imperative for power converters and their control algorithm to offer exceptional efficiency in converting power. Hence, efficient thermal control and sophisticated thermal design are crucial in developing the power module. In this paper, health monitoring of the power modules is considered in the active thermal control of a two-level power rectifier using a sequence-based model predictive control method. This paper sets the stage for monitoring the thermal response and health of power electronics devices by early diagnosis of degradation. This reduces the thermal stress and makes a prompt prediction of failure. This would enhance the reliability of the power converter.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -900,13 +855,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS56571.2023.10220475" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   Cyber-physical systems like ship power systems are highly susceptible to cyber threats and physical faults. Early detection and mitigation of cyber-attacks using Machine Learning (ML) techniques are garnering more attention as cyber-physical attacks become more frequent and sophisticated. ML has demonstrated promising performances in developing robust threat intelligence solutions. In this paper, a cyber-attack detection scheme for the ship control system using a scalable federated deep learning-based method is proposed. Here, Long Short-Term Memory (LSTM) models are trained in a distributed manner to mirror complex controller behavior using normal system operational data. Estimation errors between the actual controller data and the ML counterparts are used to detect the presence of cyberattacks or anomalous behavior. Additionally, temporal analysis is conducted on both the input and output estimation error signals whereby a time gap is detected that is leveraged to distinguish between hijacking and FDI attacks. Simulation results indicate that the proposed methods can effectively detect multiple types of cyberattacks instantly without sharing sensitive data.
+   Cyber-physical systems like ship power systems are highly susceptible to cyber threats and physical faults. Early detection and mitigation of cyber-attacks using Machine Learning (ML) techniques are garnering more attention as cyber-physical attacks become more frequent and sophisticated. ML has demonstrated promising performance in developing robust threat intelligence solutions. In this paper, a cyber-attack detection scheme for the ship control system using a scalable federated deep learning-based method is proposed. Here, Long Short-Term Memory (LSTM) models are trained in a distributed manner to mirror complex controller behavior using normal system operational data. Estimation errors between the actual controller data and the ML counterparts are used to detect the presence of cyberattacks or anomalous behavior. Additionally, temporal analysis is conducted on both the input and output estimation error signals, whereby a time gap is detected that is leveraged to distinguish between hijacking and FDI attacks. Simulation results indicate that the proposed methods can effectively detect multiple types of cyberattacks instantly without sharing sensitive data.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -922,13 +876,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/NAPS52732.2021.9654507" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   This paper aims to study and evaluate the performance of a novel control scheme for Dynamic Voltage Restores (DVR) with Transformer-based Impedance Sourse Inverter (Trans-ZSI) configuration. An Improved Maximum Constant Boost Control (IMCBC) method is proposed to enhance the overall performance of solar PV fed TransZSI-DVRs. The proposed technique contributes to THD reduction and voltage stress mitigation across the switches. A model developed in Matlab/SIMULINK is tested under different types of voltage disturbance. The results show the effectiveness of the proposed control method as a corrective approach in compensating the voltage at the point of common coupling.
+   This paper aims to study and evaluate the performance of a novel control scheme for Dynamic Voltage Restores (DVR) with Transformer-based Impedance Source Inverter (Trans-ZSI) configuration. An Improved Maximum Constant Boost Control (IMCBC) method is proposed to enhance the overall performance of solar PV-fed TransZSI-DVRs. The proposed technique contributes to THD reduction and voltage stress mitigation across the switches. A model developed in MATLAB/SIMULINK is tested under different types of voltage disturbance. The results show the effectiveness of the proposed control method as a corrective approach in compensating the voltage at the point of common coupling.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -944,13 +897,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037743" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   In this paper, a modified space vector PWM is presented for Trans-Z-source inverter -based grid -connected photovoltaic systems. In this method, the shoot-through states are added which bring outstanding merits like lower total harmonic distortion, lower voltage stress (higher reliability) and higher voltage boost gain, as opposed to traditional methods. Plus, the Trans- Z-source inverter has an ideal transformer and a capacitor, which can overcome limitations of traditional voltage-source inverters and z-source inverters. Buck/boost feature, fewer passive elements, and higher voltage boost gain are its advantages. To evaluate the effectiveness of the proposed switching method, the photovoltaic system is analyzed in three different cases: based on the voltage-source inverter with carrier-based PWM, based on the trans-z-source inverter with maximum constant boost control and based on the trans-z-source inverter with modified space vector PWM. Simulation results confirm the superiority of the proposed photovoltaic system with the modified space vector PWM in terms of the power quality and the voltage stress.
+   In this paper, a modified space vector PWM is presented for Trans-Z-source inverter -based grid -connected photovoltaic systems. In this method, the shoot-through states are added, which bring outstanding merits like lower total harmonic distortion, lower voltage stress (higher reliability), and higher voltage boost gain, as opposed to traditional methods. Plus, the Trans- Z-source inverter has an ideal transformer and a capacitor, which can overcome limitations of traditional voltage-source inverters and z-source inverters. Buck/boost feature, fewer passive elements, and higher voltage boost gain are its advantages. To evaluate the effectiveness of the proposed switching method, the photovoltaic system is analyzed in three different cases: based on the voltage-source inverter with carrier-based PWM, based on the trans-Z-source inverter with maximum constant boost control, and based on the trans-Z-source inverter with modified space vector PWM. Simulation results confirm the superiority of the proposed photovoltaic system with the modified space vector PWM in terms of the power quality and the voltage stress.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -964,13 +916,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037744" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   Distributed generations (DG) are used in power systems to reduce power losses, improve voltage level, increase the reliability and reduction of environmental pollution. To use the advantages of DG units, optimal placement and sizing of these systems should be taken into account. In this paper Differential Evolution algorithm (DE) used as an algorithm capable in the field of artificial intelligence combined with the Artificial Bee Colony algorithm (ABC) to enhance search capabilities of the DE algorithm for placement and sizing of DG units in presence of load uncertainty in distributed power systems. To demonstrate the effectiveness of the proposed method, it is tested on a standard IEEE-69 bus network and results indicate the superiority of the hybrid algorithm compared to each one of them. Besides, the uncertainty of loads is considered. Simulation results in MATLAB/Simulink software show that the proposed algorithm (DE-ABC algorithm) minimized total cost and power losses of DG units and voltage deviation has been improved.
+   Distributed generations (DG) are used in power systems to reduce power losses, improve voltage level, increase reliability, and reduce environmental pollution. To use the advantages of DG units, optimal placement and sizing of these systems should be taken into account. In this paper, the Differential Evolution algorithm (DE) is used as an algorithm in the field of artificial intelligence, combined with the Artificial Bee Colony algorithm (ABC) to enhance the search capabilities of the DE algorithm for placement and sizing of DG units in the presence of load uncertainty in distributed power systems. To demonstrate the effectiveness of the proposed method, it is tested on a standard IEEE-69 bus network, and the results indicate the superiority of the hybrid algorithm compared to each one of them. Besides, the uncertainty of loads is considered. Simulation results in MATLAB/Simulink software show that the proposed algorithm (DE-ABC algorithm) minimized total cost and power losses of DG units, and voltage deviation has been improved.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -984,13 +935,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037760" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   Implementing the Model Predictive Control (MPC) is much more popular due to the capability of controlling the linear and nonlinear loads without linearization as well as no need for a modulator to generate switching signals. The performance of MPC methods is basically related to their cost function to examine all possible voltage vectors generated by inverters to find the optimal one. This requires to consume lots of time which can become more at high-level inverters. In this paper, the proposed Target Tracer MPC (TT-MPC) switching strategy not only can lessen the loss caused by the high number of inverter switching commutation, but also there is no need to examine all voltage vectors to choose the optimal one. By finding and tracing simultaneously the stator voltage vector region, TT -MPC examines only the vectors of that sector and the two adjacent sectors. Therefore, its cost function requires a very short time comparing with other MPCs to find the optimal voltage vector. This advantage of TT-MPC can make it possible to have fast responding and precise control over four quadrants of the motor drive. This issue is way too much vital when it comes to PV inverters.
+   Implementing the Model Predictive Control (MPC) is much more popular due to the capability of controlling the linear and nonlinear loads without linearization, as well as no need for a modulator to generate switching signals. The performance of MPC methods is basically related to their cost function, to examine all possible voltage vectors generated by inverters to find the optimal one. This requires consuming lots of time, which can become more challenging at high-level inverters. In this paper, the proposed Target Tracer MPC (TT-MPC) switching strategy not only can lessen the loss caused by the high number of inverter switching commutations, but also there is no need to examine all voltage vectors to choose the optimal one. By finding and tracing the stator voltage vector region, TT -MPC examines only the vectors of that sector and the two adjacent sectors. Therefore, its cost function requires a very short time compared to other MPCs to find the optimal voltage vector. This advantage of TT-MPC can make it possible to have fast responding and precise control over the four quadrants of the motor drive. This issue is way too vital when it comes to PV inverters.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -1006,13 +956,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://www.researchgate.net/publication/311261064_Simulation_of_Photovoltaic_System_Based_on_Zero-Current_Switching_Forward_Converter" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   In this paper, with the help of a simple auxiliary circuit and a new algorithm for switching in a pulse width modulation forward converter, features of a Photovoltaic system and soft switching have been achieved. In this converter, the transformer core is reset via resonance, and as a result, reset winding is not required which is the main advantage of this converter over existing zero-current switching forward converters. Also, the proposed auxiliary circuit uses the leakage inductance of the transformer for the resonant inductor and does not require any additional inductor. Thus, the main and auxiliary switches are soft-switched. The simulation and the output characteristic of PV and switches are simulated in MATLAB Simulink.
+   In this paper, with the help of a simple auxiliary circuit and a new algorithm for switching in a pulse width modulation forward converter, features of a Photovoltaic system and soft switching have been achieved. In this converter, the transformer core is reset via resonance, and as a result, a reset winding is not required, which is the main advantage of this converter over existing zero-current switching forward converters. Also, the proposed auxiliary circuit uses the leakage inductance of the transformer for the resonant inductor and does not require any additional inductor. Thus, the main and auxiliary switches are soft-switched. The simulation and the output characteristics of PV and switches are simulated in MATLAB Simulink.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -1026,13 +975,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://www.researchgate.net/publication/311261309_The_Use_of_New_Control_Technique_in_Dynamic_Voltage_Restorer_DVR_as_a_Series_Compensator_to_Protect_Sensitive_Loads_Against_Voltage_Disturbances" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Conference-6A5ACD" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   In power systems, custom power devices are used to prevent voltage drop. Dynamic Voltage Restorer (DVR) is one of them. Also, there are different control techniques for DVR systems. The purpose of this paper is to use DVR with the dq0 control technique as a series compensator for the protection of sensitive and critical loads during faults, voltage sags, and voltage swells. The proposed control system has been simulated in MATLAB/Simulink software. The results show that the DVR system is useful for improving voltage disturbances.
+   In power systems, custom power devices are used to prevent voltage drop. A Dynamic Voltage Restorer (DVR) is one of them. Also, there are different control techniques for DVR systems. The purpose of this paper is to use DVR with the dq0 control technique as a series compensator for the protection of sensitive and critical loads during faults, voltage sags, and voltage swells. The proposed control system has been simulated in MATLAB/Simulink software. The results show that the DVR system is useful for improving voltage disturbances.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -1050,13 +998,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/B978-0-32-385267-8.00011-1" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Book%20Chapter-20B2AA" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-   The virtual power plant (VPP) is a paradigm that aggregates widely dispersed resources over an electrical grid or part of it thereof and aspires to emulate the behavior of conventional generators. In this sense, VPPs are expected to contribute to system services. One of the most typical and important system services is frequency control. Frequency control ensures the continuous balance of generation and demand and acts so to preserve it in real-time as imbalances occur. To realize this service, proper reserves, defined as regulating reserves, must be procured and retained to respond to any imbalance during a given planning time-frame. As VPPs comprise multiple different resources, which are dispersed over potentially vast areas, procuring regulating reserves and realizing frequency control is a challenging task. This chapter defines frequency control as a service offered by VPPs, and also illustrates the ways this service may be planned and realized.
+   The virtual power plant (VPP) is a paradigm that aggregates widely dispersed resources over an electrical grid or part thereof and aspires to emulate the behavior of conventional generators. In this sense, VPPs are expected to contribute to system services. One of the most typical and important system services is frequency control. Frequency control ensures the continuous balance of generation and demand and acts to preserve it in real-time as imbalances occur. To realize this service, proper reserves, defined as regulating reserves, must be procured and retained to respond to any imbalance during a given planning time-frame. As VPPs comprise multiple different resources, which are dispersed over potentially vast areas, procuring regulating reserves and realizing frequency control is a challenging task. This chapter defines frequency control as a service offered by VPPs, and also illustrates the ways this service may be planned and realized.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -1070,13 +1017,12 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/B978-0-32-385267-8.00015-9" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Book%20Chapter-20B2AA" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-    Uncertainties are inherent to most aspects of power system operation, including the load that the overall infrastructure aims to serve. It is critical to examine how and to what extent uncertainty affects virtual power plants (VPPs) and how VPPs handle it. In this chapter, we briefly discuss the sources of uncertainty that are more substantial to the operation of a VPP, how researchers have addressed, quantified, and controlled it, and what we consider to be the path forward. Briefly, it needs to be noted that the subject requires considerably more research with approaches that have been barely used and combinations of them thereof for more all-round handling of the issue.
+    Uncertainties are inherent to most aspects of power system operation, including the load that the overall infrastructure aims to serve. It is critical to examine how and to what extent uncertainty affects virtual power plants (VPPs) and how VPPs handle it. In this chapter, we briefly discuss the sources of uncertainty that are more substantial to the operation of a VPP, how researchers have addressed, quantified, and controlled them, and what we consider to be the path forward. Briefly, it needs to be noted that the subject requires considerably more research with approaches that have been barely used and combinations thereof for a more all-around handling of the issue.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -1094,19 +1040,18 @@ My full list of publications is available on Google Scholar:
   <!-- LINKS -->
   <a href="https://www.researchgate.net/publication/334548587_Application_of_Renewable_Energy_Systems_in_MATLABSimulink_Software_PV_Solar_and_Wind_Turbine" style="color:#1E90FF;" target="_blank">doi</a> 🔗
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Type-Book-008080" />
   <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-    MATLAB® is the high-level programming language developed for solving technical and mathematical problems. It is used widely not only in academic courses but also in scientific and engineering activities. The graphical programming language Simulink® is included in MATLAB. Simulink is used for simulating dynamical systems. It is supposed that the system under investigation is developed as a functional diagram consisting of blocks that are equivalent, by their functions, to the program blocks that are included in the Simulink library. This book is intended primarily for later year undergraduate, graduate and research students who are fascinated to learn how to model and control Renewable Energy Systems based on MATLAB/Simulink software. It starts with a comprehensive review of fundamental principles of codes, functions, structures, graphics and graphical user interface programming and then moves on to explain mathematical model of Renewable Energy Systems, PV solar and wind turbine in particular. MATLAB/Simulink models of PV Solar and Wind Energy Conversion Systems are discussed in detail in the very last two chapters. There are very few books on this subject. This book tries to fill this gap and pursues the following aims:
+    MATLAB® is a high-level programming language developed for solving technical and mathematical problems. It is used widely not only in academic courses but also in scientific and engineering activities. The graphical programming language Simulink® is included in MATLAB. Simulink is used for simulating dynamical systems. It is supposed that the system under investigation is developed as a functional diagram consisting of blocks that are equivalent, by their functions, to the program blocks that are included in the Simulink library. This book is intended primarily for later-year undergraduate, graduate, and research students who are fascinated by learning how to model and control Renewable Energy Systems based on MATLAB/Simulink software. It starts with a comprehensive review of fundamental principles of codes, functions, structures, graphics, and graphical user interface programming, and then moves on to explain the mathematical model of Renewable Energy Systems, PV solar, and wind turbines in particular. MATLAB/Simulink models of PV Solar and Wind Energy Conversion Systems are discussed in detail in the very last two chapters. There are very few books on this subject. This book tries to fill this gap and pursues the following aims:
   <br>    
-    • It provides the necessary descriptions and explanations of blocks, functions and models.
+    • It provides the necessary descriptions and explanations of blocks, functions, and models.
   <br>
-    • It organizes the material in a logical sequence, from simple to complex, to make it easier to study MATLAB codes and Simulink library to enable this book to be used in the educational process covering various electrical fields.
+    • It organizes the material in a logical sequence, from simple to complex, to make it easier to study MATLAB codes and the Simulink library, enabling this book to be used in the educational process covering various electrical fields.
   <br>
-    The book can be used by students who are conducting research on Distributed Generations. It should also prove useful for graduate and undergraduate students undergoing courses in electrical fields in higher educational institutions.
+    The book can be used by students who are researching Distributed Generations. It should also prove useful for graduate and undergraduate students undergoing courses in electrical fields in higher educational institutions.
     </p>
   </details>
   <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
