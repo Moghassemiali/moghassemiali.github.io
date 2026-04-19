@@ -9,6 +9,8 @@ author_profile: true
 
 My activities are shown here.
 
+------
+
 # Academic activities
 * **29/07/2025** ABC
 
