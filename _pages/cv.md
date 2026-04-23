@@ -14,7 +14,7 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Education</span>
 
 * **Ph.D. in Electrical Engineering**, Clemson University (August 2022 - May 2025)
-  * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships</a> 
+  * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships</a> 
   * **Supervisor:** Dr. Christopher Edrington
 * **M.Sc. in Electrical Engineering**, Islamic Azad University - South Tehran Branch (September 2013 - December 2015)
   * **Thesis:** Response and Reliability Improvement of Grid-Connected PV Systems with Trans-Z-Source Inverter
@@ -83,23 +83,23 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Service Experience</span>
 
-* **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> September 2025 - Present)
-* **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> (September 2025 - Present)
-* **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a> (June 2025 - Present)
-* **Reviewer**, top-tier journals and conferences (240+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
+* **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> 
+* **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> 
+* **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a>
+* **Reviewer**, top-tier journals and conferences (250+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
 
-* **Member**, <a href="https://www.ieee.org/" style="color: #1E90FF; text-decoration: none;"> Institute for Electrical and Electronics Engineers (IEEE)</a> (March 2023 - Present)
-* **Member**, <a href="https://yp.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Young Professionals (IEEE YP)</a> (January 2023 - Present)
-* **Member**, <a href="https://www.ieee-ies.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industrial Electronics Society (IEEE IES)</a> March 2025 - Present)
-* **Member**, <a href="https://ias.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industry Applications Society (IEEE IAS)</a> (March 2025 - Present)
-* **Member**, <a href="https://ieee-pes.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power & Energy Society (IEEE PES)</a> (March 2023 - Present)
-* **Member**, <a href="https://www.ieee-pels.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power Electronics Society (IEEE PELS)</a> (March 2025 - Present)
-* **Member**, <a href="hhttps://ieeesystemscouncil.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Systems Council</a> (March 2023 - Present)
-* **Member**, <a href="https://tec.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Transportation Electrification Council</a> (March 2025 - Present)
-* **Member**, <a href="https://smartcities.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Smart Cities Community</a> (January 2025 - Present)
-* **Member**, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a> (April 2023 - May 2025)
-* **Member**, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a> (April 2023 - May 2025)
+* **Member**, <a href="https://www.ieee.org/" style="color: #1E90FF; text-decoration: none;"> Institute for Electrical and Electronics Engineers (IEEE)</a>
+* **Member**, <a href="https://yp.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Young Professionals (IEEE YP)</a>
+* **Member**, <a href="https://www.ieee-ies.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industrial Electronics Society (IEEE IES)</a>
+* **Member**, <a href="https://ias.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Industry Applications Society (IEEE IAS)</a>
+* **Member**, <a href="https://ieee-pes.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power & Energy Society (IEEE PES)</a>
+* **Member**, <a href="https://www.ieee-pels.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Power Electronics Society (IEEE PELS)</a>
+* **Member**, <a href="hhttps://ieeesystemscouncil.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Systems Council</a>
+* **Member**, <a href="https://tec.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Transportation Electrification Council</a>
+* **Member**, <a href="https://smartcities.ieee.org/" style="color: #1E90FF; text-decoration: none;"> IEEE Smart Cities Community</a>
+* **Member**, <a href="https://www.sae.org/" style="color: #1E90FF; text-decoration: none;"> SAE International</a>
+* **Member**, <a href="https://edu.ieee.org/us-clemsonpes/" style="color: #1E90FF; text-decoration: none;"> Clemson IEEE Power and Energy Society Student Branch</a>
 <br>
