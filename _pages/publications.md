@@ -129,7 +129,7 @@ My full list of publications is available on Google Scholar:
   </details>
 
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, P.K. Chamarthi, “Real-Time Improved Nearest Level Control for Power Electronics Building Blocks in All-Electric Ship Power Systems,” *IEEE Transactions on Industry Applications*, vol. 61, no. 5, pp. 7656-7670, 2025.
-<a href="https://doi.org/10.1109/TIA.2025.3559049" 
+<a href="https://doi.org/10.1109/TIA.2025.3559049"
    style="color:#1E90FF; margin-left:6px;" 
    target="_blank" 
    title="doi">
