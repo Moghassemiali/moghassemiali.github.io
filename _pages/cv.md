@@ -86,7 +86,7 @@ redirect_from:
 * **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> 
 * **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> 
 * **Associate Editor**, <a href="http://www.ajepes.org/" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a>
-* **Reviewer**, top-tier journals and conferences (250+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a> (June 2018 - Present)
+* **Reviewer**, top-tier journals and conferences (250+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a>
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
