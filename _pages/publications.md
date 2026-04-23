@@ -19,8 +19,6 @@ My full list of publications is available on Google Scholar:
 
 - **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -31,8 +29,6 @@ My full list of publications is available on Google Scholar:
   
 - **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
   <br>
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -43,8 +39,6 @@ My full list of publications is available on Google Scholar:
   
 - A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -55,8 +49,6 @@ My full list of publications is available on Google Scholar:
   
 - I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -67,8 +59,6 @@ My full list of publications is available on Google Scholar:
   
 - G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2025.
   <br>
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -79,8 +69,6 @@ My full list of publications is available on Google Scholar:
   
 - L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025.
   <br>
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Under%20Review-FF8C00" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -93,8 +81,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2025-01-5079" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -112,8 +98,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TPWRS.2025.3575793" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -131,8 +115,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2025.3613231" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -150,8 +132,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TIA.2025.3559049" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -169,8 +149,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TPEL.2025.3546221" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -188,8 +166,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TII.2025.3528548" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -207,8 +183,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1049/rpg2.12575" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -226,8 +200,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TTE.2024.3510458" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -245,8 +217,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TTE.2024.3468887" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -266,8 +236,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/j.prime.2024.100640" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -285,8 +253,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2024.3385429" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -306,8 +272,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2023.3332689" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -325,8 +289,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2023.3308523" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -346,8 +308,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/j.ijepes.2021.107567" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -367,8 +327,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1002/2050-7038.13135" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -386,8 +344,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2021.3078570" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -407,8 +363,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ACCESS.2020.3048022" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -426,8 +380,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.3390/en13164152" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -445,8 +397,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1007/s40998-020-00338-0" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -464,8 +414,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://spre.stb.iau.ir/article_676122.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -483,8 +431,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://spre.stb.iau.ir/article_673589.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -502,8 +448,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://spre.stb.iau.ir/article_670422.html" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -523,8 +467,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/j.seta.2016.10.001" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -546,8 +488,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -565,8 +505,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -584,8 +522,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -605,8 +541,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -624,8 +558,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ICDCM60322.2024.10664868" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -643,8 +575,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ICDCM60322.2024.10665114" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -662,8 +592,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ICDCM60322.2024.10665285" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -681,8 +609,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10598932" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -700,8 +626,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599084" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -719,8 +643,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599067" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -738,8 +660,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10598963" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -757,8 +677,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ITEC60657.2024.10599012" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -776,8 +694,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2024-01-2000" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -795,8 +711,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2024-01-2790" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -816,8 +730,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.4271/2023-01-1686" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -835,8 +747,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS56571.2023.10220528" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -854,8 +764,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/ESTS56571.2023.10220475" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -875,8 +783,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/NAPS52732.2021.9654507" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -896,8 +802,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037743" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -915,8 +819,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037744" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -934,8 +836,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://civilica.com/doc/1037760" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -955,8 +855,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://www.researchgate.net/publication/311261064_Simulation_of_Photovoltaic_System_Based_on_Zero-Current_Switching_Forward_Converter" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -974,8 +872,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://www.researchgate.net/publication/311261309_The_Use_of_New_Control_Technique_in_Dynamic_Voltage_Restorer_DVR_as_a_Series_Compensator_to_Protect_Sensitive_Loads_Against_Voltage_Disturbances" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -997,8 +893,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/B978-0-32-385267-8.00011-1" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -1016,8 +910,6 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1016/B978-0-32-385267-8.00015-9" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -1039,13 +931,11 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://www.researchgate.net/publication/334548587_Application_of_Renewable_Energy_Systems_in_MATLABSimulink_Software_PV_Solar_and_Wind_Turbine" style="color:#1E90FF;" target="_blank">doi</a> 🔗
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Published-2E8B57" />
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
   <p style="margin-top:10px;">
-    MATLAB® is a high-level programming language developed for solving technical and mathematical problems. It is used widely not only in academic courses but also in scientific and engineering activities. The graphical programming language Simulink® is included in MATLAB. Simulink is used for simulating dynamical systems. It is supposed that the system under investigation is developed as a functional diagram consisting of blocks that are equivalent, by their functions, to the program blocks that are included in the Simulink library. This book is intended primarily for later-year undergraduate, graduate, and research students who are fascinated by learning how to model and control Renewable Energy Systems based on MATLAB/Simulink software. It starts with a comprehensive review of fundamental principles of codes, functions, structures, graphics, and graphical user interface programming, and then moves on to explain the mathematical model of Renewable Energy Systems, PV solar, and wind turbines in particular. MATLAB/Simulink models of PV Solar and Wind Energy Conversion Systems are discussed in detail in the very last two chapters. There are very few books on this subject. This book tries to fill this gap and pursues the following aims:
+    MATLAB® is a high-level programming language developed for solving technical and mathematical problems. It is used widely not only in academic courses but also in scientific and engineering activities. The graphical programming language Simulink® is included in MATLAB. Simulink is used for simulating dynamical systems. It is assumed that the system under investigation is implemented as a functional diagram comprising blocks equivalent, in function, to the program blocks in the Simulink library. This book is intended primarily for later-year undergraduate, graduate, and research students who are fascinated by learning to model and control Renewable Energy Systems using MATLAB/Simulink. It starts with a comprehensive review of fundamental principles of codes, functions, structures, graphics, and graphical user interface programming, and then moves on to explain the mathematical model of Renewable Energy Systems, PV solar, and wind turbines in particular. MATLAB/Simulink models of PV Solar and Wind Energy Conversion Systems are discussed in detail in the very last two chapters. There are very few books on this subject. This book tries to fill this gap and pursues the following aims:
   <br>    
     • It provides the necessary descriptions and explanations of blocks, functions, and models.
   <br>
