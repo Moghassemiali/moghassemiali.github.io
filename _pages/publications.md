@@ -132,11 +132,10 @@ My full list of publications is available on Google Scholar:
   <br>
   <!-- LINKS -->
   <a href="https://doi.org/10.1109/TIA.2025.3559049" 
+   style="color:#1E90FF;" 
    target="_blank" 
-   style="color:#1E90FF; text-decoration:none; font-size:0.9em;"
-   title="DOI link">
-   <span style="font-style:italic;">doi</span> 
-   <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+   title="doi">
+   <i class="fas fa-external-link-alt"></i>
   </a>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
