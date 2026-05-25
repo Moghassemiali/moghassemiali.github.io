@@ -14,7 +14,13 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Education</span>
 
 * **Ph.D. in Electrical Engineering**, Clemson University (August 2022 - May 2025)
-  * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships</a> 
+  * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships</a>
+  * **Dissertation:** Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships
+  <a href="https://open.clemson.edu/all_dissertations/3903/" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
   * **Supervisor:** Dr. Christopher Edrington
 * **M.Sc. in Electrical Engineering**, Islamic Azad University - South Tehran (September 2013 - December 2015)
   * **Thesis:** Response and Reliability Improvement of Grid-Connected PV Systems with Trans-Z-Source Inverter
