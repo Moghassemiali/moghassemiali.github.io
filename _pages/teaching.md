@@ -31,13 +31,20 @@ author_profile: true
    ELECENG 301
 </a>(P); or graduate standing.
     <br>
-    <strong>Credits:</strong> 4 (3 lecture and 1 labratory)
+    <strong>Credits:</strong> 4 (3 lecture and 1 laboratory)
     <br>
     <strong>Level:</strong> Undergraduate
     </p>
-  </details>
-  <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+<details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#FF8C00;">Group Photo</strong></summary>
-  <img src="{{ '/images/gallery/classes/ELECENG362_Spring2026.JPG' | relative_url }}" 
-       style="width:100%; margin-top:10px;" alt="Group Photo">
-  </details>
+
+  <div style="text-align:center; margin-top:12px;">
+    <img src="{{ '/images/images/gallery/classes/ELECENG362_Spring2026.JPG' | relative_url }}" 
+         alt="ELECENG 362 Spring 2026 Group Photo"
+         style="width:100%; max-width:850px; border-radius:12px; box-shadow:0 2px 10px rgba(0,0,0,0.15);">
+
+    <p style="margin-top:10px; font-size:0.95rem; color:#555;">
+      ELECENG 362 – Electromechanical Energy Conversion, Spring 2026
+    </p>
+  </div>
+</details>
