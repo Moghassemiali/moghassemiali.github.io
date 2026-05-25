@@ -43,7 +43,12 @@ redirect_from:
   * Mentored Ph.D. and Master's students, guided coding/simulation/experimental practices, and contributed to collaborative initiatives.
 <br>
 * **Graduate Research Assistant**, Clemson University, Clemson, SC (August 2022 – May 2025)
-  * **Research Group:** <a href="https://eciclemson.wixsite.com/mysite" style="color: #1E90FF; text-decoration: none;"> Real Time COntrols and Optimization Laboratory (RT-COOL)</a>, supervised by Dr. Christopher Edrington
+  * **Research Group:** Real Time COntrols and Optimization Laboratory (RT-COOL), supervised by Dr. Christopher Edrington
+  <a href="https://eciclemson.wixsite.com/mysite" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
   * **Electrothermal Management Using In-situ Junction Thermal Estimates for Enhanced Converter Reliability:** Developed data-driven and model-based electro-thermal management control strategies to ensure acceptable electrical performance while minimizing cooling demands and thermal cycling in power converters, through implemented control and management algorithms on various real-time controller boards and digital simulation platforms.
   * **Dynamometer Test Bed:**
     * Designed, modeled, controlled, prototyped, and validated a dyno testbed with two PMSMs (4-pole 10kW/350A and 5-pole 12kW/350A), mechanically coupled via a bearingless digital torque transducer and enclosed in a protective housing.
@@ -89,10 +94,20 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Honors and Awards</span>
 
-*  <a href="https://www.clemson.edu/graduate/about/award-recipients.html" style="color: #1E90FF; text-decoration: none;"> **Outstanding Graduate Researcher Award**</a>, Graduate School, Clemson University, Clemson, SC (May 2025)
+*  **Outstanding Graduate Researcher Award**, Graduate School, Clemson University, Clemson, SC (May 2025)
+  <a href="https://www.clemson.edu/graduate/about/award-recipients.html" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
    * The Outstanding Graduate Researcher Award is presented annually to two graduate student researchers at Clemson in recognition of their outstanding contributions to research activity, future promise as a researcher, and/or originality, imagination, and significance of research or creative activity.
    * 💡 *Fun Fact:* This is the first time in the history of Clemson University that an ECE department student has received such an award!
-*  <a href="https://blogs.clemson.edu/electrical-and-computer-engineering/2025-student-award-winners-in-electrical-and-computer-engineering/" style="color: #1E90FF; text-decoration: none;"> **Outstanding Graduate Researcher Award**</a>, Holcombe ECE Department, Clemson University, Clemson, SC (April 2025)
+*  **Outstanding Graduate Researcher Award**, Holcombe ECE Department, Clemson University, Clemson, SC (April 2025)
+  <a href="https://blogs.clemson.edu/electrical-and-computer-engineering/2025-student-award-winners-in-electrical-and-computer-engineering" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
    * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
 * **Graduate Research Assistantship**, Holcombe ECE Department, Clemson University, Clemson, SC (February 2022)
 * **Distinguished Student** Master's program, Islamic Azad University - South Tehran (December 2013)
@@ -101,12 +116,42 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Editorial and Review Experience</span>
 
-* **Editorial Board**, <a href="https://repqj.com/index.php/repqj" style="color: #1E90FF; text-decoration: none;"> Renewable Energy and Power Quality Journal</a>
-* **Editorial Board**, <a href="https://www.jenrs.com" style="color: #1E90FF; text-decoration: none;"> Journal of Engineering Research and Sciences</a>
-* **Editorial Board**, <a href="https://journals.explorerpress.com/sst" style="color: #1E90FF; text-decoration: none;"> Smart Ship Technologies</a> 
-* **Associate Editor**, <a href="https://www.icck.org/seco" style="color: #1E90FF; text-decoration: none;"> Sustainable Energy Control and Optimization</a> 
-* **Associate Editor**, <a href="http://www.ajepes.org" style="color: #1E90FF; text-decoration: none;"> American Journal of Electrical Power and Energy Systems</a>
-* **Reviewer**, top-tier journals and conferences (260+ verified reviews) available on <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" style="color: #1E90FF; text-decoration: none;"> Web of Science</a>
+* **Editorial Board**, Renewable Energy and Power Quality Journal
+  <a href="https://repqj.com/index.php/repqj" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+* **Editorial Board**, Journal of Engineering Research and Sciences
+  <a href="https://www.jenrs.com" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+* **Editorial Board**, Smart Ship Technologies
+  <a href="https://journals.explorerpress.com/sst" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+* **Associate Editor**, Sustainable Energy Control and Optimization
+  <a href="https://www.icck.org/seco" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+* **Associate Editor**, American Journal of Electrical Power and Energy Systems
+  <a href="http://www.ajepes.org" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+* **Reviewer**, top-tier journals and conferences (260+ verified reviews) available on Web of Science
+  <a href="https://www.webofscience.com/wos/author/record/X-1151-2018" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
