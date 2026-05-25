@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee where I work on several ONR-funded research projects such as *Power Distribution Control and Resilience (PDC&R) Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis*, *Tech Candidate for Future Navy Integrated Power and Energy Corridor*, *Power Energy Thermal Technologies and Integration Systems (PETTIS)*, and *Demos A to D Preparation*.
+I am a Post-Doctoral Research Associate at the University of Wisconsin-Milwaukee, where I work on several ONR-funded research projects such as *Power Distribution Control and Resilience (PDC&R) Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis*, *Tech Candidate for Future Navy Integrated Power and Energy Corridor*, *Power Energy Thermal Technologies and Integration Systems (PETTIS)*, and *Demos A to D Preparation*.
 
 I received my Ph.D. in Electrical Engineering in 2025 from Clemson University, where I was honored with two *Outstanding Graduate Researcher* awards. My ONR-funded Ph.D. dissertation developed a multi-objective electro-thermal management framework for Modular Multilevel Converter (MMC)-based Power Electronics Building Blocks (PEBBs) in all-electric ships. It integrated model predictive control, electrical–thermal characterization, and data-driven degradation forecasting to achieve intelligent, adaptive, and resilient system performance under dynamic operating conditions.
 
