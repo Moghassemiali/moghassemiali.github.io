@@ -16,9 +16,9 @@ redirect_from:
 * **Ph.D. in Electrical Engineering**, Clemson University (August 2022 - May 2025)
   * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships</a> 
   * **Supervisor:** Dr. Christopher Edrington
-* **M.Sc. in Electrical Engineering**, Islamic Azad University - South Tehran Branch (September 2013 - December 2015)
+* **M.Sc. in Electrical Engineering**, Islamic Azad University - South Tehran (September 2013 - December 2015)
   * **Thesis:** Response and Reliability Improvement of Grid-Connected PV Systems with Trans-Z-Source Inverter
-* **B.Sc. in Electrical Engineering**, Islamic Azad University - South Tehran Branch (September 2008 - July 2012)
+* **B.Sc. in Electrical Engineering**, Islamic Azad University - South Tehran (September 2008 - July 2012)
   * **Thesis:** Power Flow Optimization of Distribution Network in the Presence of Distributed Generations
 <br>
 
@@ -84,7 +84,7 @@ redirect_from:
    * 💡 *Fun Fact:* This is the first time in the history of Clemson University that an ECE department student has received such an award!
 *  <a href="https://blogs.clemson.edu/electrical-and-computer-engineering/2025-student-award-winners-in-electrical-and-computer-engineering/" style="color: #1E90FF; text-decoration: none;"> **Outstanding Graduate Researcher Award**</a>, Holcombe ECE Department, Clemson University, Clemson, SC (April 2025)
    * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
-* **Graduate Research Assistantship**, Holcombe Electrical and Computer Engineering Department, Clemson University, Clemson, SC (February 2022)
+* **Graduate Research Assistantship**, Holcombe ECE Department, Clemson University, Clemson, SC (February 2022)
 * **Distinguished Student** Master's program, Islamic Azad University - South Tehran (December 2013)
 * **Distinguished Student**, Bachelor's program, Islamic Azad University - South Tehran (February 2009)
 <br>
