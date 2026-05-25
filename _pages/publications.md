@@ -4,12 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-A full list of my publications is available on Google Scholar:
-<a href="https://scholar.google.com/citations?user=1sO3jUwAAAAJ&hl=en" 
-   target="_blank" style="text-decoration:none;">
-   <i class="fa-brands fa-google-scholar" 
-      style="color:#1E90FF; margin-left:6px; font-size:1.2em;"></i>
-</a>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
 
