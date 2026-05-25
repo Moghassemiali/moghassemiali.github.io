@@ -76,19 +76,21 @@ A full list of my publications is available on Google Scholar:
   </details>
   
 - L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicle during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025. <a href="https://doi.org/10.4271/2025-01-5079" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
-<!-- Abstract + Graphical Abstract -->
-<details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
-  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
-  <p style="margin-top:10px;">
-     This paper investigates the impact of Vehicle-to-Grid (V2G) integration on battery degradation and the economic viability of plug-in hybrid electric vehicles (PHEVs). V2G technology is gaining traction due to its energy storage capabilities, environmental benefits, and enhancement of grid stability. However, frequent use of the battery in V2G operations can lead to accelerated degradation and increased replacement costs, creating uncertainty for EV owners. This study evaluates battery degradation under two scenarios: driving scenarios using the US06 drive cycle and V2G operation with a 10 kW and 15 kW bidirectional charger. During the V2G operation, the charger discharges the battery by 20 kWh and recharges it back to 90% SoC at a constant 1C rate. Real-time simulations are conducted to validate the findings, in which a grid, a bidirectional charger, and the vehicle’s battery are modeled in a real-time simulator. Additionally, a pair of controllers is employed to run the energy management and predict battery aging. An economic analysis assesses the capacity loss from V2G participation and the associated incentives, providing a comprehensive view of the economic feasibility and potential benefits of V2G applications.
-  </p>
-  <div style="margin-top:18px;">
-    <strong style="color:#FF8C00;">Graphical Abstract</strong>
-    <img src="{{ '/images/GA/SAE25.jpg' | relative_url }}" 
-         style="width:100%; margin-top:10px; border-radius:6px;" 
-         alt="Graphical Abstract">
-  </div>
-</details>
+  <!-- Abstract + Graphical Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+
+    <p style="margin-top:10px;">
+      This paper investigates the impact of Vehicle-to-Grid (V2G) integration on battery degradation and the economic viability of plug-in hybrid electric vehicles (PHEVs). V2G technology is gaining traction due to its energy storage capabilities, environmental benefits, and enhancement of grid stability. However, frequent use of the battery in V2G operations can lead to accelerated degradation and increased replacement costs, creating uncertainty for EV owners. This study evaluates battery degradation under two scenarios: driving scenarios using the US06 drive cycle and V2G operation with a 10 kW and 15 kW bidirectional charger. During the V2G operation, the charger discharges the battery by 20 kWh and recharges it back to 90% SoC at a constant 1C rate. Real-time simulations are conducted to validate the findings, in which a grid, a bidirectional charger, and the vehicle’s battery are modeled in a real-time simulator. Additionally, a pair of controllers is employed to run the energy management and predict battery aging. An economic analysis assesses the capacity loss from V2G participation and the associated incentives, providing a comprehensive view of the economic feasibility and potential benefits of V2G applications.
+    </p>
+
+    <div style="margin-top:18px;">
+      <strong style="color:#FF8C00;">Graphical Abstract</strong>
+      <img src="{{ '/images/GA/SAE25.jpg' | relative_url }}"
+           style="width:100%; margin-top:10px;"
+           alt="Graphical Abstract">
+    </div>
+  </details>
   
 - E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025. <a href="https://doi.org/10.1109/TPWRS.2025.3575793" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract -->
