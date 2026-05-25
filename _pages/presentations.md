@@ -11,7 +11,7 @@ author_profile: true
 - **“Electro-Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships.”**  
   *IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2025.  
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
- 
+
 - **“Impacts of Thermal Management on Power Electronics Building Blocks in Power Corridors.”**  
   *IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, 2025.  
   <a href="https://doi.org/10.1109/ESTS62818.2025.11152494" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
