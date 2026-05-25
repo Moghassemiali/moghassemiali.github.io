@@ -14,9 +14,8 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Education</span>
 
 * **Ph.D. in Electrical Engineering**, Clemson University (August 2022 - May 2025)
-  * **Dissertation:** <a href="https://open.clemson.edu/all_dissertations/3903/" style="color: #1E90FF; text-decoration: none;"> Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships</a>
   * **Dissertation:** Real-Time Active Thermal Management and Degradation Forecasting of PEBBs In All-Electric Ships
-  <a href="https://open.clemson.edu/all_dissertations/3903/" 
+  <a href="https://open.clemson.edu/all_dissertations/3903" 
      target="_blank" 
      style="color:#1E90FF; text-decoration:none; margin-left:4px;">
      <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
@@ -31,7 +30,12 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Academic Experience</span>
 
 * **Post-Doctoral Research Associate**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – Present)
-  * **Research Group:** <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>, supervised by Dr. Robert Cuzner
+  * **Research Group:** Center for Sustainable Electrical Energy Systems (SEES), supervised by Dr. Robert Cuzner
+  <a href="https://sites.uwm.edu/sees" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
   * **PDC&R Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis:** Developed an integration framework for Power Distribution Control and Resilience (PDC&R), focusing on Virtual Prototyping Process (VPP) leading to producing big data and metamodels for PDC&R equipment.
   * **Tech Candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the PDC&R integration team to bring a range of technologies developed on the PDC&R.
   * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
