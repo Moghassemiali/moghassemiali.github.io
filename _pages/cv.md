@@ -40,21 +40,6 @@ redirect_from:
     * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
     * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
 <br>
-* **University Lecturer**, University of Applied Science and Technology, Tehran, Iran (January 2021 – July 2021)
-  * Designed and taught undergraduate courses in *Industrial Electronics*, *Power Systems Analysis*, *Protections and Relays*, and *Electric Machines*.
-  * Implemented project-based learning and structured assignments to connect theory with practical engineering applications.
-  * Provided mentorship and individualized academic support to enhance student performance and engagement.
-<br>
-* **Course Instructor**, Islamic Azad University – South Tehran, Tehran, Iran (September 2012 – June 2016)
-  * Taught *MATLAB/Simulink* for undergraduate/graduate students, focusing on control and modeling of power electronics.
-  * Developed interactive tutorials and laboratory-style assignments to strengthen computational and simulation skills.
-  * Advised students on research projects and power electronics simulations, fostering independent problem-solving.
-<br>
-* **Teaching Assistant**, Islamic Azad University – South Tehran, Tehran, Iran (September 2010 – June 2015)
-  * Supported instruction in courses: *Electric Circuits I/II*, *Power Electronics*, *Advanced Power Systems Operation*, and *Power System Planning*.
-  * Led discussion sessions, assisted with laboratory activities, and provided guidance during problem-solving exercises.
-  * Evaluated student work, offered constructive feedback, and facilitated exam preparation.
-<br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Teaching Experience</span>
 
