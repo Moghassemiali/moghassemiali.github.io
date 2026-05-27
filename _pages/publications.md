@@ -486,7 +486,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
-- **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C23]**  **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -503,7 +503,7 @@ author_profile: true
     </div>
   </details>
 
-- I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, G. Ozkan, B. Papari, C. Edrington, “Power Routing Based Electro-Thermal Management of Parallel Power Electronic Converters in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 154–161, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C22]**  I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, G. Ozkan, B. Papari, C. Edrington, “Power Routing Based Electro-Thermal Management of Parallel Power Electronic Converters in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 154–161, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152420" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -520,7 +520,7 @@ author_profile: true
     </div>
   </details>
 
-- A.A. Khan, G. Muriithi, L. Timilsina, **A. Moghassemi**, B. Papari, C. Edrington, G. Ozkan, N. Boghrabadi, Z. Wang, “Secure Energy Management For Ship Power System Using Federated Learning,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 517–524, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C21]**  A.A. Khan, G. Muriithi, L. Timilsina, **A. Moghassemi**, B. Papari, C. Edrington, G. Ozkan, N. Boghrabadi, Z. Wang, “Secure Energy Management For Ship Power System Using Federated Learning,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 517–524, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152431" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -539,7 +539,7 @@ author_profile: true
   
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2024</span>
 
-- L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. Arsalan, G. Muriithi, O. Ciftci, G. Ozkan, B. Papari, C. Edrington, “Hybrid Electric Vehicle Simulation Operation Across Distributed Laboratories Using Hardware Integrated Virtual Environment Concept,” *2024 IEEE 9th Southern Power Electronics Conference (SPEC)*, Brisbane, Australia, pp. 1–8, 2024. <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C20]**  L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. Arsalan, G. Muriithi, O. Ciftci, G. Ozkan, B. Papari, C. Edrington, “Hybrid Electric Vehicle Simulation Operation Across Distributed Laboratories Using Hardware Integrated Virtual Environment Concept,” *2024 IEEE 9th Southern Power Electronics Conference (SPEC)*, Brisbane, Australia, pp. 1–8, 2024. <a href="https://doi.org/10.1109/SPEC62217.2024.10892989" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -556,7 +556,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, L. Timilsina, D. Scruggs, A. Arsalan, I. Rahman, A.A. Khan, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “Heuristic Evolutionary Optimization For Control and Management of Renewable-Based Hybrid Microgrids,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–8, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10664868" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C19]**  **A. Moghassemi**, L. Timilsina, D. Scruggs, A. Arsalan, I. Rahman, A.A. Khan, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “Heuristic Evolutionary Optimization For Control and Management of Renewable-Based Hybrid Microgrids,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–8, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10664868" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -573,7 +573,7 @@ author_profile: true
     </div>
   </details>
 
-- E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, A. Arsalan, B. Papari, **A. Moghassemi**, C. Edrington, M. Ozden, “Distributed Deep Deterministic Policy Gradient Agents For Real-Time Energy Management of DC Microgrid,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–5, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10665114" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C18]**  E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, A. Arsalan, B. Papari, **A. Moghassemi**, C. Edrington, M. Ozden, “Distributed Deep Deterministic Policy Gradient Agents For Real-Time Energy Management of DC Microgrid,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–5, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10665114" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -590,7 +590,7 @@ author_profile: true
     </div>
   </details>
 
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, I. Rahman, A.A. Khan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Degradation and State of Health Prediction of a Battery Used in a Microgrid in Real-Time,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–7, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10665285" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C17]**  L. Timilsina, **A. Moghassemi**, E. Buraimoh, I. Rahman, A.A. Khan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Degradation and State of Health Prediction of a Battery Used in a Microgrid in Real-Time,” *2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)*, Columbia, SC, USA, pp. 1–7, 2024. <a href="https://doi.org/10.1109/ICDCM60322.2024.10665285" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -607,7 +607,7 @@ author_profile: true
     </div>
   </details>
   
-- **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Nearest Level Control Based Modular Multi-Level Converters for Power Electronics Building Blocks Concept in Electric Ship System,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598932" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C16]**  **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Nearest Level Control Based Modular Multi-Level Converters for Power Electronics Building Blocks Concept in Electric Ship System,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598932" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -624,7 +624,7 @@ author_profile: true
     </div>
   </details>
 
-- I. Rahman, **A. Moghassemi**, L. Timilsina, P. Badr, Q. Zhu, R. Prucka, G. Ozkan, C. Edrington, “Model-Based Active Thermal Management for Neutral-Point Clamped Power Converter with Adaptive Weight,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10599084" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C15]**  I. Rahman, **A. Moghassemi**, L. Timilsina, P. Badr, Q. Zhu, R. Prucka, G. Ozkan, C. Edrington, “Model-Based Active Thermal Management for Neutral-Point Clamped Power Converter with Adaptive Weight,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10599084" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -641,7 +641,7 @@ author_profile: true
     </div>
   </details>
 
-- P.K. Chamarthi, **A. Moghassemi**, I. Rahman, L. Timilsina, O. Ciftci, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “A Novel Four Switch Transformerless Inverter with Step Up/Down Capability for PV Fed Grid Connected Systems,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–5, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10599067" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C14]**  P.K. Chamarthi, **A. Moghassemi**, I. Rahman, L. Timilsina, O. Ciftci, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “A Novel Four Switch Transformerless Inverter with Step Up/Down Capability for PV Fed Grid Connected Systems,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–5, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10599067" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -658,7 +658,7 @@ author_profile: true
     </div>
   </details>
   
-- P.K. Chamarthi, I. Rahman, **A. Moghassemi**, L. Timilsina, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “A Proposed Cuk Converter Based Dual Input Hybrid Converter Topology As EV Charging Station,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598963" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C13]**  P.K. Chamarthi, I. Rahman, **A. Moghassemi**, L. Timilsina, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “A Proposed Cuk Converter Based Dual Input Hybrid Converter Topology As EV Charging Station,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598963" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -675,7 +675,7 @@ author_profile: true
     </div>
   </details>
 
-- L. Timilsina, O. Ciftci, **A. Moghassemi**, E. Buraimoh, I. Rahman, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, “A Dual Energy Management for Hybrid Electric Vehicles,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10599012" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C12]**  L. Timilsina, O. Ciftci, **A. Moghassemi**, E. Buraimoh, I. Rahman, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, “A Dual Energy Management for Hybrid Electric Vehicles,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10599012" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -692,7 +692,7 @@ author_profile: true
     </div>
   </details>
 
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, “Impact of Vehicle-to-Grid (V2G) on Battery Degradation in a Plug-In Hybrid Electric Vehicle,” *SAE World Congress Experience (SAE WCX)*, Detroit, MI, USA, 2024. <a href="https://doi.org/10.4271/2024-01-2000" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C11]**  L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, “Impact of Vehicle-to-Grid (V2G) on Battery Degradation in a Plug-In Hybrid Electric Vehicle,” *SAE World Congress Experience (SAE WCX)*, Detroit, MI, USA, 2024. <a href="https://doi.org/10.4271/2024-01-2000" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -709,7 +709,7 @@ author_profile: true
     </div>
   </details>
 
-- A. Arsalan, B. Papari, I. Rahman, L. Timilsina, **A. Moghassemi**, G. Muriithi, G. Ozkan, C. Edrington, “Machine Learning Approach for Open Circuit Fault Detection and Localization in EV Motor Drive Systems,” *SAE World Congress Experience (SAE WCX)*, Detroit, MI, USA, 2024. <a href="https://doi.org/10.4271/2024-01-2790" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C10]**  A. Arsalan, B. Papari, I. Rahman, L. Timilsina, **A. Moghassemi**, G. Muriithi, G. Ozkan, C. Edrington, “Machine Learning Approach for Open Circuit Fault Detection and Localization in EV Motor Drive Systems,” *SAE World Congress Experience (SAE WCX)*, Detroit, MI, USA, 2024. <a href="https://doi.org/10.4271/2024-01-2790" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -728,7 +728,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2023</span>
 
-- P.K. Chamarthi, C. Edrington, A. Arsalan, L. Timilsina, B. Papari, G. Ozkan, **A. Moghassemi**, “A Novel 1-ϕ Cuk Based On-Board EV Charger with Minimal Power Components,” *2023 SAE Energy & Propulsion Conference & Exhibition (EPCE)*, Greenville, SC, USA, 2023-01-1686, 2023. <a href="https://doi.org/10.4271/2023-01-1686" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C9]**  P.K. Chamarthi, C. Edrington, A. Arsalan, L. Timilsina, B. Papari, G. Ozkan, **A. Moghassemi**, “A Novel 1-ϕ Cuk Based On-Board EV Charger with Minimal Power Components,” *2023 SAE Energy & Propulsion Conference & Exhibition (EPCE)*, Greenville, SC, USA, 2023-01-1686, 2023. <a href="https://doi.org/10.4271/2023-01-1686" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -745,7 +745,7 @@ author_profile: true
     </div>
   </details>
   
-- **A. Moghassemi**, G. Ozkan, C. Edrington, G. Muriithi, Z. Zhang, “Active Thermal Control of AC/DC Power Converter Considering Health Monitoring of Power Modules,” *2023 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 78–85, 2023. <a href="https://doi.org/10.1109/ESTS56571.2023.10220528" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C8]**  **A. Moghassemi**, G. Ozkan, C. Edrington, G. Muriithi, Z. Zhang, “Active Thermal Control of AC/DC Power Converter Considering Health Monitoring of Power Modules,” *2023 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 78–85, 2023. <a href="https://doi.org/10.1109/ESTS56571.2023.10220528" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -762,7 +762,7 @@ author_profile: true
     </div>
   </details>
 
-- G. Muriithi, B. Papari, **A. Moghassemi**, A. Arsalan, G. Ozkan, C. Edrington, “Security Enhancement of Cyber-Physical DC Ship Power System Using Scalable Deep Learning Method,” *2023 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 520–527, 2023. <a href="https://doi.org/10.1109/ESTS56571.2023.10220475" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C7]**  G. Muriithi, B. Papari, **A. Moghassemi**, A. Arsalan, G. Ozkan, C. Edrington, “Security Enhancement of Cyber-Physical DC Ship Power System Using Scalable Deep Learning Method,” *2023 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 520–527, 2023. <a href="https://doi.org/10.1109/ESTS56571.2023.10220475" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -781,7 +781,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2021</span>
 
-- **A. Moghassemi**, S. Ebrahimi, F. Ferdowsi, “A Novel Control Scheme for TransZSI-DVR to Enhance Power Quality in Solar Integrated Networks,” *2021 North American Power Symposium (NAPS)*, College Station, TX, USA, pp. 1–6, 2021. <a href="https://doi.org/10.1109/NAPS52732.2021.9654507" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C6]**  **A. Moghassemi**, S. Ebrahimi, F. Ferdowsi, “A Novel Control Scheme for TransZSI-DVR to Enhance Power Quality in Solar Integrated Networks,” *2021 North American Power Symposium (NAPS)*, College Station, TX, USA, pp. 1–6, 2021. <a href="https://doi.org/10.1109/NAPS52732.2021.9654507" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -800,7 +800,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2020</span>
 
-- **A. Moghassemi**, S. Ebrahimi, “Modified SVPWM for Trans-Z-Source Inverter-Based PV Systems,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020. <a href="https://civilica.com/doc/1037743" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C5]**  **A. Moghassemi**, S. Ebrahimi, “Modified SVPWM for Trans-Z-Source Inverter-Based PV Systems,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020. <a href="https://civilica.com/doc/1037743" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -817,7 +817,7 @@ author_profile: true
     </div>
   </details>
 
-- F. Zareei, M. Hosseini, **A. Moghassemi**, “Optimal Placement and Sizing of Distributed Generation via a Hybrid Multi-Objective Artificial Bee Colony and Differential Evolution Algorithms,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020. <a href="https://civilica.com/doc/1037744" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C4]**  F. Zareei, M. Hosseini, **A. Moghassemi**, “Optimal Placement and Sizing of Distributed Generation via a Hybrid Multi-Objective Artificial Bee Colony and Differential Evolution Algorithms,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020. <a href="https://civilica.com/doc/1037744" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -834,7 +834,7 @@ author_profile: true
     </div>
   </details>
 
-- S. Ebrahimi, **A. Moghassemi**, M. Mola, “Target Tracer Switching Strategy for Multi-Level PV Inverters Motor Drives Based on MPC,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020. <a href="https://civilica.com/doc/1037760" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C3]**  S. Ebrahimi, **A. Moghassemi**, M. Mola, “Target Tracer Switching Strategy for Multi-Level PV Inverters Motor Drives Based on MPC,” *The 7th National Congress of Electrical and Computer Engineering of Iran*, Tehran, Iran, 2020. <a href="https://civilica.com/doc/1037760" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -853,7 +853,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2014</span>
 
-- **A. Moghassemi**, J. Olamaei, M. Hosseini, “Simulation of Photovoltaic System Based on Zero-Current Switching Forward Converter,” *The 17th Iranian Student Conference on Electrical Engineering*, Kish, Iran, 2014. <a href="https://www.researchgate.net/publication/311261064_Simulation_of_Photovoltaic_System_Based_on_Zero-Current_Switching_Forward_Converter" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C2]**  **A. Moghassemi**, J. Olamaei, M. Hosseini, “Simulation of Photovoltaic System Based on Zero-Current Switching Forward Converter,” *The 17th Iranian Student Conference on Electrical Engineering*, Kish, Iran, 2014. <a href="https://www.researchgate.net/publication/311261064_Simulation_of_Photovoltaic_System_Based_on_Zero-Current_Switching_Forward_Converter" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -870,7 +870,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, K. Rostampoor, “New Control Technique in DVR As A Series Compensator to Protect Sensitive Loads Against Voltage Disturbances,” *The 1st Conference on Electrical and Electronic Engineering North West of Iran*, Tabriz, Iran, pp. 76–81, 2014. <a href="https://www.researchgate.net/publication/311261309_The_Use_of_New_Control_Technique_in_Dynamic_Voltage_Restorer_DVR_as_a_Series_Compensator_to_Protect_Sensitive_Loads_Against_Voltage_Disturbances" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C1]**  **A. Moghassemi**, K. Rostampoor, “New Control Technique in DVR As A Series Compensator to Protect Sensitive Loads Against Voltage Disturbances,” *The 1st Conference on Electrical and Electronic Engineering North West of Iran*, Tabriz, Iran, pp. 76–81, 2014. <a href="https://www.researchgate.net/publication/311261309_The_Use_of_New_Control_Technique_in_Dynamic_Voltage_Restorer_DVR_as_a_Series_Compensator_to_Protect_Sensitive_Loads_Against_Voltage_Disturbances" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -891,7 +891,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2022</span>
 
-- T. Kerci, W. Zhong, **A. Moghassemi**, F. Milano, P. Moutis, “Frequency Control and Regulating Reserves by VPPs,” *Scheduling and Operation of Virtual Power Plants*, pp. 131–162, Cambridge: Elsevier, 2022. <a href="https://doi.org/10.1016/B978-0-32-385267-8.00011-1" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[B3]**  T. Kerci, W. Zhong, **A. Moghassemi**, F. Milano, P. Moutis, “Frequency Control and Regulating Reserves by VPPs,” *Scheduling and Operation of Virtual Power Plants*, pp. 131–162, Cambridge: Elsevier, 2022. <a href="https://doi.org/10.1016/B978-0-32-385267-8.00011-1" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -908,7 +908,7 @@ author_profile: true
     </div>
   </details>
 
-- P. Moutis, **A. Moghassemi**, “Frameworks of Considering RESs and Loads Uncertainties in VPP Decision-Making,” *Scheduling and Operation of Virtual Power Plants*, pp. 163–190, Cambridge: Elsevier, 2022. <a href="https://doi.org/10.1016/B978-0-32-385267-8.00015-9" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[B2]** Z. Shah, **A. Moghassemi**, P. Moutis, “Frameworks of Considering RESs and Loads Uncertainties in VPP Decision-Making,” *Scheduling and Operation of Virtual Power Plants*, pp. 163–190, Cambridge: Elsevier, 2022. <a href="https://doi.org/10.1016/B978-0-32-385267-8.00015-9" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -929,7 +929,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2019</span>
 
-- **A. Moghassemi**, S. Ebrahimi, “Application of Renewable Energy Systems in MATLAB/Simulink Software: PV Solar and Wind Turbine,” *Roham Andisheh Press*, Tehran, Iran, 2019. <a href="https://www.researchgate.net/publication/334548587_Application_of_Renewable_Energy_Systems_in_MATLABSimulink_Software_PV_Solar_and_Wind_Turbine" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[B1]** **A. Moghassemi**, S. Ebrahimi, “Application of Renewable Energy Systems in MATLAB/Simulink Software: PV Solar and Wind Turbine,” *Roham Andisheh Press*, Tehran, Iran, 2019. <a href="https://www.researchgate.net/publication/334548587_Application_of_Renewable_Energy_Systems_in_MATLABSimulink_Software_PV_Solar_and_Wind_Turbine" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
