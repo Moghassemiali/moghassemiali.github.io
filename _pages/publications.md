@@ -17,6 +17,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
+   <br>
   
 **[J29]**  **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
   <!-- Abstract -->
