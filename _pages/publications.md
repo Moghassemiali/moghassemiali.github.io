@@ -9,7 +9,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
-[J30] **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
+**[J30]** **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -19,7 +19,7 @@ author_profile: true
     </p>
   </details>
   
-- **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
+**[J29]**  **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -29,7 +29,7 @@ author_profile: true
     </p>
   </details>
   
-- A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025.
+**[J28]**  A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -39,7 +39,7 @@ author_profile: true
     </p>
   </details>
   
-- I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025.
+**[J27]**  I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -49,7 +49,7 @@ author_profile: true
     </p>
   </details>
   
-- G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2025.
+**[J26]**  G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2025.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -59,7 +59,7 @@ author_profile: true
     </p>
   </details>
   
-- L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025.
+**[J25]**  L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -69,7 +69,7 @@ author_profile: true
     </p>
   </details>
   
-- L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicle during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025. <a href="https://doi.org/10.4271/2025-01-5079" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J24]**  L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicle during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025. <a href="https://doi.org/10.4271/2025-01-5079" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -86,7 +86,7 @@ author_profile: true
     </div>
   </details>
   
-- E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025. <a href="https://doi.org/10.1109/TPWRS.2025.3575793" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J23]**  E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025. <a href="https://doi.org/10.1109/TPWRS.2025.3575793" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -103,7 +103,7 @@ author_profile: true
     </div>
   </details>
 
-- A. Khan, L. Timilsina, G. Muriithi, A. Arsalan, **A. Moghassemi**, B. Papari, G. Ozkan, M. Ozden, C. Edrington, N. Boghrabadi, Z. Wang, “Energy Management Systems for Maritime Microgrids: A Comprehensive Review of Intelligent Optimization Strategies,” *IEEE Access*, vol. 13, pp. 171563-171597, 2025. <a href="https://doi.org/10.1109/ACCESS.2025.3613231" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J22]**  A. Khan, L. Timilsina, G. Muriithi, A. Arsalan, **A. Moghassemi**, B. Papari, G. Ozkan, M. Ozden, C. Edrington, N. Boghrabadi, Z. Wang, “Energy Management Systems for Maritime Microgrids: A Comprehensive Review of Intelligent Optimization Strategies,” *IEEE Access*, vol. 13, pp. 171563-171597, 2025. <a href="https://doi.org/10.1109/ACCESS.2025.3613231" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -120,7 +120,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, P.K. Chamarthi, “Real-Time Improved Nearest Level Control for Power Electronics Building Blocks in All-Electric Ship Power Systems,” *IEEE Transactions on Industry Applications*, vol. 61, no. 5, pp. 7656-7670, 2025. <a href="https://doi.org/10.1109/TIA.2025.3559049" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J21]**  **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, P.K. Chamarthi, “Real-Time Improved Nearest Level Control for Power Electronics Building Blocks in All-Electric Ship Power Systems,” *IEEE Transactions on Industry Applications*, vol. 61, no. 5, pp. 7656-7670, 2025. <a href="https://doi.org/10.1109/TIA.2025.3559049" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -137,7 +137,7 @@ author_profile: true
     </div>
   </details>
  
-- A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Reliability Score Benchmarking and Resistive Loss Profile-Based Open-Circuit Fault Diagnosis Approach for Motor Drive System,” *IEEE Transactions on Power Electronics*, vol. 40, no. 7, pp. 9824–9839, 2025. <a href="https://doi.org/10.1109/TPEL.2025.3546221" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J20]**  A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Reliability Score Benchmarking and Resistive Loss Profile-Based Open-Circuit Fault Diagnosis Approach for Motor Drive System,” *IEEE Transactions on Power Electronics*, vol. 40, no. 7, pp. 9824–9839, 2025. <a href="https://doi.org/10.1109/TPEL.2025.3546221" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -154,7 +154,7 @@ author_profile: true
     </div>
   </details>
   
-- E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, B. Papari, A. Arsalan, **A. Moghassemi**, M. Ozden, C. Edrington, “Analysis of Model Free Predictors for Interface Signal Delay Compensation in Real-Time Co-simulation,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 4, pp. 3448–3457, 2025. <a href="https://doi.org/10.1109/TII.2025.3528548" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J19]**  E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, B. Papari, A. Arsalan, **A. Moghassemi**, M. Ozden, C. Edrington, “Analysis of Model Free Predictors for Interface Signal Delay Compensation in Real-Time Co-simulation,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 4, pp. 3448–3457, 2025. <a href="https://doi.org/10.1109/TII.2025.3528548" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -171,7 +171,7 @@ author_profile: true
     </div>
   </details>
   
-- **A. Moghassemi**, D.S. Vanaja, J. Olamaei, G. Ozkan, C. Edrington, “A Novel Switching Method in PV Fed Quasi-ZSI-DVR for Voltage Quality Enhancement of Photovoltaic Integrated Networks,” *IET Renewable Power Generation*, vol. 19, pp. 1–29, 2025. <a href="https://doi.org/10.1049/rpg2.12575" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J18]**  **A. Moghassemi**, D.S. Vanaja, J. Olamaei, G. Ozkan, C. Edrington, “A Novel Switching Method in PV Fed Quasi-ZSI-DVR for Voltage Quality Enhancement of Photovoltaic Integrated Networks,” *IET Renewable Power Generation*, vol. 19, pp. 1–29, 2025. <a href="https://doi.org/10.1049/rpg2.12575" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -188,7 +188,7 @@ author_profile: true
     </div>
   </details>
   
-- G. Muriithi, B. Papari, **A. Moghassemi**, A. Sundar, A. Arsalan, L. Timilsina, G. Ozkan, C. Edrington, “Vulnerability Assessment and Detection of Stealthy Sequential Cyberattacks in Hybrid Tracked Vehicles,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 2, pp. 6472–6489, 2025. <a href="https://doi.org/10.1109/TTE.2024.3510458" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J17]**  G. Muriithi, B. Papari, **A. Moghassemi**, A. Sundar, A. Arsalan, L. Timilsina, G. Ozkan, C. Edrington, “Vulnerability Assessment and Detection of Stealthy Sequential Cyberattacks in Hybrid Tracked Vehicles,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 2, pp. 6472–6489, 2025. <a href="https://doi.org/10.1109/TTE.2024.3510458" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -205,7 +205,7 @@ author_profile: true
     </div>
   </details>
 
-- A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Enhanced Real-Time ATM-Based MPC for Electric Vehicles with Cyber-Physical Security Aspect,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 1, pp. 4698–4716, 2025. <a href="https://doi.org/10.1109/TTE.2024.3468887" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J16]**  A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Enhanced Real-Time ATM-Based MPC for Electric Vehicles with Cyber-Physical Security Aspect,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 1, pp. 4698–4716, 2025. <a href="https://doi.org/10.1109/TTE.2024.3468887" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -224,7 +224,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2024</span>
 
-- B. Papari, L. Timilsina, **A. Moghassemi**, A.A. Khan, A. Arsalan, G. Ozkan, C. Edrington, “Advanced Meta Metrics-Based Approach to Assess an Appropriate Optimization Method for Wind/PV/Battery Based Hybrid AC-DC Microgrid,” *e-Prime - Advances in Electrical Engineering, Electronics and Energy*, p. 100640, 2024. <a href="https://doi.org/10.1016/j.prime.2024.100640" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J15]**  B. Papari, L. Timilsina, **A. Moghassemi**, A.A. Khan, A. Arsalan, G. Ozkan, C. Edrington, “Advanced Meta Metrics-Based Approach to Assess an Appropriate Optimization Method for Wind/PV/Battery Based Hybrid AC-DC Microgrid,” *e-Prime - Advances in Electrical Engineering, Electronics and Energy*, p. 100640, 2024. <a href="https://doi.org/10.1016/j.prime.2024.100640" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -241,7 +241,7 @@ author_profile: true
     </div>
   </details>
   
-- I. Rahman, **A. Moghassemi**, P.K. Chamarthi, G. Ozkan, C. Edrington, B. Papari, “Emerging Trends and Challenges in Thermal Management of Power Electronic Converters: A State of The Art Review,” *IEEE Access*, vol. 12, pp. 50633–50672, 2024. <a href="https://doi.org/10.1109/ACCESS.2024.3385429" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J14]**  I. Rahman, **A. Moghassemi**, P.K. Chamarthi, G. Ozkan, C. Edrington, B. Papari, “Emerging Trends and Challenges in Thermal Management of Power Electronic Converters: A State of The Art Review,” *IEEE Access*, vol. 12, pp. 50633–50672, 2024. <a href="https://doi.org/10.1109/ACCESS.2024.3385429" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -260,7 +260,7 @@ author_profile: true
   
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2023</span>
 
-- L. Timilsina, P.H. Hoang, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “A Real-Time Prognostic-Based Control Framework for Hybrid Electric Vehicles,” *IEEE Access*, vol. 11, pp. 127589–127607, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3332689" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J13]**  L. Timilsina, P.H. Hoang, **A. Moghassemi**, G. Ozkan, B. Papari, C. Edrington, “A Real-Time Prognostic-Based Control Framework for Hybrid Electric Vehicles,” *IEEE Access*, vol. 11, pp. 127589–127607, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3332689" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -277,7 +277,7 @@ author_profile: true
     </div>
   </details>
   
-- **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J12]**  **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -294,9 +294,19 @@ author_profile: true
     </div>
   </details>
 
+**[J11]**  S.K. Doniparthi, R. Carter, A.V. Sant **A. Moghassemi**, “Speed Control of PMBLDC Motor Drive Powered By Solar PV Array Using P, PI, and PID Controllers: A Comparison Study,” *Insight-Automatic Control*, vol. 6, p. 569, 2023. <a href="https://pdfs.semanticscholar.org/3d4c/fd561d0cfe3ca655ee9bb964b9ebcb892b0b.pdf" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+  <!-- Abstract + Graphical Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+    <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+
+    <p style="margin-top:10px;">
+      Because of their high efficiency, better starting torque, and minimal electrical noise, permanent magnet brushless DC (PMBLDC) motors are frequently used in a variety of industrial applications. The speed of PMBLDC motors is controlled by a variety of controllers. In this study, P, PI, and PID controllers are used to compare the speed control of a permanent magnet brushless DC motor drive powered by solar PV arrays. The Perturb & Observe (P&O) technique is used to find the MPPT. The drive system’s simulation results for various operation modes, such as constant and variable load circumstances, are examined and evaluated. When using a PID controller instead of a P or PI controller, the drive performs better at controlling speed. The MATLAB/Simulink software was used to model, control, and simulate the permanent magnet brushless DC motor drive. The whole drive system is put into operation with the help of the dSPACE MicroLab Box 1202.
+    </p>
+  </details>
+
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2022</span>
 
-- **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic-Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022. <a href="https://doi.org/10.1016/j.ijepes.2021.107567" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J10]**  **A. Moghassemi**, S. Ebrahimi, S. Padmanaban, M. Mitolo, J. Holm-Nielsen, “Two Fast Metaheuristic-Based MPPT Techniques for Partially Shaded Photovoltaic System,” *International Journal of Electrical Power & Energy Systems*, vol. 137, p. 107567, 2022. <a href="https://doi.org/10.1016/j.ijepes.2021.107567" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -315,7 +325,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2021</span>
 
-- D.S. Vanaja, A.A. Stonier, **A. Moghassemi**, “A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter,” *International Transactions on Electrical Energy Systems*, vol. 31, no. 12, p. e13135, 2021. <a href="https://doi.org/10.1002/2050-7038.13135" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J9]**  D.S. Vanaja, A.A. Stonier, **A. Moghassemi**, “A Novel Control Topology for Grid-Integration with Modular Multilevel Inverter,” *International Transactions on Electrical Energy Systems*, vol. 31, no. 12, p. e13135, 2021. <a href="https://doi.org/10.1002/2050-7038.13135" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -332,7 +342,7 @@ author_profile: true
     </div>
   </details>
   
-- M. Saadatmand, G. Gharehpetian, **A. Moghassemi**, J. Guerrero, P. Siano, H. Alhelou, “Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms: A Comprehensive Review of Control Methods,” *IEEE Access*, vol. 9, pp. 72183–72206, 2021. <a href="https://doi.org/10.1109/ACCESS.2021.3078570" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J8]**  M. Saadatmand, G. Gharehpetian, **A. Moghassemi**, J. Guerrero, P. Siano, H. Alhelou, “Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms: A Comprehensive Review of Control Methods,” *IEEE Access*, vol. 9, pp. 72183–72206, 2021. <a href="https://doi.org/10.1109/ACCESS.2021.3078570" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -351,7 +361,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2020</span>
 
-- **A. Moghassemi**, S. Padmanaban, V.K. Ramachandaramurthy, M. Mitolo, M. Benbouzid, “A Novel Solar Photovoltaic Fed TransZSI-DVR for Power Quality Improvement of Grid-Connected PV Systems,” *IEEE Access*, vol. 9, pp. 7263–7279, 2020. <a href="https://doi.org/10.1109/ACCESS.2020.3048022" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J7]**  **A. Moghassemi**, S. Padmanaban, V.K. Ramachandaramurthy, M. Mitolo, M. Benbouzid, “A Novel Solar Photovoltaic Fed TransZSI-DVR for Power Quality Improvement of Grid-Connected PV Systems,” *IEEE Access*, vol. 9, pp. 7263–7279, 2020. <a href="https://doi.org/10.1109/ACCESS.2020.3048022" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -368,7 +378,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, S. Padmanaban, “Dynamic Voltage Restorer (DVR): A Comprehensive Review of Topologies, Power Converters, Control Methods, and Modified Configurations,” *Energies*, vol. 13, no. 16, p. 4152, 2020. <a href="https://doi.org/10.3390/en13164152" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J6]**  **A. Moghassemi**, S. Padmanaban, “Dynamic Voltage Restorer (DVR): A Comprehensive Review of Topologies, Power Converters, Control Methods, and Modified Configurations,” *Energies*, vol. 13, no. 16, p. 4152, 2020. <a href="https://doi.org/10.3390/en13164152" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -385,7 +395,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, M. Hosseini, J. Olamaei, “Power Quality Improvement of Grid-Connected Photovoltaic Systems Using Trans-Z-Source Inverter Under Partial Shading Condition,” *Iranian Journal of Science and Technology, Transactions of Electrical Engineering*, vol. 44, no. 4, pp. 1429–1447, 2020. <a href="https://doi.org/10.1007/s40998-020-00338-0" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J5]**  **A. Moghassemi**, M. Hosseini, J. Olamaei, “Power Quality Improvement of Grid-Connected Photovoltaic Systems Using Trans-Z-Source Inverter Under Partial Shading Condition,” *Iranian Journal of Science and Technology, Transactions of Electrical Engineering*, vol. 44, no. 4, pp. 1429–1447, 2020. <a href="https://doi.org/10.1007/s40998-020-00338-0" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -402,7 +412,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “Maximum Power Point Tracking Methods Used in Photovoltaic Systems: A Review,” *Signal Processing and Renewable Energy*, vol. 4, no. 3, pp. 19–39, 2020. <a href="https://spre.stb.iau.ir/article_676122.html" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J4]**  **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “Maximum Power Point Tracking Methods Used in Photovoltaic Systems: A Review,” *Signal Processing and Renewable Energy*, vol. 4, no. 3, pp. 19–39, 2020. <a href="https://spre.stb.iau.ir/article_676122.html" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -419,7 +429,7 @@ author_profile: true
     </div>
   </details>
 
-- **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “MPPT and Current Mode Control Methods for PV Modules: A Review and A New Multi-Loop Integrated Method,” *Signal Processing and Renewable Energy*, vol. 4, no. 2, pp. 1–22, 2020. <a href="https://spre.stb.iau.ir/article_673589.html" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J3]**  **A. Moghassemi**, S. Ebrahimi, J. Olamaei, “MPPT and Current Mode Control Methods for PV Modules: A Review and A New Multi-Loop Integrated Method,” *Signal Processing and Renewable Energy*, vol. 4, no. 2, pp. 1–22, 2020. <a href="https://spre.stb.iau.ir/article_673589.html" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -436,7 +446,7 @@ author_profile: true
     </div>
   </details>
 
-- S. Ebrahimi, **A. Moghassemi**, J. Olamaei, “PV Inverters and Modulation Strategies: A Review and A Proposed Control Strategy for Frequency and Voltage Regulation,” *Signal Processing and Renewable Energy*, vol. 4, no. 1, pp. 1–21, 2020. <a href="https://spre.stb.iau.ir/article_670422.html" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J2]**  S. Ebrahimi, **A. Moghassemi**, J. Olamaei, “PV Inverters and Modulation Strategies: A Review and A Proposed Control Strategy for Frequency and Voltage Regulation,” *Signal Processing and Renewable Energy*, vol. 4, no. 1, pp. 1–21, 2020. <a href="https://spre.stb.iau.ir/article_670422.html" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -455,7 +465,7 @@ author_profile: true
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2016</span>
 
-- J. Olamaei, S. Ebrahimi, **A. Moghassemi**, “Compensation of Voltage Sag Caused by Partial Shading in Grid-Connected PV System Through the Three-Level SVM Inverter,” *Sustainable Energy Technologies and Assessments*, vol. 18, pp. 107–118, 2016. <a href="https://doi.org/10.1016/j.seta.2016.10.001" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[J1]**  J. Olamaei, S. Ebrahimi, **A. Moghassemi**, “Compensation of Voltage Sag Caused by Partial Shading in Grid-Connected PV System Through the Three-Level SVM Inverter,” *Sustainable Energy Technologies and Assessments*, vol. 18, pp. 107–118, 2016. <a href="https://doi.org/10.1016/j.seta.2016.10.001" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
