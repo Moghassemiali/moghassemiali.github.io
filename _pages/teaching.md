@@ -43,3 +43,88 @@ author_profile: true
       <p style="text-align:center; margin-top:8px; font-size:0.95rem; color:#555;"> Spring 2026 - Lubar Hall N110
       </p>
     </details>
+
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">University of Applied Science and Technology</span>
+
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Spring 2021</span>
+
+- Industrial Electronics
+  <br>
+  <!-- Course Description -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
+  <p style="margin-top:10px;">
+     ABC.
+    <br>
+    <strong>Credits:</strong> 3
+    <br>
+    <strong>Level:</strong> Undergraduate
+    </p>
+    </details>
+    
+- Power Systems Analysis
+  <br>
+  <!-- Course Description -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
+  <p style="margin-top:10px;">
+     ABC.
+    <br>
+    <strong>Credits:</strong> 3
+    <br>
+    <strong>Level:</strong> Undergraduate
+    </p>
+    </details>
+    
+- Protections and Relays
+  <br>
+  <!-- Course Description -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
+  <p style="margin-top:10px;">
+     ABC.
+    <br>
+    <strong>Credits:</strong> 3
+    <br>
+    <strong>Level:</strong> Undergraduate
+    </p>
+    </details>
+    
+- Electric Machines
+  <br>
+  <!-- Course Description -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
+  <p style="margin-top:10px;">
+     ABC.
+    <br>
+    <strong>Credits:</strong> 3
+    <br>
+    <strong>Level:</strong> Undergraduate
+    </p>
+    </details>
+
+## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Islamic Azad University, South Tehran</span>
+
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Fall 2012 to Spring 2016</span>
+
+- MATLAB/Simulink
+  <br>
+  <!-- Course Description -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Course Description</strong></summary>
+  <p style="margin-top:10px;">
+     ABC.
+    <br>
+    <strong>Credits:</strong> 3
+    <br>
+    <strong>Level:</strong> Undergraduate and graduate
+    </p>
+    </details>
+
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Fall 2010 to Spring 2015</span>
+
+- Teaching Assistant for Electric Circuits I (3 Credits)
+- Teaching Assistant for Electric Circuits II (3 Credits)
+- Teaching Assistant for Power Electronics (3 Credits)
+- Teaching Assistant for Advanced Power Systems Operation (3 Credits)
