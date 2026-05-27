@@ -27,7 +27,7 @@ main:
     url: /cv/
     
   - title: "Gallery"
-    url: /gallary/
+    url: /gallery/
 
   - title: "Contact"
     url: /contact/
