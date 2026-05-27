@@ -14,7 +14,6 @@ author_profile: true
 “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,”
 <i>IEEE Transactions on Transportation Electrification</i>, 2025.
 </div>
-  <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
