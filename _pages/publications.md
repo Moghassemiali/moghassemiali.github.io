@@ -19,9 +19,8 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
    
-### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
-**[J30]** **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
+**[J30]** **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2026.
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -31,7 +30,7 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
   
-**[J29]**  **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2025.
+**[J29]**  **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, “Finite Control Set Model Predictive Control for Electro-Thermal Management of Power Electronics Building Blocks in All-Electric Ships,” *Naval Engineers Journal*, 2026.
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
   <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -41,7 +40,7 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
 
-**[J28]**  A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025.
+**[J28]**  A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2026.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -52,7 +51,7 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
 
-**[J27]**  I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025.
+**[J27]**  I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2026.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -63,7 +62,7 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
 
-**[J26]**  G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2025.
+**[J26]**  G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2026.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -74,7 +73,7 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
 
-**[J25]**  L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025.
+**[J25]**  L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2026.
   <br>
   <!-- Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
@@ -84,6 +83,8 @@ author_profile: true
     </p>
   </details>
    <div style="height:8px;"></div>
+
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
 **[J24]**  L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicle during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025. <a href="https://doi.org/10.4271/2025-01-5079" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
