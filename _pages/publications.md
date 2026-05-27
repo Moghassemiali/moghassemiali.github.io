@@ -27,7 +27,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J28]**  A. Arsalan, B. Papari, G. Muriithi, L. Timilsina, E. Buraimoh, **A. Moghassemi**, I. Rahman, A. A. Khan, G. Ozkan, C. Edrington, “Real-Time Deep Learning Based Cyberattack Mitigation in Electric Drive Systems,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
@@ -38,7 +38,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J27]**  I. Rahman, M. Ozden, **A. Moghassemi**, L. Timilsina, A. Arsalan, E. Buraimoh, G. Ozkan, B. Papari, C. Edrington, “Real-Time Thermal Management Framework for Neutral-Point Clamped Converters in Electric Vehicles Employing Active Thermal Control and Active Cooling,” *IEEE Transactions on Transportation Electrification*, 2025.
   <br>
@@ -49,7 +49,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J26]**  G. Muriithi, A. Arsalan, **A. Moghassemi**, A.A. Khan, L. Timilsina, E. Buraimoh, B. Papari, G. Ozkan, C. Edrington, “Real-Time Zero Trust Evaluation Framework for Hybrid Electric Vehicles,” *IEEE Transactions on Information Forensics and Security*, 2025.
   <br>
@@ -60,7 +60,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J25]**  L. Timilsina, P.H. Hoang, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Ozkan, C. Edrington, “Real-Time Degradation Abatement Technique in Hybrid Electric Vehicle Using Data-Driven Methods,” *International Transactions on Electrical Energy Systems*, 2025.
   <br>
@@ -71,7 +71,7 @@ author_profile: true
   Will be shared once published.
     </p>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J24]**  L. Timilsina, **A. Moghassemi**, E. Buraimoh, A. Arsalan, I. Rahman, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, “Real-time Analysis of Battery Degradation in a Plug-in Hybrid Electric Vehicle during Vehicle-to-Grid Operation,” *SAE Technical Paper*, 2025-01-5079, 2025. <a href="https://doi.org/10.4271/2025-01-5079" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -89,7 +89,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J23]**  E. Buraimoh, G. Ozkan, L. Timilsina, I. Rahman, G. Muriithi, **A. Moghassemi**, A. Arsalan, B. Papari, M. Ozden, C. Edrington, “Adaptive Multi-Parameter Model-Free Delay Compensation for Interface Signals in Distributed Real-Time Co-Simulation of Power Systems,” *IEEE Transactions on Power Systems*, vol. 40, no. 6, pp. 4932-4944, 2025. <a href="https://doi.org/10.1109/TPWRS.2025.3575793" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -143,7 +143,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-    <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J20]**  A. Arsalan, B. Papari, L. Timilsina, G. Muriithi, **A. Moghassemi**, I. Rahman, E. Buraimoh, G. Ozkan, C. Edrington, “Reliability Score Benchmarking and Resistive Loss Profile-Based Open-Circuit Fault Diagnosis Approach for Motor Drive System,” *IEEE Transactions on Power Electronics*, vol. 40, no. 7, pp. 9824–9839, 2025. <a href="https://doi.org/10.1109/TPEL.2025.3546221" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -161,7 +161,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J19]**  E. Buraimoh, G. Ozkan, L. Timilsina, G. Muriithi, B. Papari, A. Arsalan, **A. Moghassemi**, M. Ozden, C. Edrington, “Analysis of Model Free Predictors for Interface Signal Delay Compensation in Real-Time Co-simulation,” *IEEE Transactions on Industrial Informatics*, vol. 21, no. 4, pp. 3448–3457, 2025. <a href="https://doi.org/10.1109/TII.2025.3528548" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -179,7 +179,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J18]**  **A. Moghassemi**, D.S. Vanaja, J. Olamaei, G. Ozkan, C. Edrington, “A Novel Switching Method in PV Fed Quasi-ZSI-DVR for Voltage Quality Enhancement of Photovoltaic Integrated Networks,” *IET Renewable Power Generation*, vol. 19, pp. 1–29, 2025. <a href="https://doi.org/10.1049/rpg2.12575" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -197,7 +197,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J17]**  G. Muriithi, B. Papari, **A. Moghassemi**, A. Sundar, A. Arsalan, L. Timilsina, G. Ozkan, C. Edrington, “Vulnerability Assessment and Detection of Stealthy Sequential Cyberattacks in Hybrid Tracked Vehicles,” *IEEE Transactions on Transportation Electrification*, vol. 11, no. 2, pp. 6472–6489, 2025. <a href="https://doi.org/10.1109/TTE.2024.3510458" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -253,7 +253,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J14]**  I. Rahman, **A. Moghassemi**, P.K. Chamarthi, G. Ozkan, C. Edrington, B. Papari, “Emerging Trends and Challenges in Thermal Management of Power Electronic Converters: A State of The Art Review,” *IEEE Access*, vol. 12, pp. 50633–50672, 2024. <a href="https://doi.org/10.1109/ACCESS.2024.3385429" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -271,7 +271,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2023</span>
 
@@ -291,7 +291,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J12]**  **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -360,7 +360,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[J8]**  M. Saadatmand, G. Gharehpetian, **A. Moghassemi**, J. Guerrero, P. Siano, H. Alhelou, “Damping of Low-Frequency Oscillations in Power Systems by Large-Scale PV Farms: A Comprehensive Review of Control Methods,” *IEEE Access*, vol. 9, pp. 72183–72206, 2021. <a href="https://doi.org/10.1109/ACCESS.2021.3078570" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -508,7 +508,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Conference Papers</span>
 
@@ -566,7 +566,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2024</span>
 
@@ -640,7 +640,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[C16]**  **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, P.K. Chamarthi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Nearest Level Control Based Modular Multi-Level Converters for Power Electronics Building Blocks Concept in Electric Ship System,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598932" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
@@ -694,9 +694,9 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
-**[C13]**  P.K. Chamarthi, I. Rahman, **A. Moghassemi**, L. Timilsina, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “A Proposed Cuk Converter Based Dual Input Hybrid Converter Topology As EV Charging Station,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598963" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
+**[C13]**  P.K. Chamarthi, I. Rahman, **A. Moghassemi**, L. Timilsina, O. Ciftci, B. Papari, G. Ozkan, C. Edrington, “A Proposed Cuk Converter-Based Dual-Input Hybrid Converter Topology As EV Charging Station,” *2024 IEEE Transportation Electrification Conference and Expo (ITEC)*, Chicago, IL, USA, pp. 1–6, 2024. <a href="https://doi.org/10.1109/ITEC60657.2024.10598963" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
   <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
@@ -786,7 +786,7 @@ author_profile: true
            alt="Graphical Abstract">
     </div>
   </details>
-     <div style="height:8px;"></div>
+   <div style="height:8px;"></div>
 
 **[C8]**  **A. Moghassemi**, G. Ozkan, C. Edrington, G. Muriithi, Z. Zhang, “Active Thermal Control of AC/DC Power Converter Considering Health Monitoring of Power Modules,” *2023 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 78–85, 2023. <a href="https://doi.org/10.1109/ESTS56571.2023.10220528" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
