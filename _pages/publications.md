@@ -7,6 +7,18 @@ author_profile: true
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
 
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2026</span>
+
+**[J31]** **A. Moghassemi**, H. Abdallah, R. Cuzner, “Virtual Prototyping Process (VPP): A Metaheuristic Modeling Methodology For Power Electronics Sizing and Arrangement,” *Proceedings of the IEEE*, 2026.
+  <!-- Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Will be shared once published.
+    </p>
+  </details>
+   <div style="height:8px;"></div>
+   
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
 **[J30]** **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *IEEE Transactions on Transportation Electrification*, 2025.
@@ -512,6 +524,38 @@ author_profile: true
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Conference Papers</span>
 
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2026</span>
+
+**[C26]** K. Monahan, **A. Moghassemi**, J. Zuehl, R. Cuzner, “Faster Real-Time Machine Learning Based Fault Detection in Battery Energy Storage System,” *2026 IEEE Energy Conversion Conference and Expo (ECCE)*, Vancouver, BC, Canada, 2026.
+  <!-- Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Will be shared once published.
+    </p>
+  </details>
+   <div style="height:8px;"></div>
+
+**[C25]** E. Schmitt, **A. Moghassemi**, K. Monahan, R. Cuzner, “Graph-Theory-Based Survivability of Integrated Power and Energy System Architectures,” *2026 IEEE Energy Conversion Conference and Expo (ECCE)*, Vancouver, BC, Canada, 2026.
+  <!-- Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Will be shared once published.
+    </p>
+  </details>
+   <div style="height:8px;"></div>
+   
+**[C24]** L. Timilsina, **A. Moghassemi**, A. Khan, K. Bis, B. Papari, C. Edrington, “Fault-Tolerant Operation of a Modular Multilevel Converter for Shipboard Induction Motor Drives Using Adaptive Multi-Level Reconfiguration,” *2026 IEEE Energy Conversion Conference and Expo (ECCE)*, Vancouver, BC, Canada, 2026.
+  <!-- Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Will be shared once published.
+    </p>
+  </details>
+   <div style="height:8px;"></div>
+   
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2025</span>
 
 **[C23]**  **A. Moghassemi**, L. Timilsina, I. Rahman, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Electro Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *2025 IEEE Electric Ship Technologies Symposium (ESTS)*, Old Town Alexandria, VA, USA, pp. 87–94, 2025. <a href="https://doi.org/10.1109/ESTS62818.2025.11152422" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
