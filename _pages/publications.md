@@ -3,7 +3,7 @@ title: " 📚 Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+------
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
 
