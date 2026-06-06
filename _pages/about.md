@@ -12,8 +12,8 @@ I previously served as a Post-Doctoral Research Associate at the University of W
 
 I received my Ph.D. in Electrical Engineering in 2025 from Clemson University, where I was honored with two *Outstanding Graduate Researcher* awards. My ONR-funded dissertation developed a multi-objective electro-thermal management framework for Modular Multilevel Converter (MMC)-based Power Electronics Building Blocks (PEBBs) in all-electric ships. The research integrated model predictive control, electrical-thermal characterization, and data-driven degradation forecasting to enable adaptive and resilient system performance under dynamic operating conditions.
 
-Before joining Clemson, I earned my M.Sc. and B.Sc. degrees in Electrical Engineering from Islamic Azad University – South Tehran in 2015 and 2012, respectively. My M.Sc. thesis improved the response and reliability of grid-connected photovoltaic systems using a novel Trans-Z-Source Inverter (Trans-ZSI) with Maximum Constant Boost Control (MCBC). My B.Sc. thesis focused on power flow optimization of distribution networks in the presence of distributed energy resources.
+Before joining Clemson, I earned my M.Sc. and B.Sc. degrees in Electrical Engineering from Islamic Azad University - South Tehran in 2015 and 2012, respectively. My M.Sc. thesis improved the response and reliability of grid-connected photovoltaic systems using a novel Trans-Z-Source Inverter (Trans-ZSI) with Maximum Constant Boost Control (MCBC). My B.Sc. thesis focused on power flow optimization of distribution networks in the presence of distributed energy resources.
 
 My research interests include the design, modeling, and control of high-efficiency power electronic converters for transportation electrification, renewable energy systems, and advanced power system applications.
 
-In my free time, I enjoy movies and TV series 🎬, kitchen experiments 🍳, and an ongoing quest for the perfect cup of coffee ☕—my favorite closed-loop control system.
+In my free time, I enjoy movies and TV series 🎬, kitchen experiments 🍳, and an ongoing quest for the perfect cup of coffee ☕, my favorite closed-loop control system.
