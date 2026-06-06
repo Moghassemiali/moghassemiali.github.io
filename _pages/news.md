@@ -7,6 +7,8 @@ author_profile: true
 
 - **[June 1, 2026]** Got promoted to Energy Systems Research Scientist at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
+- **[May 22, 2026]** All three digests got accepted for publications at <a href="https://www.ieee-ecce.org/2026/" style="color: #1E90FF; text-decoration: none;"> 2026 IEEE Energy Conversion Conference and Expo (ECCE)</a>, Vancouver, BC, Canada.
+
 - **[November 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> Fall IAB meeting and the <a href="https://music.uapower.group/" style="color: #1E90FF; text-decoration: none;"> National Multi-User Silicon Carbide Research Fab (MUSiC)</a> grand opening in Fayetteville, AR.
 
 - **[October 19-21, 2025]** Attended <a href="https://www.ieee-ecce.org/2025/" style="color: #1E90FF; text-decoration: none;"> 2025 IEEE Energy Conversion Conference and Expo (ECCE)</a> in Philadelphia, PA.
