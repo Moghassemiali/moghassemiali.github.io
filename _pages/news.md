@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-- **[June 1, 2026]** Got promoted to Energy Systems Research Scientist at the University of Wisconsin-Milwaukee and joined <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
+- **[June 1, 2026]** Got promoted to Energy Systems Research Scientist at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
 - **[November 13-14, 2025]** Attended <a href="https://grapes.uapower.group/" style="color: #1E90FF; text-decoration: none;"> GRid-connected Advanced Power Electronic Systems (GRAPES)</a> Fall IAB meeting and the <a href="https://music.uapower.group/" style="color: #1E90FF; text-decoration: none;"> National Multi-User Silicon Carbide Research Fab (MUSiC)</a> grand opening in Fayetteville, AR.
 
