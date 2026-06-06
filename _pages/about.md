@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 author_profile: true
@@ -18,4 +17,3 @@ Before joining Clemson, I earned my M.Sc. and B.Sc. degrees in Electrical Engine
 My research interests include the design, modeling, and control of high-efficiency power electronic converters for transportation electrification, renewable energy systems, and advanced power system applications.
 
 In my free time, I enjoy movies and TV series 🎬, kitchen experiments 🍳, and an ongoing quest for the perfect cup of coffee ☕—my favorite closed-loop control system.
-```
