@@ -29,7 +29,7 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Academic Experience</span>
 
-* **Energy Systems Research Scientist**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2026 – Present)
+* **Energy Systems Research Scientist (Scientist II)**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2026 – Present)
   * **Research Group:** Center for Sustainable Electrical Energy Systems (SEES), supervised by Dr. Robert Cuzner
   <a href="https://sites.uwm.edu/sees" 
      target="_blank" 
@@ -40,7 +40,7 @@ redirect_from:
   * Develop new research concepts in high-voltage engineering, electro-thermal-physical modeling, digital engineering, evolutionary optimization, and AI/ML-enabled energy systems.
   * Prepare and contribute to competitive research proposals, establish new research directions, and support laboratory growth initiatives involving original equipment manufacturers, system integrators, and government stakeholders.
   * Conduct, publish, and report research on efficient, reliable, and resilient power-electronics-based power distribution systems through digital engineering methodologies.
-  * Supervise and mentor undergraduate, M.S., and Ph.D. researchers by assigning technical tasks, providing guidance, monitoring project progress, and reporting.
+  * Supervise and mentor undergraduate, M.S., and Ph.D. students, and post-doc researchers by assigning technical tasks, providing guidance, monitoring project progress, and reporting.
   * Collaborate with the UWM-SEES team, the university faculty, industry partners, and government sponsors to accelerate the commercialization and deployment of advanced power and energy technologies.
 <br>
 * **Post-Doctoral Research Associate**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2025 – May 2026)
