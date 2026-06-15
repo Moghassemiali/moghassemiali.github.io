@@ -29,7 +29,7 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Academic Experience</span>
 
-* **Energy Systems Research Scientist (Scientist II)**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2026 – Present)
+* **Research Scientist II**, University of Wisconsin-Milwaukee, Milwaukee, WI (June 2026 – Present)
   * **Research Group:** Center for Sustainable Electrical Energy Systems (SEES), supervised by Dr. Robert Cuzner
   <a href="https://sites.uwm.edu/sees" 
      target="_blank" 
