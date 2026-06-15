@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-- **[June 1, 2026]** Got promoted to Energy Systems Research Scientist at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
+- **[June 1, 2026]** Got promoted to Research Scientist II at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
 - **[May 22, 2026]** All three digests got accepted for publication at <a href="https://www.ieee-ecce.org/2026/" style="color: #1E90FF; text-decoration: none;"> 2026 IEEE Energy Conversion Conference and Expo (ECCE)</a>, Vancouver, BC, Canada.
 
