@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ali Moghassemi, a Research Scientist at the University of Wisconsin–Milwaukee, where I lead government- and industry-funded research on power electronic conversion systems, transportation electrification, microgrids, and resilient power distribution architectures. I also contribute to research proposal development, mentor graduate and undergraduate researchers, and collaborate with industry and government partners to accelerate the transition of advanced power and energy technologies from research to real-world applications.
+Hi, I'm Dr. Ali Moghassemi, a Research Scientist at the University of Wisconsin–Milwaukee, where I lead government- and industry-funded research on power electronic conversion systems, transportation electrification, microgrids, and resilient power distribution architectures. I also contribute to research proposal development, mentor graduate and undergraduate researchers, and collaborate with industry and government partners to accelerate the transition of advanced power and energy technologies from research to real-world applications.
 
 I previously worked as a Post-Doctoral Research Associate at the University of Wisconsin–Milwaukee (2025–2026), where I contributed to several ONR-funded research projects, including *Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis*, *Tech Candidate for Future Navy Integrated Power and Energy Corridor (NiPEC)*, *Power Energy Thermal Technologies and Integration Systems (PETTIS)*, and *Demo A to D Preparation*.
 
