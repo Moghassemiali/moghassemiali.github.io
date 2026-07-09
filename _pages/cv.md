@@ -72,7 +72,7 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Teaching Experience</span>
 
-* **Course Instructor**, University of Wisconsin-Milwaukee, Milwaukee, WI (January 2026 – Present)
+* **Lecturer**, University of Wisconsin-Milwaukee, Milwaukee, WI (January 2026 – Present)
   * Taught *ELECENG 362 – Electromechanical Energy Conversion* (4 cr.), covering magnetic circuits, transformers, electromechanical energy conversion, and electric DC, synchronous, and induction machines.
   * Developed analytical homework/exams to reinforce fundamental concepts in modeling, analysis, and performance evaluation.
   * Coordinated with laboratory sessions to complement theoretical instruction with hands-on experimentation.
