@@ -5,6 +5,8 @@ author_profile: true
 ---
 ------
 
+- **[June 25, 2026]** Received funding from the <a href="[https://sites.uwm.edu/sees/](https://uwmrf.org/catalyst-grant-program/)" style="color: #1E90FF; text-decoration: none;"> NSF I-Corps Catalyst Grant Program</a> for *Medium Voltage Integrable Grid-Edge Controller to Support Distribution and Transmission System Resiliency*.
+
 - **[June 1, 2026]** Got promoted to Research Scientist II at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
 - **[May 22, 2026]** All three digests got accepted for publication at <a href="https://www.ieee-ecce.org/2026/" style="color: #1E90FF; text-decoration: none;"> 2026 IEEE Energy Conversion Conference and Expo (ECCE)</a>, Vancouver, BC, Canada.
@@ -23,9 +25,9 @@ author_profile: true
 
 - **[April 24, 2025]** Recipient of the *Outstanding Graduate Researcher* award from the Holcombe Electrical and Computer Engineering (ECE) Department at Clemson University (department-wide award).
 
-- **[April 7, 2025]** Successfully defended my Ph.D. dissertation titled *Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks In All-Electric Ships*.
+- **[April 7, 2025]** Successfully defended my Ph.D. dissertation titled *Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships*.
 
-- **[September 24, 2024]** Successfully passed my Comprehensive Exam and promoted to Ph.D. candidacy.
+- **[September 24, 2024]** Successfully passed my Comprehensive Exam and got promoted to Ph.D. candidacy.
 
 - **[August 5-8, 2024]** Attended and presented one paper at <a href="https://attend.ieee.org/icdcm-2024/" style="color: #1E90FF; text-decoration: none;"> 2024 IEEE Sixth International Conference on DC Microgrids (ICDCM)</a> in Columbia, SC.
 
