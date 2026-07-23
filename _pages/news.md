@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-- **[June 25, 2026]** Received funding from the <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> NSF I-Corps Catalyst Grant Program</a> for *Medium Voltage Integrable Grid-Edge Controller to Support Distribution and Transmission System Resiliency*, (total award: **$50,000**)
+- **[June 25, 2026]** Received funding from the <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> NSF I-Corps Catalyst Grant Program</a> for *Medium Voltage Integrable Grid-Edge Controller to Support Distribution and Transmission System Resiliency*, (total award: **$50,000**).
 
 - **[June 1, 2026]** Got promoted to Research Scientist II at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
