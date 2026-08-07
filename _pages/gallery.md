@@ -7,9 +7,9 @@ author_profile: true
 
 ------
 
-## ELECENG 362 -- Electromechanical Energy Conversion Course, UW-Milwaukee, Milwaukee, WI
+## ELECENG 362 -- Electromechanical Energy Conversion Course
 <img src="/images/gallery/classes/ELECENG362_Spring2026.JPG" />
-Group Photo - Spring 2026 - Lubar Hall N110
+Group Photo - UW-Milwaukee, Milwaukee, WI - Spring '26
 
 <details style="background:#fffaf0; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
     <summary><strong style="color:#FF8C00;">Group Photo</strong></summary>
