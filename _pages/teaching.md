@@ -12,7 +12,7 @@ author_profile: true
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Spring/Fall '26</span>
 
 - ELECENG 362 -- Electromechanical Energy Conversion -- Undergraduate -- 4 Credits (3 lect. and 1 lab.)
-   - TA: Mr. Kevin Monahan
+   - Spring '26 TA: Mr. Kevin Monahan
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">University of Applied Science and Technology</span>
 
