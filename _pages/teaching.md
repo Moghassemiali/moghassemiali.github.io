@@ -34,7 +34,7 @@ author_profile: true
 
 - MATLAB/Simulink -- Undergraduate/Graduate -- 3 Credits
 
-### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Fall '10, Spring/Fall '11, Spring/Fall '12, Spring/Fall '13, Spring/Fall '14, Spring 2015</span>
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">Fall '10, Spring/Fall '11, Spring/Fall '12, Spring/Fall '13, Spring/Fall '14, Spring '15</span>
 
 - Teaching Assistant -- Electric Circuits I -- Undergraduate -- 3 Credits
 - Teaching Assistant -- Electric Circuits II - Undergraduate -- 3 Credits
