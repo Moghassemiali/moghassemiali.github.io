@@ -8,7 +8,7 @@ author_profile: true
 ------
 
 ## ELECENG 362 -- Electromechanical Energy Conversion Course
-<img src="/images/gallery/classes/ELECENG362_Spring2026.JPG" />
+<img src="/images/gallery/classes/ELECENG362_Spring2026.JPG" style="transform: scale(0.7);" />
 University of Wisconsin-Milwaukee, Milwaukee, WI - Spring '26
 
       
