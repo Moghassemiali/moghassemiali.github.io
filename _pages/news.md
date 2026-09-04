@@ -5,7 +5,14 @@ author_profile: true
 ---
 ------
 
-- **[June 25, 2026]** Received funding from the <a href="https://uwmrf.org/nsf-i-corps/" style="color: #1E90FF; text-decoration: none;"> National Science Foundation (NSF) Innovation Corps (I-Corps) Catalyst Grant Program</a> for *Medium Voltage Integrable Grid-Edge Controller to Support Distribution and Transmission System Resiliency*, (total award: **$50,000**).
+- **[September 1, 2026]** Received funding from the **Office of Naval Research (ONR)** through the **Electric Ship Research and Development Consortium (ESRDC)** for *System Level Multi-Objective Optimization for NPES Linking Equipment Technology and Connection Variables* (total award: **$100,000**).
+  - Ali Moghassemi (PI), Rob Cuzner (Co-PI)
+
+- **[September 1, 2026]** Received funding from the **Office of Naval Research (ONR)** through the **Electric Ship Research and Development Consortium (ESRDC)** for *CHiL Model Studies leading to Reduced Order Ship-Scale NPES Models* (total award: **$100,000**).
+  - Rob Cuzner (PI), Ali Moghassemi (Co-PI)
+
+- **[June 25, 2026]** Received funding from the **National Science Foundation (NSF)** through **Innovation Corps (I-Corps) Catalyst Grant Program** for *Medium Voltage Integrable Grid-Edge Controller to Support Distribution and Transmission System Resiliency* (total award: **$50,000**).
+  - Rob Cuzner (PI), Ali Moghassemi (Co-PI)
 
 - **[June 1, 2026]** Got promoted to Research Scientist II at the University of Wisconsin-Milwaukee, <a href="https://sites.uwm.edu/sees/" style="color: #1E90FF; text-decoration: none;"> Center for Sustainable Electrical Energy Systems (SEES)</a>.
 
