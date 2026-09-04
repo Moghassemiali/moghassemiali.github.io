@@ -138,6 +138,18 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Editorial and Review Experience</span>
 
+* **Associate Editor**, Sustainable Energy Control and Optimization
+  <a href="https://www.icck.org/seco" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+* **Associate Editor**, American Journal of Electrical Power and Energy Systems
+  <a href="http://www.ajepes.org" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
 * **Editorial Board**, Renewable Energy and Power Quality Journal
   <a href="https://repqj.com/index.php/repqj" 
      target="_blank" 
@@ -152,18 +164,6 @@ redirect_from:
   </a>
 * **Editorial Board**, Smart Ship Technologies
   <a href="https://journals.explorerpress.com/sst" 
-     target="_blank" 
-     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
-     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
-  </a>
-* **Associate Editor**, Sustainable Energy Control and Optimization
-  <a href="https://www.icck.org/seco" 
-     target="_blank" 
-     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
-     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
-  </a>
-* **Associate Editor**, American Journal of Electrical Power and Energy Systems
-  <a href="http://www.ajepes.org" 
      target="_blank" 
      style="color:#1E90FF; text-decoration:none; margin-left:4px;">
      <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
@@ -188,5 +188,4 @@ redirect_from:
 * **Member**, IEEE Transportation Electrification Council
 * **Member**, IEEE Smart Cities Community
 * **Member**, SAE International
-* **Member**, Clemson IEEE Power and Energy Society Student Branch
 <br>
