@@ -50,10 +50,10 @@ redirect_from:
      style="color:#1E90FF; text-decoration:none; margin-left:4px;">
      <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
   </a>
-  * **PDC&R Solution Space Exploration and Digital Twin Based Dielectric Scaling Law and Health Prognosis:** Developed an integration framework for Power Distribution Control and Resilience (PDC&R), focusing on Virtual Prototyping Process (VPP) leading to producing big data and metamodels for PDC&R equipment.
+  * **PDC&R Solution Space Exploration and Digital Twin-Based Dielectric Scaling Law and Health Prognosis:** Developed an integration framework for Power Distribution Control and Resilience (PDC&R), focusing on the Virtual Prototyping Process (VPP), leading to the production of big data and metamodels for PDC&R equipment.
   * **Tech Candidate for Future Navy Integrated Power and Energy Corridor:** Collaborated with the PDC&R integration team to bring a range of technologies developed on the PDC&R.
-  * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies and thermal management approaches.
-  * **Demo A, B, C, and D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishes bases of cost estimates, providing validation cases and "new sources of truth" to increase the confidence in equipment metamodels and measurement data.
+  * **Power Energy Thermal Technologies and Integration Systems (PETTIS):** Co-development of an equipment sizing tool with UT-Arlington for shipboard Battery Energy Storage Systems (BESS) suitable for the exploration of power electronics, battery technologies, and thermal management approaches.
+  * **Demo A, B, C, and D Preparation:** Co-development of the PEPDS hardware demonstration platform with UT-Arlington and establishing bases of cost estimates, providing validation cases and "new sources of truth" to increase confidence in equipment metamodels and measurement data.
   * Mentored Ph.D. and Master's students, guided coding/simulation/experimental practices, and contributed to collaborative initiatives.
 <br>
 * **Graduate Research Assistant**, Clemson University, Clemson, SC (August 2022 – May 2025)
@@ -96,10 +96,10 @@ redirect_from:
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Experience</span>
 
 * **Technical Expert**, Intelligent Control & Processing (ICP) Company, Tehran, Iran (June 2021 – August 2022)
-  * Developed technical/commercial proposals for over €3 million advanced control systems (DCS, ESD, FGS, PDCS, PMS, BMS), resulting in successful projects from different domains.
-  * Supported business development activities by preparing bills of materials (BOM), responding to requests for information (RFI) and for proposals (RFP), and engaging with clients to assess their technical requirements.
+  * Developed technical/commercial proposals for over €3 million in advanced control systems (DCS, ESD, FGS, PDCS, PMS, BMS), resulting in successful projects from different domains.
+  * Supported business development activities by preparing bills of materials (BOM), responding to requests for information (RFI) and requests for proposals (RFP), and engaging with clients to assess their technical requirements.
   * Conducted technical meetings with clients, addressed their engineering needs, and ensured optimal solutions as per project specifications.
-  * Led R&D initiatives, successfully enhanced proposed control system solutions.
+  * Led R&D initiatives, successfully enhancing proposed control system solutions.
 <br>
 * **Intern**, Paykar Bonyan Sanat (PBS) Company, Tehran, Iran (February 2012 – June 2012)
   * Programmed Omron & Siemens PLCs
@@ -107,6 +107,14 @@ redirect_from:
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Honors and Awards</span>
+
+*  **Best Paper Award**, Typhoon HiL - United States 2026, Boston, MD (September 2026)
+  <a href="https://www.typhoon-hil.com/best-paper-award/united-states" 
+     target="_blank" 
+     style="color:#1E90FF; text-decoration:none; margin-left:4px;">
+     <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
+  </a>
+   * The Typhoon HIL Best Paper Award United States 2026 recognizes applied research accelerating the digital transformation of power electronics and power systems. It honors innovations validated through real-time simulation, Hardware-in-the-Loop (HIL), and digital twin technologies—celebrating OT solutions that deliver measurable, real-world impact.
 
 *  **Outstanding Graduate Researcher Award**, Graduate School, Clemson University, Clemson, SC (May 2025)
   <a href="https://www.clemson.edu/graduate/about/award-recipients.html" 
@@ -122,7 +130,7 @@ redirect_from:
      style="color:#1E90FF; text-decoration:none; margin-left:4px;">
      <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
   </a>
-   * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since their inception, the award has been accompanied by a monetary stipend, which this year is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
+   * The recipient of the award is determined based on the recommendation of a faculty member and evaluation by a committee of ECE faculty. The Holcombe Graduate Student awards have been given each year for the past 40 years in recognition of outstanding accomplishment in the preceding year by a current graduate student in the Holcombe Department of Electrical and Computer Engineering at Clemson University. Since its inception, the award has been accompanied by a monetary stipend, which this year is provided by the Edward D. Guy, Jr. Endowed Memorial Scholarship endowment.
 * **Graduate Research Assistantship**, Holcombe ECE Department, Clemson University, Clemson, SC (February 2022)
 * **Distinguished Student** Master's program, Islamic Azad University - South Tehran (December 2013)
 * **Distinguished Student**, Bachelor's program, Islamic Azad University - South Tehran (February 2009)
@@ -170,7 +178,7 @@ redirect_from:
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Professional Membership</span>
 
-* **Member**, Institute for Electrical and Electronics Engineers (IEEE)
+* **Member**, Institute of Electrical and Electronics Engineers (IEEE)
 * **Member**, IEEE Young Professionals (IEEE YP)
 * **Member**, IEEE Industrial Electronics Society (IEEE IES)
 * **Member**, IEEE Industry Applications Society (IEEE IAS)
