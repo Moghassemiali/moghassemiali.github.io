@@ -336,8 +336,7 @@ author_profile: true
       </div>
     </div>
 
-  </div>
-</div>
+<div style="height:8px;"></div>
 
 
 **[J12]**  **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
