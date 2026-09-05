@@ -320,6 +320,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+typhoon_award_url: "https://www.typhoon-hil.com/best-paper-award/united-states/"
 
 # Archives
 #  Type
