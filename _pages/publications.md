@@ -315,7 +315,7 @@ author_profile: true
     <!-- Typhoon HIL Logo -->
     <div style="flex-shrink:0;">
       <img src="{{ '/images/typhoon-hil-logo.png' | relative_url }}"
-           style="width:85px; height:auto;"
+           style="width:40px; height:auto;"
            alt="Typhoon HIL">
     </div>
 
@@ -323,12 +323,6 @@ author_profile: true
     <div>
       <div style="font-size:0.95em; font-weight:bold; color:#FF8C00;">
         Typhoon HIL Best Paper Award – United States 2026
-      </div>
-
-      <div style="font-size:0.9em; margin-top:4px; color:#555;">
-        Awarded for
-        <em>A Real-time Prognostic-Based Control Framework for
-        Hybrid Electric Vehicles</em>
       </div>
 
       <div style="margin-top:5px;">
