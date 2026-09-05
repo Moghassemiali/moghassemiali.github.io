@@ -315,7 +315,7 @@ author_profile: true
     <!-- Typhoon HIL Logo -->
     <div style="flex-shrink:0;">
       <img src="{{ '/images/United-States-2026-Logo.png' | relative_url }}"
-           style="width:40px; height:auto;"
+           style="width:60px; height:auto;"
            alt="Typhoon HIL">
     </div>
 
