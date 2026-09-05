@@ -305,7 +305,7 @@ author_profile: true
     </div>
   </details>
    <div style="height:8px;"></div>
-   <!-- Award -->
+<!-- Award -->
 <div style="margin-top:14px; padding:12px 14px; background:#fffaf0;
             border:1px solid #ffd98a; border-left:4px solid #FF8C00;
             border-radius:8px;">
@@ -314,7 +314,7 @@ author_profile: true
 
     <!-- Typhoon HIL Logo -->
     <div style="flex-shrink:0;">
-      <img src="{{ '/images/awards/typhoon-hil-logo.png' | relative_url }}"
+      <img src="{{ '/images/typhoon-hil-logo.png' | relative_url }}"
            style="width:85px; height:auto;"
            alt="Typhoon HIL">
     </div>
@@ -332,7 +332,7 @@ author_profile: true
       </div>
 
       <div style="margin-top:5px;">
-        <a href="{{ site.typhoon_award_url }}"
+        <a href="https://www.typhoon-hil.com/best-paper-award/united-states/"
            target="_blank"
            style="color:#1E90FF; text-decoration:none;">
           <i class="fas fa-external-link-alt"
