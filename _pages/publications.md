@@ -305,6 +305,45 @@ author_profile: true
     </div>
   </details>
    <div style="height:8px;"></div>
+   <!-- Award -->
+<div style="margin-top:14px; padding:12px 14px; background:#fffaf0;
+            border:1px solid #ffd98a; border-left:4px solid #FF8C00;
+            border-radius:8px;">
+
+  <div style="display:flex; align-items:center; gap:12px;">
+
+    <!-- Typhoon HIL Logo -->
+    <div style="flex-shrink:0;">
+      <img src="{{ '/images/awards/typhoon-hil-logo.png' | relative_url }}"
+           style="width:85px; height:auto;"
+           alt="Typhoon HIL">
+    </div>
+
+    <!-- Award Information -->
+    <div>
+      <div style="font-size:0.95em; font-weight:bold; color:#FF8C00;">
+        Typhoon HIL Best Paper Award – United States 2026
+      </div>
+
+      <div style="font-size:0.9em; margin-top:4px; color:#555;">
+        Awarded for
+        <em>A Real-time Prognostic-Based Control Framework for
+        Hybrid Electric Vehicles</em>
+      </div>
+
+      <div style="margin-top:5px;">
+        <a href="{{ site.typhoon_award_url }}"
+           target="_blank"
+           style="color:#1E90FF; text-decoration:none;">
+          <i class="fas fa-external-link-alt"
+             style="font-size:0.8em;"></i>
+          View Award
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 **[J12]**  **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
