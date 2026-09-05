@@ -5,6 +5,8 @@ author_profile: true
 ---
 ------
 
+- **[September 3, 2026]** Recipient of the <a href="https://www.typhoon-hil.com/best-paper-award/united-states/" style="color: #1E90FF; text-decoration: none;"> Typhoon HiL Best Paper Award – United States 2026</a> for our paper entitled *A Real-time Prognostic-Based Control Framework for Hybrid Electric Vehicles*
+
 - **[September 1, 2026]** Received funding from the **Office of Naval Research (ONR)** through the **Electric Ship Research and Development Consortium (ESRDC)** for *System Level Multi-Objective Optimization for NPES Linking Equipment Technology and Connection Variables*.
 
 - **[September 1, 2026]** Received funding from the **Office of Naval Research (ONR)** through the **Electric Ship Research and Development Consortium (ESRDC)** for *CHiL Model Studies leading to Reduced Order Ship-Scale NPES Models*.
