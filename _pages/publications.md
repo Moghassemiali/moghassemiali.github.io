@@ -305,6 +305,7 @@ author_profile: true
     </div>
   </details>
    <div style="height:8px;"></div>
+```html
 <!-- Award -->
 <div style="margin-top:14px; padding:12px 14px; background:#fffaf0;
             border:1px solid #ffd98a; border-left:4px solid #FF8C00;
@@ -333,12 +334,21 @@ author_profile: true
              style="font-size:0.8em;"></i>
           View Award
         </a>
-      </div>
-    </div>
-    
+
+        <span style="margin:0 6px; color:#aaa;">|</span>
+
+        <a href="{{ '/files/Typhoon US Awards 2026.pdf' | relative_url }}"
+           target="_blank"
+           style="color:#1E90FF; text-decoration:none;">
+          <i class="fas fa-file-pdf"
+             style="font-size:0.8em;"></i>
+          View Certificate
+        </a>
       </div>
     </div>
 
+  </div>
+</div>
 
 **[J12]**  **A. Moghassemi**, I. Rahman, G. Ozkan, C. Edrington, Z. Zhang, P.K. Chamarthi, “Power Converters Coolant: Past, Present, Future, And A Path Toward Active Thermal Control in Electrified Ship Power Systems,” *IEEE Access*, vol. 11, pp. 91620–91659, 2023. <a href="https://doi.org/10.1109/ACCESS.2023.3308523" target="_blank" style="color:#1E90FF; text-decoration:none; margin-left:4px;"><i class="fas fa-external-link-alt" style="font-size:0.85em;"></i></a>
   <!-- Abstract + Graphical Abstract -->
