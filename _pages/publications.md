@@ -7,7 +7,7 @@ author_profile: true
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Journal Articles</span>
 
-### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2026</span>
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2027</span>
 
 **[J31]** **A. Moghassemi**, H. Abdallah, R. Cuzner, “Virtual Prototyping Process (VPP): A Metaheuristic Modeling Methodology For Power Electronics Sizing and Arrangement,” *Proceedings of the IEEE*, 2026.
   <!-- Abstract -->
@@ -19,6 +19,7 @@ author_profile: true
   </details>
    <div style="height:8px;"></div>
    
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2026</span>
 
 **[J30]** **A. Moghassemi**, L. Timilsina, I. Rahman, A. Arsalan, G. Muriithi, G. Ozkan, B. Papari, C. Edrington, Z. Zhang, “Real-Time Electro-Thermal Management and Data-Driven Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships,” *Journal of Marine Engineering & Technology*, 2026.
   <!-- Abstract -->
@@ -567,6 +568,19 @@ author_profile: true
    <div style="height:8px;"></div>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Conference Papers</span>
+
+### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2027</span>
+
+**[C27]** H. Abdallah, **A. Moghassemi**, R. Cuzner, “Metaheuristic Optimization of Conducted EMI Filters for a Common-Mode Reduced Four-Leg Inverter,” *2027 IEEE Applied Power Electronics Conference and Exposition (APEC)*, New Orleans, LA, USA, 2027.
+  <!-- Abstract -->
+  <details style="background:#f8fbff; padding:12px; border-radius:8px; border:1px solid #d9e9ff; margin-top:10px; transition:0.3s;">
+  <summary><strong style="color:#1E90FF;">Abstract</strong></summary>
+  <p style="margin-top:10px;">
+  Will be shared once published.
+    </p>
+  </details>
+   <div style="height:8px;"></div>
+
 
 ### <span style="border-left:6px solid #1E90FF; padding-left:10px;">2026</span>
 
