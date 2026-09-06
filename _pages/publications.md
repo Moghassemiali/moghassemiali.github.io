@@ -305,7 +305,6 @@ author_profile: true
     </div>
   </details>
    <div style="height:8px;"></div>
-```html
 <!-- Award -->
 <div style="margin-top:14px; padding:12px 14px; background:#fffaf0;
             border:1px solid #ffd98a; border-left:4px solid #FF8C00;
@@ -342,7 +341,7 @@ author_profile: true
            style="color:#1E90FF; text-decoration:none;">
           <i class="fas fa-file-pdf"
              style="font-size:0.8em;"></i>
-          View Certificate
+          View PDF
         </a>
       </div>
     </div>
