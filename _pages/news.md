@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-- [September 3, 2026] Recipient of the Typhoon HiL Best Paper Award – United States 2026 for our paper entitled *A Real-time Prognostic-Based Control Framework for Hybrid Electric Vehicles*.
+- [September 3, 2026] Received the Typhoon HiL Best Paper Award – United States 2026 for our paper entitled *A Real-time Prognostic-Based Control Framework for Hybrid Electric Vehicles*.
 
 - [September 1, 2026] Received funding from the Office of Naval Research (ONR) through the Electric Ship Research and Development Consortium (ESRDC) for *System Level Multi-Objective Optimization for NPES Linking Equipment Technology and Connection Variables*.
 
@@ -27,9 +27,9 @@ author_profile: true
 
 - [May 6, 2025] Officially got hooded and received my Ph.D. degree in Electrical Engineering from Clemson University.
 
-- [May 5, 2025] Recipient of the Outstanding Graduate Researcher award from the Graduate School at Clemson University (university-wide award)
+- [May 5, 2025] Received the Outstanding Graduate Researcher award from the Graduate School at Clemson University (university-wide award)
 
-- [April 24, 2025] Recipient of the Outstanding Graduate Researcher award from the Holcombe Electrical and Computer Engineering (ECE) Department at Clemson University (department-wide award).
+- [April 24, 2025] Received the Outstanding Graduate Researcher award from the Holcombe Electrical and Computer Engineering (ECE) Department at Clemson University (department-wide award).
 
 - [April 7, 2025] Successfully defended my Ph.D. dissertation titled *Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships*.
 
