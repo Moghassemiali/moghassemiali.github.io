@@ -67,7 +67,7 @@ redirect_from:
   * **Dynamometer Test Bed:**
     * Designed, modeled, controlled, prototyped, and validated a dyno testbed with two PMSMs (4-pole 10kW/350A and 5-pole 12kW/350A), mechanically coupled via a bearingless digital torque transducer and enclosed in a protective housing.
     * Designed, modeled, controlled, prototyped, and validated a 10kW/96V/120A Neutral-Point Clamped (NPC) inverter using 1200V/193A SiC MOSFETs, 1200V/160A clamping diodes, and 1200V gate drivers, integrated capacitors, heatsinks, and cold plates for both air and liquid cooling.
-    * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHIL/PHIL testing using dSPACE and OPAL-RT platforms for propulsion loads.
+    * Designed sensor and auxiliary PCBs, and validated the complete testbed through CHiL testing using dSPACE and OPAL-RT platforms for propulsion loads.
 <br>
 
 ## <span style="border-left:10px solid #003f87; padding-left:12px; font-size:1.3rem; font-weight:800;">Teaching Experience</span>
@@ -114,7 +114,7 @@ redirect_from:
      style="color:#1E90FF; text-decoration:none; margin-left:4px;">
      <i class="fas fa-external-link-alt" style="font-size:0.85em;"></i>
   </a>
-   * The Typhoon HIL Best Paper Award United States 2026 recognizes applied research accelerating the digital transformation of power electronics and power systems. It honors innovations validated through real-time simulation, Hardware-in-the-Loop (HIL), and digital twin technologies—celebrating OT solutions that deliver measurable, real-world impact.
+   * The Typhoon HiL Best Paper Award United States 2026 recognizes applied research accelerating the digital transformation of power electronics and power systems. It honors innovations validated through real-time simulation, Hardware-in-the-Loop (HiL), and digital twin technologies—celebrating OT solutions that deliver measurable, real-world impact.
 
 *  **Outstanding Graduate Researcher Award**, Graduate School, Clemson University, Clemson, SC (May 2025)
   <a href="https://www.clemson.edu/graduate/about/award-recipients.html" 
