@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Gallery"
-permalink: /gallery/
+title: "Memories"
+permalink: /memories/
 author_profile: true
 ---
 
