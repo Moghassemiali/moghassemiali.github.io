@@ -34,10 +34,12 @@
 - title: "GRAPES Fall IAB Meeting"
   place: "Fayetteville, AR"
   date: "Nov. 2025"
-  note: "GRid-connected Advanced Power Electronic Systems (GRAPES) Fall IAB meeting and the MUSiC grand opening."
+  note: "GRAPES Fall IAB meeting and the MUSiC grand opening."
   photos:
     - file: /images/gallery/GRAPES_IABMeeting_2025.jpg
       caption: "GRAPES IAB meeting attendees"
+    - file: /images/gallery/GRAPES_MUSiC_Opening_2025.jpg
+      caption: "MUSiC Grand Opening"
 
 - title: "IEEE ECCE 2025"
   place: "Philadelphia, PA"
