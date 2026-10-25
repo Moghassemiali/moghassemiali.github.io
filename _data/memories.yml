@@ -11,12 +11,13 @@
 #       caption: "Short caption"           # optional
 
 - title: "Visit to G&W Electric"
+  place: "Bolingbrook, IL"
   date: "May 2026"
   photos:
     - file: /images/gallery/G&W_Visit_2026.jpeg
       caption: "Our team at G&W Electric"
 
-- title: "ELECENG 362 -- Electromechanical Energy Conversion"
+- title: "ELECENG 362 - Electromechanical Energy Conversion"
   place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
   date: "Spring 2026"
   photos:
@@ -24,7 +25,7 @@
       caption: "ELECENG 362 class, Spring '26"
 
 - title: "Visit to Eaton"
-  date: "2026"
+  date: "May 2026"
   photos:
     - file: /images/gallery/Eaton_Visit_2026.jpg
       caption: "Touring the lab at Eaton"
