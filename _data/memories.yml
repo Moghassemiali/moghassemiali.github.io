@@ -71,7 +71,7 @@
       caption: "At the symposium"
 
 - title: "RT-COOL Lab Gatherings"
-  place: "Clemson, SC"
+  place: "Clemson University, Clemson, SC"
   date: "2025"
   photos:
     - file: /images/gallery/RTCOOL_Gathering_2025_1.jpg
@@ -106,7 +106,8 @@
 
 - title: "Outstanding Graduate Researcher Award - Holcombe ECE Department"
   place: "Holcombe Department of Electrical and Computer Engineering, Clemson University, Clemson, SC"
-  date: "Apr. 2025"
+  date: "April 2025"
+  note: "Department-wide award"
   photos:
     - file: /images/gallery/Award_ECE_2025_1.jpg
       caption: "At the ECE awards ceremony"
@@ -115,9 +116,9 @@
     - file: /images/gallery/Award_ECE_2025_3.jpg
 
 - title: "Ph.D. Defense"
-  place: "Clemson University, Clemson, SC"
-  date: "Apr. 2025"
-  note: "Defended my dissertation, Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships."
+  place: "Holcombe Department of Electrical and Computer Engineering, Clemson University, Clemson, SC"
+  date: "April 2025"
+  note: "Defended my dissertation."
   photos:
     - file: /images/gallery/PhD_Defence_2025.jpg
       caption: "After my final Ph.D. defense"
