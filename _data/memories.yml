@@ -7,25 +7,111 @@
 #   date: "Oct. 2025"                      # optional
 #   note: "One or two sentences."          # optional
 #   photos:
-#     - file: /images/gallery/conferences/ECCE2025_1.jpg
+#     - file: /images/gallery/ECCE_2025_1.jpeg
 #       caption: "Short caption"           # optional
+
+- title: "Visit to G&W Electric"
+  date: "May 2026"
+  photos:
+    - file: /images/gallery/G&W_Visit_2026.jpeg
+      caption: "Our team at G&W Electric"
 
 - title: "ELECENG 362 -- Electromechanical Energy Conversion"
   place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
   date: "Spring 2026"
   photos:
-    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
+    - file: /images/gallery/ELECENG362_Spring26_2026.JPG
       caption: "ELECENG 362 class, Spring '26"
 
-# TODO: replace the placeholder photos below with the real ECCE 2025 photos.
-- title: "ECCE 2025"
+- title: "Visit to Eaton"
+  date: "2026"
+  photos:
+    - file: /images/gallery/Eaton_Visit_2026.jpg
+      caption: "Touring the lab at Eaton"
+
+- title: "GRAPES Fall IAB Meeting"
+  place: "Fayetteville, AR"
+  date: "Nov. 2025"
+  note: "GRid-connected Advanced Power Electronic Systems (GRAPES) Fall IAB meeting and the MUSiC grand opening."
+  photos:
+    - file: /images/gallery/GRAPES_IABMeeting_2025.jpg
+      caption: "GRAPES IAB meeting attendees"
+
+- title: "IEEE ECCE 2025"
   place: "Philadelphia, PA"
   date: "Oct. 2025"
-  note: "Placeholder text: add a short note about the conference here."
+  note: "2025 IEEE Energy Conversion Conference and Expo."
   photos:
-    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
-      caption: "Placeholder caption 1"
-    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
-      caption: "Placeholder caption 2"
-    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
-      caption: "Placeholder caption 3"
+    - file: /images/gallery/ECCE_2025_1.jpeg
+      caption: "At the ECCE 2025 welcome sign"
+    - file: /images/gallery/ECCE_2025_2.jpeg
+      caption: "In front of the ECCE sponsor wall"
+
+- title: "U.S. Navy Admiral Visit to UWM"
+  place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
+  date: "2025"
+  photos:
+    - file: /images/gallery/UWM_Navy_Admiral_Visit_2025_1.jpg
+      caption: "Navy visit to our lab"
+    - file: /images/gallery/UWM_Navy_Admiral_Visit_2025_2.png
+      caption: "With the team"
+
+- title: "IEEE ESTS 2025"
+  place: "Old Town Alexandria, VA"
+  date: "Aug. 2025"
+  note: "Presented two papers at the 2025 IEEE Electric Ship Technologies Symposium."
+  photos:
+    - file: /images/gallery/ESTS_2025_1.jpg
+      caption: "Presenting at ESTS 2025"
+    - file: /images/gallery/ESTS_2025_2.jpg
+      caption: "At the symposium"
+
+- title: "RT-COOL Lab Gatherings"
+  place: "Clemson, SC"
+  date: "2025"
+  photos:
+    - file: /images/gallery/RTCOOL_Gathering_2025_1.jpg
+      caption: "Dinner with the RT-COOL lab"
+    - file: /images/gallery/RTCOOL_Gathering_2025_2.jpg
+      caption: "RT-COOL lab lunch"
+
+- title: "Doctoral Hooding Ceremony"
+  place: "Clemson University, Clemson, SC"
+  date: "May 2025"
+  photos:
+    - file: /images/gallery/Doctoral_Hooding_2025_1.jpg
+      caption: "Ph.D. regalia"
+    - file: /images/gallery/Doctoral_Hooding_2025_2.jpg
+    - file: /images/gallery/Doctoral_Hooding_2025_3.jpg
+    - file: /images/gallery/Doctoral_Hooding_2025_4.jpg
+      caption: "Hooding ceremony"
+    - file: /images/gallery/Doctoral_Hooding_2025_5.jpg
+      caption: "Waiting with the graduating class"
+
+- title: "Outstanding Graduate Researcher Award -- Clemson Graduate School"
+  place: "Clemson University, Clemson, SC"
+  date: "May 2025"
+  note: "University-wide award; the first time an ECE student at Clemson has received it."
+  photos:
+    - file: /images/gallery/Award_CU_2025_1.jpeg
+      caption: "Receiving the award"
+    - file: /images/gallery/Award_CU_2025_2.jpeg
+      caption: "Graduate School award recipients"
+
+- title: "Outstanding Graduate Researcher Award -- Holcombe ECE Department"
+  place: "Clemson University, Clemson, SC"
+  date: "Apr. 2025"
+  photos:
+    - file: /images/gallery/Award_ECE_2025_1.jpg
+      caption: "At the ECE awards ceremony"
+    - file: /images/gallery/Award_ECE_2025_2.jpg
+      caption: "2025 ECE student award winners"
+    - file: /images/gallery/Award_ECE_2025_3.jpg
+
+- title: "Ph.D. Defense"
+  place: "Clemson University, Clemson, SC"
+  date: "Apr. 2025"
+  note: "Defended my dissertation, Real-Time Active Thermal Management and Degradation Forecasting of Power Electronics Building Blocks in All-Electric Ships."
+  photos:
+    - file: /images/gallery/PhD_Defence_2025.jpg
+      caption: "After my final Ph.D. defense"

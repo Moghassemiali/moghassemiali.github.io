@@ -54,6 +54,7 @@ small,
 .memory__photos {
   display: flex;
   flex-wrap: wrap;
+  align-items: flex-start;
   gap: 2.2rem 1.8rem;
   padding: 1.6rem 0.5rem 0.5rem;
 }
@@ -61,7 +62,7 @@ small,
 .memory__photo {
   --tilt: -2deg;
   position: relative;
-  flex: 0 1 280px;
+  flex: 0 1 260px;
   margin: 0;
   padding: 8px 8px 0;
   background: #fff;
@@ -103,8 +104,7 @@ small,
 .memory__photo img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  height: auto;
 }
 
 .memory__photo figcaption {
