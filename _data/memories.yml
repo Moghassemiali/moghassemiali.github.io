@@ -1,24 +1,41 @@
-# Memories shown on /memories/ (newest first).
-#
-# Each memory is one titled group with one or more photos:
-#
-# - title: "ECCE 2025"                     # required
-#   place: "Philadelphia, PA"              # optional
 #   date: "Oct. 2025"                      # optional
 #   note: "One or two sentences."          # optional
 #   photos:
 #     - file: /images/gallery/conferences/ECCE2025_1.jpg
+#     - file: /images/gallery/ECCE_2025_1.jpeg
 #       caption: "Short caption"           # optional
+
+- title: "Visit to G&W Electric"
+  date: "May 2026"
+  photos:
+    - file: /images/gallery/G&W_Visit_2026.jpeg
+      caption: "Our team at G&W Electric"
 
 - title: "ELECENG 362 -- Electromechanical Energy Conversion"
   place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
   date: "Spring 2026"
   photos:
     - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
+    - file: /images/gallery/ELECENG362_Spring26_2026.JPG
       caption: "ELECENG 362 class, Spring '26"
 
 # TODO: replace the placeholder photos below with the real ECCE 2025 photos.
 - title: "ECCE 2025"
+- title: "Visit to Eaton"
+  date: "2026"
+  photos:
+    - file: /images/gallery/Eaton_Visit_2026.jpg
+      caption: "Touring the lab at Eaton"
+
+- title: "GRAPES Fall IAB Meeting"
+  place: "Fayetteville, AR"
+  date: "Nov. 2025"
+  note: "GRid-connected Advanced Power Electronic Systems (GRAPES) Fall IAB meeting and the MUSiC grand opening."
+  photos:
+    - file: /images/gallery/GRAPES_IABMeeting_2025.jpg
+      caption: "GRAPES IAB meeting attendees"
+
+- title: "IEEE ECCE 2025"
   place: "Philadelphia, PA"
   date: "Oct. 2025"
   note: "Placeholder text: add a short note about the conference here."
@@ -29,3 +46,6 @@
       caption: "Placeholder caption 2"
     - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
       caption: "Placeholder caption 3"
+  note: "2025 IEEE Energy Conversion Conference and Expo."
+  photos:
+    - file: /images/gallery/ECCE_2025_1.jpeg
