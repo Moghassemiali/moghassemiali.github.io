@@ -18,7 +18,7 @@
       caption: "Our team at G&W Electric"
 
 - title: "ELECENG 362 - Electromechanical Energy Conversion"
-  place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
+  place: "Lubar Hall, University of Wisconsin-Milwaukee, Milwaukee, WI"
   date: "Spring 2026"
   photos:
     - file: /images/gallery/ELECENG362_Spring26_2026.JPG
@@ -33,7 +33,7 @@
 
 - title: "GRAPES Fall IAB Meeting"
   place: "Fayetteville, AR"
-  date: "Nov. 2025"
+  date: "November 2025"
   note: "GRAPES Fall IAB meeting and the MUSiC grand opening."
   photos:
     - file: /images/gallery/GRAPES_IABMeeting_2025.jpg
@@ -41,9 +41,9 @@
     - file: /images/gallery/GRAPES_MUSiC_Opening_2025.jpg
       caption: "MUSiC Grand Opening"
 
-- title: "IEEE ECCE 2025"
+- title: "IEEE ECCE Conference 2025"
   place: "Philadelphia, PA"
-  date: "Oct. 2025"
+  date: "October 2025"
   note: "2025 IEEE Energy Conversion Conference and Expo."
   photos:
     - file: /images/gallery/ECCE_2025_1.jpeg
@@ -51,9 +51,9 @@
     - file: /images/gallery/ECCE_2025_2.jpeg
       caption: "In front of the ECCE sponsor wall"
 
-- title: "U.S. Navy Admiral Visit to UWM"
-  place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
-  date: "2025"
+- title: "U.S. Navy Admiral Visit to SEES-UWM"
+  place: "Center for Sustainable Electrical Energy Systems (SEES), University of Wisconsin-Milwaukee, Milwaukee, WI"
+  date: "June 2025"
   photos:
     - file: /images/gallery/UWM_Navy_Admiral_Visit_2025_1.jpg
       caption: "Navy visit to our lab"
