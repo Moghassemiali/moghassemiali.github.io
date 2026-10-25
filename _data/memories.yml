@@ -62,8 +62,8 @@
 
 - title: "IEEE ESTS 2025"
   place: "Old Town Alexandria, VA"
-  date: "Aug. 2025"
-  note: "Presented two papers at the 2025 IEEE Electric Ship Technologies Symposium."
+  date: "August 2025"
+  note: "Presented two papers at the 2025 IEEE Electric Ship Technologies Symposium (ESTS)."
   photos:
     - file: /images/gallery/ESTS_2025_1.jpg
       caption: "Presenting at ESTS 2025"
@@ -84,13 +84,15 @@
   date: "May 2025"
   photos:
     - file: /images/gallery/Doctoral_Hooding_2025_1.jpg
-      caption: "Ph.D. regalia"
+      caption: "Graduation photo"
     - file: /images/gallery/Doctoral_Hooding_2025_2.jpg
+       caption: "Graduation photo"
     - file: /images/gallery/Doctoral_Hooding_2025_3.jpg
+       caption: "Graduation photo with Dr. Edrington"
     - file: /images/gallery/Doctoral_Hooding_2025_4.jpg
-      caption: "Hooding ceremony"
+       caption: "Hooding ceremony"
     - file: /images/gallery/Doctoral_Hooding_2025_5.jpg
-      caption: "Waiting with the graduating class"
+       caption: "Waiting with the graduating class"
 
 - title: "Outstanding Graduate Researcher Award -- Clemson Graduate School"
   place: "Clemson University, Clemson, SC"
