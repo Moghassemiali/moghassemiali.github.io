@@ -24,3 +24,137 @@ small,
 .footnote {
   font-size: 0.85rem !important;   /* ~13px */
 }
+
+/* ==========================================================================
+   MEMORIES PAGE: photos taped to the page
+   ========================================================================== */
+
+.memory {
+  margin: 2.5rem 0 3rem;
+}
+
+.memory__title {
+  margin-bottom: 0.2rem;
+  border-bottom: 1px solid var(--global-border-color);
+  padding-bottom: 0.3rem;
+}
+
+.memory__meta {
+  margin: 0 0 0.4rem;
+  color: var(--global-text-color);
+  opacity: 0.7;
+  font-size: 0.9rem !important;
+  font-style: italic;
+}
+
+.memory__note {
+  margin: 0 0 0.5rem;
+}
+
+.memory__photos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.2rem 1.8rem;
+  padding: 1.6rem 0.5rem 0.5rem;
+}
+
+.memory__photo {
+  --tilt: -2deg;
+  position: relative;
+  flex: 0 1 280px;
+  margin: 0;
+  padding: 8px 8px 0;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 8px 18px rgba(0, 0, 0, 0.12);
+  transform: rotate(var(--tilt));
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Slightly different tilt for each photo so they look hand-placed */
+.memory__photo:nth-child(4n+2) { --tilt: 1.6deg; }
+.memory__photo:nth-child(4n+3) { --tilt: -0.8deg; }
+.memory__photo:nth-child(4n+4) { --tilt: 2.2deg; }
+
+/* The tape strip */
+.memory__photo::before {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  width: 84px;
+  height: 24px;
+  transform: translateX(-50%) rotate(calc(var(--tilt) * -1.5));
+  background: rgba(205, 170, 120, 0.72);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  z-index: 1;
+}
+
+.memory__photo:hover {
+  transform: rotate(0deg) scale(1.03);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15), 0 14px 28px rgba(0, 0, 0, 0.18);
+  z-index: 2;
+}
+
+.memory__link {
+  display: block;
+  cursor: zoom-in;
+}
+
+.memory__photo img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.memory__photo figcaption {
+  padding: 0.45rem 0.2rem 0.55rem;
+  color: #555;
+  font-family: inherit;
+  font-size: 0.82rem !important;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.memory__photo:not(:has(figcaption)) {
+  padding-bottom: 8px;
+}
+
+@media (max-width: 600px) {
+  .memory__photo { flex-basis: 100%; }
+}
+
+html[data-theme="dark"] .memory__photo {
+  background: #e9e6df;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4), 0 8px 18px rgba(0, 0, 0, 0.4);
+}
+
+/* Click-to-enlarge view */
+.memory-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.85);
+  cursor: zoom-out;
+}
+
+.memory-lightbox[hidden] {
+  display: none;
+}
+
+.memory-lightbox img {
+  max-width: 100%;
+  max-height: 85vh;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.memory-lightbox__caption {
+  margin-top: 0.8rem;
+  color: #eee;
+  text-align: center;
+}

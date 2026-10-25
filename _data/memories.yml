@@ -1,8 +1,31 @@
+# Memories shown on /memories/ (newest first).
+#
+# Each memory is one titled group with one or more photos:
+#
+# - title: "ECCE 2025"                     # required
+#   place: "Philadelphia, PA"              # optional
+#   date: "Oct. 2025"                      # optional
+#   note: "One or two sentences."          # optional
+#   photos:
+#     - file: /images/gallery/conferences/ECCE2025_1.jpg
+#       caption: "Short caption"           # optional
+
+- title: "ELECENG 362 -- Electromechanical Energy Conversion"
+  place: "University of Wisconsin-Milwaukee, Milwaukee, WI"
+  date: "Spring 2026"
+  photos:
+    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
+      caption: "ELECENG 362 class, Spring '26"
+
+# TODO: replace the placeholder photos below with the real ECCE 2025 photos.
 - title: "ECCE 2025"
   place: "Philadelphia, PA"
   date: "Oct. 2025"
-  note: "Presented our paper on ..."
+  note: "Placeholder text: add a short note about the conference here."
   photos:
-    - file: /images/gallery/conferences/ECCE2025_1.jpg
-      caption: "With my students"
-    - file: /images/gallery/conferences/ECCE2025_2.jpg
+    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
+      caption: "Placeholder caption 1"
+    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
+      caption: "Placeholder caption 2"
+    - file: /images/gallery/classes/ELECENG362_Spring2026.JPG
+      caption: "Placeholder caption 3"

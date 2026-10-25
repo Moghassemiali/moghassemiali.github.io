@@ -1,0 +1,55 @@
+---
+layout: archive
+title: "Memories"
+permalink: /memories/
+author_profile: true
+---
+
+{% comment %} Memories are listed in _data/memories.yml {% endcomment %}
+
+{% for memory in site.data.memories %}
+<section class="memory">
+  <h2 class="memory__title">{{ memory.title }}</h2>
+  {% if memory.place or memory.date %}
+  <p class="memory__meta">{{ memory.place }}{% if memory.place and memory.date %} &middot; {% endif %}{{ memory.date }}</p>
+  {% endif %}
+  {% if memory.note %}<p class="memory__note">{{ memory.note }}</p>{% endif %}
+  <div class="memory__photos">
+    {% for photo in memory.photos %}
+    <figure class="memory__photo">
+      <a href="{{ photo.file | relative_url }}" class="memory__link">
+        <img src="{{ photo.file | relative_url }}" alt="{{ photo.caption | default: memory.title }}" loading="lazy">
+      </a>
+      {% if photo.caption %}<figcaption>{{ photo.caption }}</figcaption>{% endif %}
+    </figure>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+<div class="memory-lightbox" hidden>
+  <img alt="">
+  <p class="memory-lightbox__caption"></p>
+</div>
+
+<script>
+  (function () {
+    var box = document.querySelector('.memory-lightbox');
+    document.body.appendChild(box);
+    var img = box.querySelector('img');
+    var cap = box.querySelector('.memory-lightbox__caption');
+    document.querySelectorAll('.memory__link').forEach(function (link) {
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+        var fig = link.closest('figure').querySelector('figcaption');
+        img.src = link.href;
+        cap.textContent = fig ? fig.textContent : '';
+        box.hidden = false;
+      });
+    });
+    box.addEventListener('click', function () { box.hidden = true; });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') box.hidden = true;
+    });
+  })();
+</script>
