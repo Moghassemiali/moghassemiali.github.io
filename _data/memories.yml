@@ -84,15 +84,15 @@
   date: "May 2025"
   photos:
     - file: /images/gallery/Doctoral_Hooding_2025_2.jpg
-       caption: "Graduation photo"
+      caption: "Graduation photo"
     - file: /images/gallery/Doctoral_Hooding_2025_3.jpg
-       caption: "Graduation photo with Dr. Edrington"
+      caption: "Graduation photo with Dr. Edrington"
     - file: /images/gallery/Doctoral_Hooding_2025_5.jpg
-       caption: "Waiting with the graduating class"
+      caption: "Waiting with the graduating class"
     - file: /images/gallery/Doctoral_Hooding_2025_1.jpg
-       caption: "Graduation photo"
+      caption: "Graduation photo"
     - file: /images/gallery/Doctoral_Hooding_2025_4.jpg
-       caption: "Hooding ceremony"
+      caption: "Hooding ceremony"
 
 - title: "Outstanding Graduate Researcher Award - Clemson Graduate School"
   place: "Clyde V. Madren Center’s Owen Pavilion, Clemson University, Clemson, SC"
