@@ -10,6 +10,13 @@
 #     - file: /images/gallery/ECCE_2025_1.jpeg
 #       caption: "Short caption"           # optional
 
+- title: "UWM Employee Excellence Awards Ceremony"
+  place: "UWM Student Union Ballroom, Milwaukee, WI"
+  date: "October 2026"
+  photos:
+    - file: /images/gallery/UWM_Award_2026.jpg
+      caption: "Dr. Cuzner received the Senior Faculty Award"
+
 - title: "Visit to G&W Electric"
   place: "Bolingbrook, IL"
   date: "May 2026"
