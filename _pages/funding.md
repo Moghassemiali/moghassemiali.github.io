@@ -5,6 +5,12 @@ author_profile: true
 ---
 ------
 
+- Power Quality Assessment of Power Systems with Large Penetration of IBRs
+  - Robert Cuzner (PI), Yong-June Shin (Co-PI), Ali Moghassemi (Co-PI)
+  - Funded by the National Science Foundation (NSF) - GRid-connected Advanced Power Electronic Systems (GRAPES)
+  - Jan. 2027 - Dec. 2027
+  - Total award: $95,000
+
 - System-Level Multi-Objective Optimization for NPES Linking Equipment Technology and Connection Variables
   - Ali Moghassemi (PI), Robert Cuzner (Co-PI)
   - Funded by the Office of Naval Research (ONR) - Electric Ship Research and Development Consortium (ESRDC)
