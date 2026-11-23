@@ -5,6 +5,10 @@ author_profile: true
 ---
 ------
 
+- **[November 13, 2026]** Received funding (second year) from the National Science Foundation (NSF) through the  GRid-connected Advanced Power Electronic Systems (GRAPES) for *Power Quality Assessment of Power Systems with Large Penetration of IBRs*.
+
+- **[November 12-13, 2026]** Attended the 2026 GRid-connected Advanced Power Electronic Systems (GRAPES) Fall IAB meeting in Fayetteville, AR.
+
 - **[September 3, 2026]** Received the Typhoon HiL Best Paper Award – United States 2026 for our paper entitled *A Real-time Prognostic-Based Control Framework for Hybrid Electric Vehicles*.
 
 - **[September 1, 2026]** Received funding from the Office of Naval Research (ONR) through the Electric Ship Research and Development Consortium (ESRDC) for *System Level Multi-Objective Optimization for NPES Linking Equipment Technology and Connection Variables*.
@@ -17,7 +21,7 @@ author_profile: true
 
 - **[May 22, 2026]** All three of our digests got accepted for publication at the 2026 IEEE Energy Conversion Conference and Expo (ECCE), Vancouver, BC, Canada.
 
-- **[November 13-14, 2025]** Attended the GRid-connected Advanced Power Electronic Systems (GRAPES) Fall IAB meeting and the National Multi-User Silicon Carbide Research Fab (MUSiC) grand opening in Fayetteville, AR.
+- **[November 13-14, 2025]** Attended the 2025 GRid-connected Advanced Power Electronic Systems (GRAPES) Fall IAB meeting and the National Multi-User Silicon Carbide Research Fab (MUSiC) grand opening in Fayetteville, AR.
 
 - **[October 19-21, 2025]** Attended the 2025 IEEE Energy Conversion Conference and Expo (ECCE) in Philadelphia, PA.
 
