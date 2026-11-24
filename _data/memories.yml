@@ -10,6 +10,14 @@
 #     - file: /images/gallery/ECCE_2025_1.jpeg
 #       caption: "Short caption"           # optional
 
+- title: "GRAPES Fall IAB Meeting"
+  place: "Fayetteville, AR"
+  date: "November 2026"
+  note: "GRAPES Fall IAB meeting."
+  photos:
+    - file: /images/gallery/GRAPES_IABMeeting_2026.jpg
+      caption: "GRAPES IAB meeting attendees"
+ 
 - title: "UWM Employee Excellence Awards Ceremony"
   place: "UWM Student Union Ballroom, Milwaukee, WI"
   date: "October 2026"
